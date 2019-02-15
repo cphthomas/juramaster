@@ -10,8 +10,5 @@
   "license": "ISC",
   "devDependencies": {
     "gitbook-cli": "^2.3.0"
-  },
-  "dependencies": {
-    "gitbook-plugin-ar-intopic-toc": "0.0.61"
   }
 }
