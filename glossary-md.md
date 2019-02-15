@@ -1,5 +1,5 @@
 ---
-title: GLOSSARY.md
+title: GLOSSARY
 ---
 ## Freestat
 Gratis Excel statistik skabelon
