@@ -1,8 +1,6 @@
 ---
 title: Aftaleloven
 ---
-# Aftaleloven
-
 LBK nr 193 af 02/03/2016 (Gældende)  
 Ministerium: Justitsministeriet Journalnummer: Justitsmin., j.nr. 2016-7002-0091  
 Udskriftsdato: 14. februar 2019  
@@ -32,7 +30,7 @@ Stk. 2. Dette gælder dog ikke, når afsenderen af svaret går ud fra, at det 
 
 § 7. Tilbud eller svar, som tilbagekaldes, er bortfaldet, såfremt tilbagekaldelsen kommer frem til den anden part forinden eller samtidigt med, at tilbudet eller svaret kommer til hans kundskab.  
 
-§ 8. Har tilbudsgiveren erklæret, at han vil anse den anden parts tavshed for antagelse af tilbudet, eller fremgår det i øvrigt af forholdet, at han ikke venter udtrykkeligt svar, er den anden part alligevel pligtig til, såfremt han vil antage tilbudet, på forespørgsel at afgive erklæring derom. Undlader han dette er tilbudet bortfaldet.  
+§ 8. Har tilbudsgiveren erklæret, at han vil anse den anden parts tavshed for antagelse af tilbuddet, eller fremgår det i øvrigt af forholdet, at han ikke venter udtrykkeligt svar, er den anden part alligevel pligtig til, såfremt han vil antage tilbuddet, på forespørgsel at afgive erklæring derom. Undlader han dette er tilbuddet bortfaldet.  
 
 § 9. Har nogen i henvendelse, som ellers ville være at anse som tilbud, anvendt ordene »uden forbindtlighed«, »uden obligo« eller lignende udtryk, anses henvendelsen alene som opfordring til at gøre tilbud i overensstemmelse med dens indhold. Fremkommer sådant tilbud inden rimelig tid fra nogen, som henvendelsen er rettet til, og må modtageren gå ud fra, at det er fremkaldt ved henvendelsen, skal han uden ugrundet ophold give tilbudsgiveren meddelelse, hvis han ikke vil antage det. Undlader han dette, anses tilbuddet for antaget.
 § 9 a. §§ 1-9 finder ikke anvendelse på afslutning af aftaler om løsørekøb, der er omfattet af den internationale købelov.  
