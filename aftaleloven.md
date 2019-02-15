@@ -14,12 +14,12 @@ Herved bekendtgøres lov om aftaler og andre retshandler på formuerettens omra
 
 ### I. Om afslutning af aftaler  
 § 1. Tilbud og svar på tilbud er bindende for afgiveren. Reglerne i §§ 2-9 kommer til anvendelse, for så
-vidt ikke andet følger af tilbudet eller svaret eller af handelsbrug eller anden sædvane.  
+vidt ikke andet følger af tilbuddet eller svaret eller af handelsbrug eller anden sædvane.  
 
-§ 2. Har tilbudsgiveren fastsat en frist for antagelse af tilbudet, må antagende svar være kommet frem til ham inden fristens udløb.  
-Stk. 2. Fristen regnes, hvis tilbudet er gjort i brev, fra den dag, brevet er dateret, og hvis det er gjort i telegram fra den tid på dagen, da telegrammet er indleveret til afsendelsesstedets telegrafstation.  
+§ 2. Har tilbudsgiveren fastsat en frist for antagelse af tilbuddet, må antagende svar være kommet frem til ham inden fristens udløb.  
+Stk. 2. Fristen regnes, hvis tilbuddet er gjort i brev, fra den dag, brevet er dateret, og hvis det er gjort i telegram fra den tid på dagen, da telegrammet er indleveret til afsendelsesstedets telegrafstation.  
 
-§ 3. Gøres tilbud i brev eller telegram, uden at der fastsættes nogen frist for antagelse, må antagende svar være kommet frem til tilbudsgiveren inden udløbet af det tidsrum, som ved tilbudets afgivelse af ham kunne påregnes at ville medgå. Ved beregningen af dette tidsrum forudsættes, når ikke andet følger af omstændighederne, at tilbudet kommer frem i rette tid, samt at svaret afsendes uden ophold, efter at den, til hvem tilbudet er rettet, har haft rimelig betænkningstid, og at det ikke forsinkes undervejs. Er tilbudet gjort i telegram, skal antagelsen sendes telegrafisk, hvis den ikke på anden måde kommer lige så tidligt frem.  
+§ 3. Gøres tilbud i brev eller telegram, uden at der fastsættes nogen frist for antagelse, må antagende svar være kommet frem til tilbudsgiveren inden udløbet af det tidsrum, som ved tilbuddets afgivelse af ham kunne påregnes at ville medgå. Ved beregningen af dette tidsrum forudsættes, når ikke andet følger af omstændighederne, at tilbuddet kommer frem i rette tid, samt at svaret afsendes uden ophold, efter at den, til hvem tilbuddet er rettet, har haft rimelig betænkningstid, og at det ikke forsinkes undervejs. Er tilbuddet gjort i telegram, skal antagelsen sendes telegrafisk, hvis den ikke på anden måde kommer lige så tidligt frem.  
 Stk. 2. Tilbud, som fremsættes mundtlig uden at give frist for antagelse, må antages straks.  
 
 § 4. Kommer antagende svar for sent frem, anses det som nyt tilbud.  
@@ -27,12 +27,12 @@ Stk. 2. Dette gælder dog ikke, hvis afsenderen af svaret går ud fra, at det e
 
 § 5. Afslås tilbud, er det bortfaldet, selv om fristen for svar endnu ikke er udløbet.  
 
-§ 6. Svar, som går ud på, at tilbud antages, men som på grund af tillæg, indskrænkninger eller forbehold ikke stemmer med tilbudet, anses som afslag i forbindelse med nyt tilbud.  
-Stk. 2. Dette gælder dog ikke, når afsenderen af svaret går ud fra, at det er overensstemmende med tilbudet, og tilbudsgiveren må indse dette. I så fald skal denne, hvis han ikke vil godkende svaret, uden ugrundet ophold give meddelelse derom. Undlader han dette, anses aftale for sluttet med det indhold, svaret har.  
+§ 6. Svar, som går ud på, at tilbud antages, men som på grund af tillæg, indskrænkninger eller forbehold ikke stemmer med tilbuddet, anses som afslag i forbindelse med nyt tilbud.  
+Stk. 2. Dette gælder dog ikke, når afsenderen af svaret går ud fra, at det er overensstemmende med tilbuddet, og tilbudsgiveren må indse dette. I så fald skal denne, hvis han ikke vil godkende svaret, uden ugrundet ophold give meddelelse derom. Undlader han dette, anses aftale for sluttet med det indhold, svaret har.  
 
-§ 7. Tilbud eller svar, som tilbagekaldes, er bortfaldet, såfremt tilbagekaldelsen kommer frem til den anden part forinden eller samtidigt med, at tilbudet eller svaret kommer til hans kundskab.  
+§ 7. Tilbud eller svar, som tilbagekaldes, er bortfaldet, såfremt tilbagekaldelsen kommer frem til den anden part forinden eller samtidigt med, at tilbuddet eller svaret kommer til hans kundskab.  
 
-§ 8. Har tilbudsgiveren erklæret, at han vil anse den anden parts tavshed for antagelse af tilbudet, eller fremgår det i øvrigt af forholdet, at han ikke venter udtrykkeligt svar, er den anden part alligevel pligtig til, såfremt han vil antage tilbudet, på forespørgsel at afgive erklæring derom. Undlader han dette er tilbudet bortfaldet.  
+§ 8. Har tilbudsgiveren erklæret, at han vil anse den anden parts tavshed for antagelse af tilbuddet, eller fremgår det i øvrigt af forholdet, at han ikke venter udtrykkeligt svar, er den anden part alligevel pligtig til, såfremt han vil antage tilbuddet, på forespørgsel at afgive erklæring derom. Undlader han dette er tilbuddet bortfaldet.  
 
 § 9. Har nogen i henvendelse, som ellers ville være at anse som tilbud, anvendt ordene »uden forbindtlighed«, »uden obligo« eller lignende udtryk, anses henvendelsen alene som opfordring til at gøre tilbud i overensstemmelse med dens indhold. Fremkommer sådant tilbud inden rimelig tid fra nogen, som henvendelsen er rettet til, og må modtageren gå ud fra, at det er fremkaldt ved henvendelsen, skal han uden ugrundet ophold give tilbudsgiveren meddelelse, hvis han ikke vil antage det. Undlader han dette, anses tilbuddet for antaget.
 § 9 a. §§ 1-9 finder ikke anvendelse på afslutning af aftaler om løsørekøb, der er omfattet af den internationale købelov.  

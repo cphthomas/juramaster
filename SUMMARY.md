@@ -13,7 +13,7 @@ Erhvervs- og finansjura
 
 ### Lovsamling
 * [Aftaleloven](aftaleloven.md)
-* [3 Fuldmagter og mellemmænd](https://www.tepedu.dk)
+* [www.tepedu.dk](https://www.tepedu.dk)
 * [I'm an inline-style link](https://www.google.com)
 
 
