@@ -3,7 +3,7 @@ Erhvervs- og finansjura
 ---
 ---
 
-### Part I
+### Kapitler
 
 * [Introduktion](README.md)
 * [1 Retskilder, retssystemet og juridisk metode](1-retskilder-retssystemet-og-juridisk-metode.md)
@@ -11,9 +11,14 @@ Erhvervs- og finansjura
 
 ---
 
-### Part II
+### Love
 
 * [3 Fuldmagter og mellemmænd](3-fuldmagter-og-mellemmænd.md)
 * [4 Forbrugeraftaler](4-forbrugeraftaler.md)
+
+---
+
+### Materialer
+
 
 ---
