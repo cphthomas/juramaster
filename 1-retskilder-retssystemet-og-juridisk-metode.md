@@ -11,6 +11,14 @@ title: '1 Retskilder, retssystemet og juridisk metode'
 
 ## [Anker 2](#anker2)
 
+
+Take me to [pookie](#pookie)
+should be the correct markdown syntax to jump to the anchor point named pookie.
+
+To insert an anchor point of that name use HTML:
+
+
+
 ## Dette afsnit handler om juridisk metode
 
 Skrevet i sublime
@@ -54,3 +62,5 @@ XHTML allows for any tag to be 'empty' and 'self-closed'. That is, <tag /> is sh
 
 
 Anker 2 <a name="anker2"></a>
+
+<a name="pookie"></a>
