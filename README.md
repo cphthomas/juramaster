@@ -1,6 +1,3 @@
----
-title: README
----
 # Indhold
 
 Edit online
