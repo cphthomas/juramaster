@@ -18,6 +18,34 @@ should be the correct markdown syntax to jump to the anchor point named pookie.
 To insert an anchor point of that name use HTML:
 
 
+# Table of Contents
+  * [Chapter 1](#chapter-1)
+  * [Chapter 2](#chapter-2)
+  * [Chapter 3](#chapter-3)
+will jump to these sections:
+[Chapter 1](#chapter-1)
+[Chapter 2](#chapter-2)
+[Chapter 3](#chapter-3)
+
+
+should be the correct markdown syntax to jump to the anchor point named pookie.
+
+To insert an anchor point of that name use HTML:should be the correct markdown syntax to jump to the anchor point named pookie.
+
+To insert an anchor point of that name use HTML:should be the correct markdown syntax to jump to the anchor point named pookie.
+
+To insert an anchor point of that name use HTML:  
+
+## Chapter 1 <a name="chapter-1"></a>
+Content for chapter one.
+
+## Chapter 2 <a name="chapter-2"></a>
+Content for chapter one.
+
+## Chapter 3 <a name="chapter-3"></a>
+Content for chapter one.
+
+
 
 ## Dette afsnit handler om juridisk metode
 
