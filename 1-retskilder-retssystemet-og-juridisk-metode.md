@@ -22,14 +22,15 @@ To insert an anchor point of that name use HTML:
   * [Chapter 1](#chapter-1)
   * [Chapter 2](#chapter-2)
   * [Chapter 3](#chapter-3)
-will jump to these sections:
-[Chapter 1](#chapter-1)
+will jump to these sections:  
+
+[Chapter 1](#chapter-1)  
 [Chapter 2](#chapter-2)
 [Chapter 3](#chapter-3)
 
 
 should be the correct markdown syntax to jump to the anchor point named pookie.
-
+[til anker](/1-retskilder-retssystemet-og-juridisk-metode.html#anker1)
 To insert an anchor point of that name use HTML:should be the correct markdown syntax to jump to the anchor point named pookie.
 
 To insert an anchor point of that name use HTML:should be the correct markdown syntax to jump to the anchor point named pookie.
@@ -44,6 +45,8 @@ Content for chapter one.
 
 ## Chapter 3 <a name="chapter-3"></a>
 Content for chapter one.
+
+[til anker](/1-retskilder-retssystemet-og-juridisk-metode.html#anker1)
 
 
 
