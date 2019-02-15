@@ -1,7 +1,4 @@
----
-title: SUMMARY.md
----
-# Summary
+# Indhold
 
 * [Introduction](README.md)
 * [1 Retskilder, retssystemet og juridisk metode](1-retskilder-retssystemet-og-juridisk-metode.md)
