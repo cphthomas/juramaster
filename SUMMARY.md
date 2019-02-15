@@ -1,7 +1,6 @@
 ---
-Erhvervs- og finansjura
+title: Indhold
 ---
-
 # Indhold
 
 * [Introduction](README.md)
