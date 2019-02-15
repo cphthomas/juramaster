@@ -1,8 +1,6 @@
 ---
 title: Aftaleloven
 ---
-# Aftaleloven
-
 LBK nr 193 af 02/03/2016 (Gældende)  
 Ministerium: Justitsministeriet Journalnummer: Justitsmin., j.nr. 2016-7002-0091  
 Udskriftsdato: 14. februar 2019  
