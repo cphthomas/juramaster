@@ -20,7 +20,6 @@ LBK nr 1805 af 12/12/
 LOV nr 1520 af 18/12/
 ```
 
-
 ```
 VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:  
 Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
@@ -47,10 +46,8 @@ _Stk. 7._ Erhvervsministeren kan dispensere helt eller delvist fra lovens §§ 2
 121 og 125, der dermed ikke finder anvendelse på en bestemt tjeneste eller bestemte typer af tjenester.
 Erhvervsministeren kan endvidere fastsætte supplerende regler for bestemte typer af tjenester.  
 
-**§ 2.** Elektroniske penge må kun udstedes her i landet af virksomheder, der har tilladelse som e-pengein‐
-stitut efter § 8, eller af pengeinstitutter, Danmarks Nationalbank og offentlige myndigheder, jf. dog stk. 2.  
-_Stk. 2._ Elektroniske penge kan endvidere udstedes her i landet af virksomheder med en begrænset tilla‐
-delse til at udstede elektroniske penge, jf. § 50.
+**§ 2.** Elektroniske penge må kun udstedes her i landet af virksomheder, der har tilladelse som e-pengeinstitut efter § 8, eller af pengeinstitutter, Danmarks Nationalbank og offentlige myndigheder, jf. dog stk. 2.  
+_Stk. 2._ Elektroniske penge kan endvidere udstedes her i landet af virksomheder med en begrænset tilladelse til at udstede elektroniske penge, jf. § 50.
 
 **§ 3.** Betalingstjenester må kun udbydes her i landet af virksomheder, der har tilladelse som betalingsinstitut eller e-pengeinstitut efter §§ 8 og 9, eller af pengeinstitutter, Danmarks Nationalbank og offentlige
 myndigheder, jf. dog stk. 2.
@@ -69,80 +66,64 @@ som Unionen har indgået aftale med på det finansielle område, uanset hvilken 
 
 **§ 5.** Loven finder ikke anvendelse på følgende aktiviteter m.v.:
 1) Betalingstransaktioner, der udelukkende består i betaling med kontanter direkte fra en betaler til en
-betalingsmodtager, jf. dog § 81.
-2) Betalingstransaktioner fra en betaler til en betalingsmodtager gennem en handelsagent, som har fuld‐
-magt fra betaleren eller betalingsmodtageren til at forhandle eller afslutte salg eller køb af varer eller
-tjenesteydelser på vegne af enten betaleren eller betalingsmodtageren.
-3) Erhvervsmæssig fysisk pengetransport.
-4) Betalingstransaktioner, der indebærer ikkeerhvervsmæssig indsamling og levering af kontanter inden
-for rammerne af almennyttig virksomhed.
+betalingsmodtager, jf. dog § 81.  
+2) Betalingstransaktioner fra en betaler til en betalingsmodtager gennem en handelsagent, som har fuldmagt fra betaleren eller betalingsmodtageren til at forhandle eller afslutte salg eller køb af varer eller
+tjenesteydelser på vegne af enten betaleren eller betalingsmodtageren.  
+3) Erhvervsmæssig fysisk pengetransport.  
+4) Betalingstransaktioner, der indebærer ikkeerhvervsmæssig indsamling og levering af kontanter inden for rammerne af almennyttig virksomhed.  
 5) Tjenesteydelser, hvor en betalingsmodtager efter udtrykkelig anmodning fra en betaler foretager en
 kontant udbetaling til denne i umiddelbar forbindelse med gennemførelsen af en betalingstransaktion
-vedrørende køb af varer eller tjenesteydelser.
-6) Veksling af kontanter, uden at midlerne indestår på en betalingskonto.
-7) Betalingstransaktioner, der er baseret på papirbaserede check, veksler, værdikuponer, postanvisnin‐
-ger eller rejsecheck.
+vedrørende køb af varer eller tjenesteydelser.  
+6) Veksling af kontanter, uden at midlerne indestår på en betalingskonto.  
+7) Betalingstransaktioner, der er baseret på papirbaserede check, veksler, værdikuponer, postanvisninger eller rejsecheck.  
 8) Betalingstransaktioner, der gennemføres inden for rammerne af et system til afvikling af betalinger
-eller værdipapirer mellem afviklingsagenter, centrale modparter, clearinginstitutter, centralbanker el‐
-ler andre deltagere i systemet og udbydere af betalingstjenester, jf. dog § 64.
+eller værdipapirer mellem afviklingsagenter, centrale modparter, clearinginstitutter, centralbanker eller andre deltagere i systemet og udbydere af betalingstjenester, jf. dog § 64.  
 9) Betalingstransaktioner vedrørende formueforvaltning i forbindelse med værdipapirer, herunder ud‐
-bytter, indkomster eller andre udlodninger, indfrielse eller salg, der foretages af de i nr. 8 omhandle‐
-de juridiske personer eller af fondsmæglere, pengeinstitutter eller realkreditinstitutter, institutter for
+bytter, indkomster eller andre udlodninger, indfrielse eller salg, der foretages af de i nr. 8 omhandlede juridiske personer eller af fondsmæglere, pengeinstitutter eller realkreditinstitutter, institutter for
 kollektiv investering i værdipapirer eller administrationsselskaber, som udfører investeringsservice,
-eller andre enheder, der har tilladelse til at have finansielle instrumenter i depot.
+eller andre enheder, der har tilladelse til at have finansielle instrumenter i depot.  
 10) Tjenester leveret af en udbyder af tekniske tjenester, der understøtter udbuddet af betalingstjenester,
 såfremt udbyderen ikke på noget tidspunkt er i besiddelse af de midler, som skal overføres, og der
-ikke er tale om tjenester omfattet af bilag 1, nr. 7 og 8, jf. dog § 122.
-
-
+ikke er tale om tjenester omfattet af bilag 1, nr. 7 og 8, jf. dog § 122.  
 11) Betalingstransaktioner for egen regning mellem en udbyder af betalingstjenester og dennes agenter
-eller filialer.
+eller filialer.  
 12) Betalingstransaktioner og dertil knyttede tjenesteydelser mellem en modervirksomhed og dennes
-dattervirksomheder eller mellem dattervirksomheder af samme modervirksomhed, såfremt den ud‐
-byder af betalingstjenester, der forestår transaktionen, er en virksomhed inden for samme koncern.
-13) Tjenester, der vedrører hævning af kontanter i pengeautomater på vegne af en eller flere kortudstede‐
-re, såfremt udbyderen ikke er part i den rammeaftale, der er indgået med kunden om hævning af
-kontanter fra en betalingskonto, og udbyderen ikke foretager andre af de i bilag 1 anførte betalings‐
-tjenester, jf. dog §§ 67, 68, 70, 71 og 117.
+dattervirksomheder eller mellem dattervirksomheder af samme modervirksomhed, såfremt den udbyder af betalingstjenester, der forestår transaktionen, er en virksomhed inden for samme koncern.  
+13) Tjenester, der vedrører hævning af kontanter i pengeautomater på vegne af en eller flere kortudstedere, såfremt udbyderen ikke er part i den rammeaftale, der er indgået med kunden om hævning af
+kontanter fra en betalingskonto, og udbyderen ikke foretager andre af de i bilag 1 anførte betalingstjenester, jf. dog §§ 67, 68, 70, 71 og 117.
 14) Betalingsinstrumenter, der kun kan anvendes til at erhverve varer og tjenester hos udbyderen selv,
-eller hos et begrænset netværk af udbydere under en forretningsaftale direkte med udstederen af be‐
-talingsinstrumentet, jf. dog § 61 og kapitel 5-7.
-15) Betalingsinstrumenter, der kun kan anvendes til at erhverve et meget begrænset antal varer og tjene‐
-steydelser, jf. dog § 61 og kapitel 5-7.
+eller hos et begrænset netværk af udbydere under en forretningsaftale direkte med udstederen af betalingsinstrumentet, jf. dog § 61 og kapitel 5-7.  
+15) Betalingsinstrumenter, der kun kan anvendes til at erhverve et meget begrænset antal varer og tjenesteydelser, jf. dog § 61 og kapitel 5-7.  
 16) Betalingsinstrumenter med specifikke sociale eller skattemæssige formål, der er reguleret af en offentlig myndighed og alene kan anvendes her i landet til at erhverve bestemte varer eller tjeneste‐
-ydelser fra leverandører, der har en forretningsaftale med udstederen, jf. dog § 61 og kapitel 5-7.
+ydelser fra leverandører, der har en forretningsaftale med udstederen, jf. dog § 61 og kapitel 5-7.  
 17) Betalingstransaktioner, der gennemføres af en udbyder af elektroniske kommunikationsnet eller
 kommunikationstjenester på vegne af en abonnent i tillæg til kommunikationstjenesten, jf. dog § 62,
-såfremt transaktionen
+såfremt transaktionen  
 a) opkræves over den til abonnementet tilknyttede regning,
-b) anvendes til donation til almennyttig virksomhed, køb af billetter eller køb af digitalt indhold og
-stemmebaserede tjenester og
-c) ikke overstiger en værdi svarende til 50 euro eller den samlede værdi af transaktioner for en enkelt abonnent ikke overstiger en værdi svarende til 300 euro pr. måned.
+b) anvendes til donation til almennyttig virksomhed, køb af billetter eller køb af digitalt indhold og stemmebaserede tjenester og
+c) ikke overstiger en værdi svarende til 50 euro eller den samlede værdi af transaktioner for en enkelt abonnent ikke overstiger en værdi svarende til 300 euro pr. måned.  
 18) Elektroniske penge på op til 3.000 kr. lagret på et instrument med begrænset anvendelse, hvor der
 ikke kan ske genopfyldning, og hvor udstederens samlede forpligtelser hidrørende fra udestående
 elektroniske penge på intet tidspunkt overstiger et beløb, der modsvarer værdien af 5 mio. euro, jf.
 dog § 96.  
 
-**§ 6.** Loven kan ikke fraviges til skade for indehavere af elektroniske penge eller brugere af betalingstjenester, jf. dog stk. 2 og 3 og §§ 79 og 116.
+**§ 6.** Loven kan ikke fraviges til skade for indehavere af elektroniske penge eller brugere af betalingstjenester, jf. dog stk. 2 og 3 og §§ 79 og 116.  
 _Stk. 2._ En udsteder af elektroniske penge kan aftale med en indehaver, der ikke er en forbruger, at § 96
-ikke skal finde anvendelse.
+ikke skal finde anvendelse.  
 _Stk. 3._ En udbyder af betalingstjenester kan aftale med en bruger, der ikke er en forbruger, at kapitel 5
-og § 80, § 82, stk. 3, og §§ 97, 98, 100-102, 104, 111, 117-119 og 125 ikke skal finde anvendelse.
+og § 80, § 82, stk. 3, og §§ 97, 98, 100-102, 104, 111, 117-119 og 125 ikke skal finde anvendelse.  
 _Stk. 4._ §§ 113 og 114 kan fraviges i alle kundeforhold bortset fra:
 1) Betalingstransaktioner i euro, hvor der ikke sker valutaomregning.
 2) Betalingstransaktioner i danske kroner i Danmark.
 3) Betalingstransaktioner, hvor der kun sker valutaomregning mellem euro og danske kroner i Danmark,
-og i tilfælde af grænseoverskridende betalingstransaktioner, når betalingstransaktionen foretages i eu‐
-ro.
+og i tilfælde af grænseoverskridende betalingstransaktioner, når betalingstransaktionen foretages i euro.  
 _Stk. 5._ For betalingstransaktioner, der gennemføres i lande inden for Den Europæiske Union eller i et
 land, som Unionen har indgået aftale med på det finansielle område, må den frist, der er fastsat i § 113,
-stk. 1, uanset stk. 4 ikke overstige 4 arbejdsdage efter modtagelsestidspunktet, jf. § 109.
+stk. 1, uanset stk. 4 ikke overstige 4 arbejdsdage efter modtagelsestidspunktet, jf. § 109.  
 
 _Definitioner_  
 **§ 7.** I denne lov forstås ved:
-1) Betalingstjeneste: En tjenesteydelse omfattet af bilag 1.
-
-
+1) Betalingstjeneste: En tjenesteydelse omfattet af bilag 1.  
 2) Betalingsinstitut: En juridisk person, der er meddelt tilladelse til at udbyde betalingstjenester, jf. § 9,
 og institutter, der er meddelt tilladelse i et andet EU- eller EØS-land.
 3) E-pengeinstitut: En juridisk person, der er meddelt tilladelse til at udstede elektroniske penge, jf. § 8,
@@ -150,19 +131,15 @@ og institutter, der er meddelt tilladelse i et andet EU- eller EØS-land.
 4) Betalingstransaktion: En handling, der iværksættes af en betaler eller på vegne af denne eller af en
 betalingsmodtager med henblik på at indbetale, overføre eller hæve midler uden hensyn til eventuel‐
 le underliggende forpligtelser mellem betaleren og betalingsmodtageren.
-5) Betalingsordre: En instruktion fra en betaler eller en betalingsmodtager til en udbyder af betalings‐
-tjenester om at gennemføre en betalingstransaktion.
+5) Betalingsordre: En instruktion fra en betaler eller en betalingsmodtager til en udbyder af betalingstjenester om at gennemføre en betalingstransaktion.  
 6) Elektroniske penge: En elektronisk eller magnetisk lagret pengeværdi, der repræsenterer et krav mod
-udstederen, som udstedes ved modtagelse af betaling med henblik på at gennemføre betalingstrans‐
-aktioner, og som accepteres af andre end udstederen af elektroniske penge.
-7) Udbyder: En fysisk eller juridisk person, der udbyder betalingstjenester, og som er omfattet af § 3.
-8) Udsteder: En fysisk eller juridisk person, der udsteder elektroniske penge, og som er omfattet af § 2.
+udstederen, som udstedes ved modtagelse af betaling med henblik på at gennemføre betalingstransaktioner, og som accepteres af andre end udstederen af elektroniske penge.  
+7) Udbyder: En fysisk eller juridisk person, der udbyder betalingstjenester, og som er omfattet af § 3.  
+8) Udsteder: En fysisk eller juridisk person, der udsteder elektroniske penge, og som er omfattet af § 2.  
 9) Kontoførende udbyder: En udbyder, som fører en betalingskonto for en bruger.
-10) Betaler: En fysisk eller juridisk person, der er indehaver af en betalingskonto, hvorfra der kan afgi‐
-ves eller modtages betalingsordre, eller, hvis der ikke er nogen betalingskonto, en fysisk eller jurid‐
-isk person, der afgiver en betalingsordre.
-11) Betalingsmodtager: En fysisk eller juridisk person, som er den tiltænkte modtager af de midler, der
-indgår i en betalingstransaktion.
+10) Betaler: En fysisk eller juridisk person, der er indehaver af en betalingskonto, hvorfra der kan afgives eller modtages betalingsordre, eller, hvis der ikke er nogen betalingskonto, en fysisk eller jurid‐
+isk person, der afgiver en betalingsordre.  
+11) Betalingsmodtager: En fysisk eller juridisk person, som er den tiltænkte modtager af de midler, der indgår i en betalingstransaktion.
 12) Indehaver af elektroniske penge: En fysisk eller juridisk person, der er ejer af elektroniske penge, og
 som i kraft heraf har et krav på en udsteder af elektroniske penge.
 13) Betalingssystem: Et system til overførsel af midler med formelle og standardiserede rutiner og fælles
