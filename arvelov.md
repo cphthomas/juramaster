@@ -4,27 +4,27 @@ title: Arveloven
 # Arveloven
 
 
-### 1	[Slægtninges arveret](#Slægtningesarveret)
-### 2	[Ægtefællens arveret](#Ægtefællensarveret)
-### 3	[Svogerskabsarv efter en længstlevende ægtefælle](#Svogerskabsarvefterenlængstlevendeægtefælle)
-### 4	[Uskiftet bo](#Uskiftetbo)
-### 5	[Arvehenstand for længstlevende ægtefælle](#Arvehenstandforlængstlevendeægtefælle)
-### 6	[Testamentsarvingers adgang til overtagelse efter vurdering](#Testamentsarvingersadgangtilovertagelseeftervurdering)
-### 7	[Aftale om arv samt arveforskud](#Aftaleomarvsamtarveforskud)
-### 8	[Udelukkelse og bortfald af arveret](#Udelukkelseogbortfaldafarveret)
-### 9	[Testamentarisk bestemmelse over tvangsarv](#Testamentariskbestemmelseovertvangsarv)
-### 10	[Testamentarisk bestemmelse over friarv](#Testamentariskbestemmelseoverfriarv)
-### 11	[Oprettelse og tilbagekaldelse af testamente](#Testamentariskbestemmelseoverfriarv)
-### 12	[Testamentes ugyldighed og anfægtelse](#Testamentesugyldighedoganfægtelse)
-### 13	[Fælles testamente](#Testamentesugyldighedoganfægtelse)
-### 14	[Ægtefælles testamentariske bestemmelse om overtagelse efter vurdering](#Ægtefællestestamentariskebestemmelseomovertagelseeftervurdering)
-### 15	[Permutation](#Permutation)  
-### 16	[Dødsgaver m.v.](#Dødsgaverm.v.)  
-### 17	[Overlevelseskravet](#Overlevelseskravet)
-### 18	[Arv, som tilfalder staten](#Arv,somtilfalderstaten)
-### 19	[Reguleringsbestemmelser](#Reguleringsbestemmelser)
-### 20	[Forholdet til fremmed lovgivning](#Forholdettilfremmedlovgivning)
-### 21	[Ikrafttræden og overgangsregler](#Ikrafttrædenogovergangsregler)
+### [1 Slægtninges arveret](#Slægtningesarveret)
+### [2 Ægtefællens arveret](#Ægtefællensarveret)
+### [3 Svogerskabsarv efter en længstlevende ægtefælle](#Svogerskabsarvefterenlængstlevendeægtefælle)
+### [4 Uskiftet bo](#Uskiftetbo)
+### [5 Arvehenstand for længstlevende ægtefælle](#Arvehenstandforlængstlevendeægtefælle)
+### [6 Testamentsarvingers adgang til overtagelse efter vurdering](#Testamentsarvingersadgangtilovertagelseeftervurdering)
+### [7 Aftale om arv samt arveforskud](#Aftaleomarvsamtarveforskud)
+### [8 Udelukkelse og bortfald af arveret](#Udelukkelseogbortfaldafarveret)
+### [9 Testamentarisk bestemmelse over tvangsarv](#Testamentariskbestemmelseovertvangsarv)
+### [10 Testamentarisk bestemmelse over friarv](#Testamentariskbestemmelseoverfriarv)
+### [11 Oprettelse og tilbagekaldelse af testamente](#Testamentariskbestemmelseoverfriarv)
+### [12 Testamentes ugyldighed og anfægtelse](#Testamentesugyldighedoganfægtelse)
+### [13 Fælles testamente](#Testamentesugyldighedoganfægtelse)
+### [14 Ægtefælles testamentariske bestemmelse om overtagelse efter vurdering](#Ægtefællestestamentariskebestemmelseomovertagelseeftervurdering)
+### [15 Permutation](#Permutation)  
+### [16 Dødsgaver m.v.](#Dødsgaverm.v.)  
+### [17 Overlevelseskravet](#Overlevelseskravet)
+### [18 Arv, som tilfalder staten](#Arv,somtilfalderstaten)
+### [19 Reguleringsbestemmelser](#Reguleringsbestemmelser)
+### [20 Forholdet til fremmed lovgivning](#Forholdettilfremmedlovgivning)
+### [21 Ikrafttræden og overgangsregler](#Ikrafttrædenogovergangsregler)
 
 Den fulde tekst
 
@@ -37,7 +37,7 @@ Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
 
 ### 1 Slægtninges arveret {#Slægtningesarveret}
 
-Arv efter loven
+__Arv efter loven__
 
 __§ 1.__ En arveladers nærmeste slægtsarvinger er dennes børn. Børnene arver lige.
 
@@ -79,21 +79,20 @@ Fravigelse ved testamente m.v.
 
 __§ 8.__ §§ 6 og 7 finder ikke anvendelse på aktiver, som arveladeren har rådet over ved testamente. § 7 finder ikke anvendelse, i det omfang andet er fastsat i en samejeoverenskomst m.v.
 
-Kapitel 2
 
 ### 2 Ægtefællens arveret {#Ægtefællensarveret}
 
-Arv efter loven
+__Arv efter loven__
 
-§ 9. Arveladerens ægtefælle arver halvdelen af arveladerens ejendele, når denne efterlader sig livsarvinger.
+__§ 9.__ Arveladerens ægtefælle arver halvdelen af arveladerens ejendele, når denne efterlader sig livsarvinger.
 
 Stk. 2. Efterlader arveladeren sig ikke livsarvinger, arver ægtefællen alene.
 
 Ægtefællens tvangsarv
 
-§ 10. En fjerdedel af ægtefællens arvelod er tvangsarv.
+__§ 10.__ En fjerdedel af ægtefællens arvelod er tvangsarv.
 
-§ 11. Den længstlevende ægtefælle kan forlods udtage genstande, som
+__§ 11.__ Den længstlevende ægtefælle kan forlods udtage genstande, som
 
 1) udelukkende tjener til den pågældendes personlige brug, hvis deres værdi ikke står i misforhold til ægtefællernes formueforhold, eller
 
@@ -105,19 +104,19 @@ Stk. 3. I beregningen efter stk. 2 indgår forsørgertabserstatning, livsforsikr
 
 Stk. 4. En særlivsarving efter den førstafdøde ægtefælle kan uanset stk. 2 overtage et aktiv mod at betale vurderingsprisen kontant til boet, hvis aktivet har en særlig erindringsværdi for den pågældende, medmindre aktivet er omfattet af § 11, stk. 1, eller der er tale om et fællesejeaktiv som nævnt i § 91, stk. 2.
 
-Overtagelse efter vurdering
+__Overtagelse efter vurdering__
 
-Fælleseje
+__Fælleseje__
 
-§ 12. Den længstlevende ægtefælle kan for sin bos- og arvelod overtage aktiver, der er fælleseje i dødsboet, til vurderingsbeløbet.
+__§ 12.__ Den længstlevende ægtefælle kan for sin bos- og arvelod overtage aktiver, der er fælleseje i dødsboet, til vurderingsbeløbet.
 
 Stk. 2. Ønsker ægtefællen og en arving at overtage det samme aktiv, har ægtefællen fortrinsret. En særlivsarving har dog fortrinsret til at overtage et aktiv, hvis dette har særlig erindringsværdi for den pågældende, medmindre aktivet er omfattet af § 11, stk. 1, eller der er tale om et fællesejeaktiv som nævnt i § 91, stk. 2.
 
 Stk. 3. Overstiger værdien af det aktiv, som den længstlevende ægtefælle ønsker at overtage, bos- og arvelodden, kan ægtefællen overtage aktivet mod at betale det overskydende beløb kontant til boet.
 
-Fuldstændigt særeje
+__Fuldstændigt særeje__
 
-§ 13. Af den afdødes fuldstændige særeje kan den længstlevende ægtefælle inden for sin arvelod af særejet overtage aktiver til vurderingsbeløbet.
+__§ 13.__ Af den afdødes fuldstændige særeje kan den længstlevende ægtefælle inden for sin arvelod af særejet overtage aktiver til vurderingsbeløbet.
 
 Stk. 2. Ønsker ægtefællen og en arving at overtage det samme aktiv, har ægtefællen fortrinsret. En særlivsarving har dog fortrinsret til at overtage et aktiv, der har særlig erindringsværdi for den pågældende, medmindre aktivet er omfattet af § 11, stk. 1, eller der er tale om ægtefællernes hidtidige fælles bolig.
 
@@ -125,11 +124,9 @@ Stk. 3. Overstiger værdien af et aktiv, som ægtefællen ejer i sameje med boet
 
 Fravigelse ved testamente m.v.
 
-§ 14. §§ 12 og 13 finder ikke anvendelse for aktiver, som arveladeren har rådet over ved testamente, jf. §§ 90 og 91, eller hvis andet er fastsat i en samejeoverenskomst m.v. om et aktiv, som ægtefællen ejer i sameje med boet.
+__§ 14.__ §§ 12 og 13 finder ikke anvendelse for aktiver, som arveladeren har rådet over ved testamente, jf. §§ 90 og 91, eller hvis andet er fastsat i en samejeoverenskomst m.v. om et aktiv, som ægtefællen ejer i sameje med boet.
 
-Kapitel 3
-
-Svogerskabsarv efter en længstlevende ægtefælle
+### Svogerskabsarv efter en længstlevende ægtefælle {#Svogerskabsarvefterenlængstlevendeægtefælle}
 
 § 15. Dør den længstlevende ægtefælle efter at have arvet den førstafdøde ægtefælle i henhold til § 9, stk. 2, herunder i henhold til et testamente, deles boet med halvdelen til hver ægtefælles slægtsarvinger, medmindre den længstlevende ægtefælle
 
