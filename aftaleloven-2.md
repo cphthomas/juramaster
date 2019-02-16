@@ -1,6 +1,12 @@
 ---
 title: Aftaleloven
 ---
+
+
+```
+Den fulde tekst
+```
+
 # Aftaleloven
 
 ### [I. Om afslutning af aftaler](#afslutning)  
@@ -9,7 +15,7 @@ title: Aftaleloven
 ### [IV. Særlige regler om forbrugeraftaler](#forbrugeraftaler)	  
 ### [V. Almindelige bestemmelser](#bestemmelser)  	
 
-Den fulde tekst  
+
 
 Bekendtgørelse af lov om aftaler og andre retshandler på formuerettens område
 

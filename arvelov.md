@@ -1,6 +1,12 @@
 ---
 title: Arveloven
 ---
+
+
+```
+Den fulde tekst
+```
+
 # Arveloven
 
 
@@ -26,7 +32,6 @@ title: Arveloven
 ### [20 Forholdet til fremmed lovgivning](#Forholdettilfremmedlovgivning)
 ### [21 Ikrafttræden og overgangsregler](#Ikrafttrædenogovergangsregler)
 
-Den fulde tekst
 
 
 
