@@ -3,15 +3,8 @@ title: '1 Retskilder, retssystemet og juridisk metode'
 ---
 # 1 Retskilder, retssystemet og juridisk metode
 
-[Anker 1](#anker1)
 
-[Anker 2](#anker2)
-
-# [Anker 1](#anker1)
-
-## [Anker 2](#anker2)
-
-
+# Hello {#id}
 Take me to [pookie](#pookie)
 should be the correct markdown syntax to jump to the anchor point named pookie.
 
@@ -87,6 +80,8 @@ Yderliger tests i sublime
 [testlink](#id)
 
 
+[testlink](#id1)
+
 [testlink](#id2)
 
 ```
@@ -117,9 +112,9 @@ Anker 2 <a name="anker2"></a>
 <a name="pookie"></a>
 
 
-Hello {#id}
+Hello {#id1}
 -----
 
-# Hello {#id}
+
 
 # Hello # {#id2}
