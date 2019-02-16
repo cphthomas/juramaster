@@ -10,7 +10,7 @@ Erhvervs- og finansjura
 * [3 Fuldmagter og mellemmænd](3-fuldmagter-og-mellemmænd.md)
 * [4 Forbrugeraftaler](4-forbrugeraftaler.md)
 * [5 Erstatning og den forsikringsmæssige afdækning](5-erstatning-og-den-forsikringsmæssige-afdækning.md)
-* [6 Køb](6-køb)
+* [6 Køb](6-køb.md)
 * [7 Markedsføring](7-markedsføring.md)
 * [8 Persondatabeskyttelse og hvidvask](8-persondatabeskyttelse-og-hvidvask.md)
 * [9 Virksomhedsformer og hæftelser](9-virksomhedsformer-og-hæftelser.md)
