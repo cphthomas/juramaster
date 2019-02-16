@@ -22,56 +22,44 @@ LOV nr 1520 af 18/12/
 
 
 ```
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:  
 Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
 ```
 ```
 Kapitel 1
 Anvendelsesområde og definitioner
 ```
-_Anvendelsesområde_
-**§ 1.** Loven finder anvendelse på udstedere af elektroniske penge, udbydere af betalingstjenester og be‐
-talingsmodtagere, jf. dog stk. 2-7 og § 5.
-_Stk. 2._ For filialer her i landet af udenlandske virksomheder, der er meddelt tilladelse til at udstede elek‐
-troniske penge eller udbyde betalingstjenester, jf. bilag 1, nr. 1-8, i et andet EU- eller EØS-land, finder
-alene kapitel 4-11 anvendelse.
-_Stk. 3._ For agenter her i landet af udenlandske virksomheder, der er meddelt tilladelse til at udbyde beta‐
-lingstjenester, jf. bilag 1, nr. 1-8, i et andet EU- eller EØS-land, finder alene kapitel 4-11 anvendelse.
+_Anvendelsesområde_  
+**§ 1.** Loven finder anvendelse på udstedere af elektroniske penge, udbydere af betalingstjenester og betalingsmodtagere, jf. dog stk. 2-7 og § 5.  
+_Stk. 2._ For filialer her i landet af udenlandske virksomheder, der er meddelt tilladelse til at udstede eletroniske penge eller udbyde betalingstjenester, jf. bilag 1, nr. 1-8, i et andet EU- eller EØS-land, finder alene kapitel 4-11 anvendelse.  
+_Stk. 3._ For agenter her i landet af udenlandske virksomheder, der er meddelt tilladelse til at udbyde betalingstjenester, jf. bilag 1, nr. 1-8, i et andet EU- eller EØS-land, finder alene kapitel 4-11 anvendelse.  
 _Stk. 4._ For grænseoverskridende tjenesteydelser her i landet ydet af udenlandske virksomheder, der er
 meddelt tilladelse til at udstede elektroniske penge eller udbyde betalingstjenester, jf. bilag 1, nr. 1-8, i et
-andet EU- eller EØS-land, finder alene kapitel 4-11 anvendelse.
+andet EU- eller EØS-land, finder alene kapitel 4-11 anvendelse.  
 _Stk. 5._ § 66, § 75, § 77, stk. 1, nr. 1 og 2, § 79, stk. 2, § 82, stk. 1 og 2, §§ 96, 99, 100, 104, 108,
 117-119, 122, 123 og 125, finder anvendelse på ikkevederlagsfrie elektroniske tjenester, der kan benyttes
 til at erhverve varer eller tjenesteydelser, og betalingstransaktioner, hvor betalerens samtykke til at gen‐
 nemføre transaktionen meddeles ved hjælp telekommunikationsudstyr og betalingen sker til den operatør,
-der driver kommunikationsnettet, og som kun agerer som mellemmand mellem brugeren af betalingstje‐
-nesten og leverandøren af varer og tjenesteydelser, uden at disse tjenester udgør en betalingstjeneste om‐
-fattet af bilag 1, uanset § 5, nr. 17.
-_Stk. 6._ § 125 finder anvendelse på erhvervsdrivende, der behandler oplysninger om, hvor en betaler har
-anvendt en betalingstjeneste, og hvad den har været anvendt til, uanset § 5.
+der driver kommunikationsnettet, og som kun agerer som mellemmand mellem brugeren af betalingstjenesten og leverandøren af varer og tjenesteydelser, uden at disse tjenester udgør en betalingstjeneste om‐
+fattet af bilag 1, uanset § 5, nr. 17.  
+_Stk. 6._ § 125 finder anvendelse på erhvervsdrivende, der behandler oplysninger om, hvor en betaler har anvendt en betalingstjeneste, og hvad den har været anvendt til, uanset § 5.  
 _Stk. 7._ Erhvervsministeren kan dispensere helt eller delvist fra lovens §§ 26-29, 42, 50-59, 81, 112, 120,
 121 og 125, der dermed ikke finder anvendelse på en bestemt tjeneste eller bestemte typer af tjenester.
-Erhvervsministeren kan endvidere fastsætte supplerende regler for bestemte typer af tjenester.
+Erhvervsministeren kan endvidere fastsætte supplerende regler for bestemte typer af tjenester.  
 
 **§ 2.** Elektroniske penge må kun udstedes her i landet af virksomheder, der har tilladelse som e-pengein‐
-stitut efter § 8, eller af pengeinstitutter, Danmarks Nationalbank og offentlige myndigheder, jf. dog stk. 2.
-
-
+stitut efter § 8, eller af pengeinstitutter, Danmarks Nationalbank og offentlige myndigheder, jf. dog stk. 2.  
 _Stk. 2._ Elektroniske penge kan endvidere udstedes her i landet af virksomheder med en begrænset tilla‐
 delse til at udstede elektroniske penge, jf. § 50.
 
-**§ 3.** Betalingstjenester må kun udbydes her i landet af virksomheder, der har tilladelse som betalingsin‐
-stitut eller e-pengeinstitut efter §§ 8 og 9, eller af pengeinstitutter, Danmarks Nationalbank og offentlige
+**§ 3.** Betalingstjenester må kun udbydes her i landet af virksomheder, der har tilladelse som betalingsinstitut eller e-pengeinstitut efter §§ 8 og 9, eller af pengeinstitutter, Danmarks Nationalbank og offentlige
 myndigheder, jf. dog stk. 2.
-_Stk. 2._ Betalingstjenester kan endvidere udbydes her i landet af virksomheder med en begrænset tilla‐
-delse til at udbyde betalingstjenester, jf. § 51.
+_Stk. 2._ Betalingstjenester kan endvidere udbydes her i landet af virksomheder med en begrænset tilladelse til at udbyde betalingstjenester, jf. § 51.
 
-**§ 4.** Kapitel 5-8 finder anvendelse på betalingstransaktioner, hvor alle de involverede udbydere af beta‐
-lingstjenester er etableret i et EU- eller EØS-land, og når betalingstransaktionen ydes i euro eller en anden
-EU- eller EØS-valuta.
+**§ 4.** Kapitel 5-8 finder anvendelse på betalingstransaktioner, hvor alle de involverede udbydere af betalingstjenester er etableret i et EU- eller EØS-land, og når betalingstransaktionen ydes i euro eller en anden
+EU- eller EØS-valuta.  
 _Stk. 2._ Kapitel 5-8 med undtagelse af § 67, stk. 1, nr. 2, § 72, stk. 1, nr. 2, litra e, § 76, § 113, § 114 og §
-120 finder anvendelse på de dele af betalingstransaktioner, der gennemføres i et land inden for Den Euro‐
-pæiske Union, hvor alle de involverede udbydere af betalingstjenester er etableret i et andet EU- eller
+120 finder anvendelse på de dele af betalingstransaktioner, der gennemføres i et land inden for Den Europæiske Union, hvor alle de involverede udbydere af betalingstjenester er etableret i et andet EU- eller
 EØS-land, når betalingstransaktionen ikke ydes i euro eller anden EU- eller EØS-valuta.
 _Stk. 3._ Kapitel 5-8 med undtagelse af § 67, stk. 1, nr. 2, § 72, stk. 1, nr. 2, litra e, § 72, stk. 1, nr. 5, litra
 f, §§ 76, 101, 102, 104 og 106, § 113, stk. 1, § 120 og § 121, stk. 1 og 3, finder anvendelse på de dele af
