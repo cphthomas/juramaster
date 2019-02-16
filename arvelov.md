@@ -39,37 +39,37 @@ Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
 
 Arv efter loven
 
-§ 1. En arveladers nærmeste slægtsarvinger er dennes børn. Børnene arver lige.
+__§ 1.__ En arveladers nærmeste slægtsarvinger er dennes børn. Børnene arver lige.
 
 Stk. 2. Er et barn død, træder dets børn i dets sted og arver indbyrdes lige. På tilsvarende måde arver fjernere livsarvinger.
 
-§ 2. Har arveladeren ikke efterladt sig børn eller andre livsarvinger, arver arveladerens forældre. Forældrene arver hver en halvdel.
+__§ 2.__ Har arveladeren ikke efterladt sig børn eller andre livsarvinger, arver arveladerens forældre. Forældrene arver hver en halvdel.
 
 Stk. 2. Er en af forældrene død, træder dennes børn i den pågældendes sted og arver indbyrdes lige. På tilsvarende måde arver fjernere livsarvinger. Er der ingen livsarvinger efter den ene af forældrene, arver den anden af forældrene eller dennes livsarvinger alene.
 
-§ 3. Er der ingen arvinger efter § 1 eller § 2, arver arveladerens bedsteforældre. Halvdelen af arven tilfalder bedsteforældrene på fædrene side og halvdelen bedsteforældrene på mødrene side.
+__§ 3.__ Er der ingen arvinger efter § 1 eller § 2, arver arveladerens bedsteforældre. Halvdelen af arven tilfalder bedsteforældrene på fædrene side og halvdelen bedsteforældrene på mødrene side.
 
 Stk. 2. Er en af bedsteforældrene død, træder dennes børn, men ikke fjernere livsarvinger, i den pågældendes sted.
 
 Stk. 3. Mellem fædrene og mødrene arvinger indbyrdes deles arven som fastsat i § 2. Er der kun arvinger på fædrene eller mødrene side, arver disse alene.
 
-§ 4. Et adoptivbarn og dets livsarvinger arver og arves af adoptanten og dennes slægt som adoptantens livsarvinger i øvrigt, medmindre andet følger af reglerne i adoptionslovgivningen.
+__§ 4.__ Et adoptivbarn og dets livsarvinger arver og arves af adoptanten og dennes slægt som adoptantens livsarvinger i øvrigt, medmindre andet følger af reglerne i adoptionslovgivningen.
 
 Livsarvingers tvangsarv
 
-§ 5. En fjerdedel af en livsarvings arvelod er tvangsarv.
+__§ 5.__ En fjerdedel af en livsarvings arvelod er tvangsarv.
 
 Stk. 2. Arveladeren kan ved testamente begrænse arvelodden til hvert af sine børn til en værdi af 1.000.000 kr. Er et barn død, begrænses dette barns livsarvingers arvelod til den andel, som udgør livsarvingens andel af beløbet, jf. § 1, stk. 2, medmindre andet fremgår af testamentet. Tilsvarende gælder for fjernere livsarvinger. Beløbsgrænsen reguleres efter § 97.
 
 Overtagelse efter vurdering
 
-§ 6. Arvingerne kan for deres arvelod overtage boets aktiver til vurderingsbeløbet.
+__§ 6.__ Arvingerne kan for deres arvelod overtage boets aktiver til vurderingsbeløbet.
 
 Stk. 2. Ønsker flere arvinger at overtage det samme aktiv, afgøres det ved lodtrækning, hvem der skal have dette. En arving har dog fortrinsret til at overtage et aktiv, der har særlig erindringsværdi for den pågældende.
 
 Stk. 3. Ægtefællens ret efter § 11, stk. 1, og §§ 12-14 skal respekteres.
 
-§ 7. Ejer en arving en andel af et aktiv i sameje med boet, har arvingen, selv om værdien heraf overstiger arvelodden, fortrinsret til at overtage boets andel af aktivet mod at betale det overskydende beløb kontant til boet. Fortrinsretten gælder dog ikke et aktiv omfattet af § 11, stk. 1, og et fællesejeaktiv som nævnt i § 91, stk. 2, som ægtefællen ønsker at overtage efter § 12.
+__§ 7.__ Ejer en arving en andel af et aktiv i sameje med boet, har arvingen, selv om værdien heraf overstiger arvelodden, fortrinsret til at overtage boets andel af aktivet mod at betale det overskydende beløb kontant til boet. Fortrinsretten gælder dog ikke et aktiv omfattet af § 11, stk. 1, og et fællesejeaktiv som nævnt i § 91, stk. 2, som ægtefællen ønsker at overtage efter § 12.
 
 Stk. 2. Ejer en arving en andel af et aktiv i sameje med både boet og ægtefællen, har ægtefællen fortrinsret. Hvis aktivet er fuldstændigt særeje i boet, har en særlivsarving efter den førstafdøde ægtefælle dog fortrinsret, hvis aktivet har en særlig erindringsværdi for den pågældende, medmindre aktivet er omfattet af § 11, stk. 1, eller der er tale om ægtefællernes hidtidige fælles bolig.
 
@@ -77,11 +77,11 @@ Stk. 3. Gør flere arvinger retten efter stk. 1 gældende, afgøres det ved lodt
 
 Fravigelse ved testamente m.v.
 
-§ 8. §§ 6 og 7 finder ikke anvendelse på aktiver, som arveladeren har rådet over ved testamente. § 7 finder ikke anvendelse, i det omfang andet er fastsat i en samejeoverenskomst m.v.
+__§ 8.__ §§ 6 og 7 finder ikke anvendelse på aktiver, som arveladeren har rådet over ved testamente. § 7 finder ikke anvendelse, i det omfang andet er fastsat i en samejeoverenskomst m.v.
 
 Kapitel 2
 
-Ægtefællens arveret
+### 2 Ægtefællens arveret {#Ægtefællensarveret}
 
 Arv efter loven
 
