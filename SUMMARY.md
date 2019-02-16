@@ -12,8 +12,7 @@ Erhvervs- og finansjura
 
 
 ### Lovsamling
-* [Aftaleloven2](aftaleloven-2.md)
-* [Aftaleloven3](test.md)
+* [Aftaleloven](aftaleloven-2.md)
 * [Betalingsloven](lov-om-betalinger.md)
 * [www.tepedu.dk](https://www.tepedu.dk)
 * [I'm an inline-style link](https://www.google.com)
