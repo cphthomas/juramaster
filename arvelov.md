@@ -3,29 +3,30 @@ title: Arveloven
 ---
 # Arveloven
 
-1	Slægtninges arveret  
-2	Ægtefællens arveret  
-3	Svogerskabsarv efter en længstlevende ægtefælle  
-4	Uskiftet bo  
- 5	Arvehenstand for længstlevende ægtefælle  
- 6	Testamentsarvingers adgang til overtagelse efter vurdering  
- 7	Aftale om arv samt arveforskud  
- 8	Udelukkelse og bortfald af arveret  
- 9	Testamentarisk bestemmelse over tvangsarv  
- 10	Testamentarisk bestemmelse over friarv  
- 11	Oprettelse og tilbagekaldelse af testamente  
- 12	Testamentes ugyldighed og anfægtelse  
- 13	Fælles testamente  
- 14	Ægtefælles testamentariske bestemmelse om overtagelse efter vurdering  
- 15	Permutation  
- 16	Dødsgaver m.v.  
- 17	Overlevelseskravet  
- 18	Arv, som tilfalder staten  
- 19	Reguleringsbestemmelser  
- 20	Forholdet til fremmed lovgivning  
- 21	Ikrafttræden og overgangsregler  
 
-Den fulde tekst  
+### 1	[Slægtninges arveret](#Slægtningesarveret)
+### 2	[Ægtefællens arveret](#Ægtefællensarveret)
+### 3	[Svogerskabsarv efter en længstlevende ægtefælle](#Svogerskabsarvefterenlængstlevendeægtefælle)
+### 4	[Uskiftet bo](#Uskiftetbo)
+### 5	[Arvehenstand for længstlevende ægtefælle](#Arvehenstandforlængstlevendeægtefælle)
+### 6	[Testamentsarvingers adgang til overtagelse efter vurdering](#Testamentsarvingersadgangtilovertagelseeftervurdering)
+### 7	[Aftale om arv samt arveforskud](#Aftaleomarvsamtarveforskud)
+### 8	[Udelukkelse og bortfald af arveret](#Udelukkelseogbortfaldafarveret)
+### 9	[Testamentarisk bestemmelse over tvangsarv](#Testamentariskbestemmelseovertvangsarv)
+### 10	[Testamentarisk bestemmelse over friarv](#Testamentariskbestemmelseoverfriarv)
+### 11	[Oprettelse og tilbagekaldelse af testamente](#Testamentariskbestemmelseoverfriarv)
+### 12	[Testamentes ugyldighed og anfægtelse](#Testamentesugyldighedoganfægtelse)
+### 13	[Fælles testamente](#Testamentesugyldighedoganfægtelse)
+### 14	[Ægtefælles testamentariske bestemmelse om overtagelse efter vurdering](#Ægtefællestestamentariskebestemmelseomovertagelseeftervurdering)
+### 15	[Permutation](#Permutation)  
+### 16	[Dødsgaver m.v.](#Dødsgaverm.v.)  
+### 17	[Overlevelseskravet](#Overlevelseskravet)
+### 18	[Arv, som tilfalder staten](#Arv,somtilfalderstaten)
+### 19	[Reguleringsbestemmelser](#Reguleringsbestemmelser)
+### 20	[Forholdet til fremmed lovgivning](#Forholdettilfremmedlovgivning)
+### 21	[Ikrafttræden og overgangsregler](#Ikrafttrædenogovergangsregler)
+
+Den fulde tekst
 
 
 
@@ -34,9 +35,7 @@ Den fulde tekst
 VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: 
 Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
 
-Kapitel 1
-
-Slægtninges arveret
+### 1 Slægtninges arveret {#Slægtningesarveret}
 
 Arv efter loven
 
