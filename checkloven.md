@@ -10,19 +10,19 @@ title: Checkloven
 # Checkloven
 
 
-Kapitel 1 Om checkens udstedelse og form
-Kapitel 2 Om overdragelse af checks
-Kapitel 3 Om bekræftelse af checks
-Kapitel 4 Om checkborgen (aval)
-Kapitel 5 Om checkens forevisning og betaling
-Kapitel 6 Om krydsede checks
-Kapitel 7 Om regres for manglende betaling
-Kapitel 8 Om dublikater af checks
-Kapitel 9 Om forandringer i checken
-Kapitel 10 Om checkens forældelse
-Kapitel 11 Almindelig bestemmelser
-Kapitel 12 Om forholdet til udenlandsk lov
-Kapitel 13 Om protest m.v.
+### Kapitel 1 Om checkens udstedelse og form
+### Kapitel 2 Om overdragelse af checks
+### Kapitel 3 Om bekræftelse af checks
+### Kapitel 4 Om checkborgen (aval)
+### Kapitel 5 Om checkens forevisning og betaling
+### Kapitel 6 Om krydsede checks
+### Kapitel 7 Om regres for manglende betaling
+### Kapitel 8 Om dublikater af checks
+### Kapitel 9 Om forandringer i checken
+### Kapitel 10 Om checkens forældelse
+### Kapitel 11 Almindelig bestemmelser
+### Kapitel 12 Om forholdet til udenlandsk lov
+### Kapitel 13 Om protest m.v.
 
 
 Bekendtgørelse af checklov
@@ -31,8 +31,8 @@ Bekendtgørelse af checklov
 Herved bekendtgøres lov nr. 69 af 23. marts 1932 med de ændringer, der følger af lov nr. 410 af 30. november 1965.
 
 
-Kapitel 1
-Om checkens udstedelse og form
+### Kapitel 1
+### Om checkens udstedelse og form
 
 § 1. En check skal indeholde:
 
@@ -90,8 +90,8 @@ Stk. 2. En check, hvori beløbet er anført flere gange enten med bogstaver elle
 
 § 13. Bliver en check, der ved dens udgivelse var ufuldstændig udfyldt, udfyldt i strid med de trufne aftaler, kan denne omstændighed ikke påberåbes overfor checkindehaveren, medmindre han ved erhvervelsen ikke har været i god tro eller har handlet med grov uagtsomhed.
 
-Kapitel 2
-Om overdragelse af checks
+### Kapitel 2
+### Om overdragelse af checks
 
 § 14. En check, der lyder på betaling til en bestemt person med eller uden udtrykkelig angivelse af, at den er til ordre, kan ved endossement overdrages til en anden (endossatar).
 
@@ -142,15 +142,15 @@ Stk. 3. Den fuldmagt, der indeholdes i et prokuraendossement, bortfalder ikke, s
 
 Stk. 2. Medmindre det modsatte bevises, anses et udateret endossement som tegnet før protesten eller før udløbet af den i foregående stykke omhandlede frist.
 
-Kapitel 3
-Om bekræftelse af checks
+### Kapitel 3
+### Om bekræftelse af checks
 
 § 25. Har trassatbanken givet checken en underskrevet påtegning, som kan forstås således, at checken vil blive betalt (bekræftes, certifieres, noteres, viseres eller lignende), eller har den anbragt sin underskrift på checkens forside, er den forpligtet til at indfri checken, hvis denne forevises til betaling inden udløbet af den i § 29 fastsatte frist. En påtegning, hvorved trassatbanken påtager sig en videregående betalingspligt, er forsåvidt uden retsvirkning.
 
 Stk. 2. Indfrier trassatbanken ikke checken ved forevisningen, har checkindehaveren, selv om det er trassenten, et umiddelbart krav mod den på alt, som kan fordres efter §§ 45 og 46.
 
-Kapitel 4
-Om checkborgen (aval)
+### Kapitel 4
+### Om checkborgen (aval)
 
 § 26. En checks betaling kan sikres ved aval for hele checksummen eller for en del af denne. Aval kan tegnes såvel af en checkskyldner som af en trediemand, dog ikke af trassatbanken.
 
@@ -164,8 +164,8 @@ Stk. 2. Han forpligtelse er gyldig, selv om den forpligtelse, som han er gået i
 
 Stk. 3. Når han betaler checken, erhverver han alle rettigheder efter checken mod den, som han er gået i borgen for, og mod dem, der efter checken er ansvarlige overfor denne.
 
-Kapitel 5
-Om checkens forevisning og betaling
+### Kapitel 5
+### Om checkens forevisning og betaling
 
 § 28. En check skal betales ved forevisning. Enhver bestemmelse, der strider herimod, anses som uskrevet.
 
@@ -203,8 +203,8 @@ Stk. 3. Foranstående bestemmelser kommer ikke til anvendelse i de tilfælde, hv
 
 Stk. 4. Er checksummen angivet i en møntsort, der har den samme benævnelse, men en forskellig værdi i det land, hvor checken er udstedt, og det land, hvor den skal betales, er formodningen for, at det er betalingsstedets mønt, som er ment.
 
-Kapitel 6
-Om krydsede checks
+### Kapitel 6
+### Om krydsede checks
 
 § 37. Trassenten eller indehaveren af en check kan krydse den med de i § 38 angivne virkninger.
 
@@ -228,8 +228,8 @@ Stk. 5. Den bank, der ikke overholder de ovenfor angivne forskrifter, er ansvarl
 
 § 39. Hvis en check, som er udstedt i udlandet, tværsover forsiden bærer påtegningen: »kun til afregning« (»nur zur verechnung«) eller tilsvarende udtryk, anses den som en krydset check.
 
-Kapitel 7
-Om regres for manglende betaling
+### Kapitel 7
+### Om regres for manglende betaling
 
 § 40. Indehaveren af en check kan iværksætte regres imod endossenterne, trassenten og de andre checkskyldnere, såfremt checken ved rettidig forevisning ikke betales, og såfremt nægtelsen af betaling er godtgjort:
 
@@ -292,8 +292,8 @@ Stk. 4. Vedvarer hindringen længere end femten dage fra den dag, da checkindeha
 
 Stk. 5. Som vis major anses ikke tildragelser af rent personlig natur for checkindehaveren eller den, som han har overdraget at forevise checken eller at optage protesten.
 
-Kapitel 8
-Om dublikater af checks
+### Kapitel 8
+### Om dublikater af checks
 
 § 49. Enhver check, som ikke lyder på betaling til ihændehaveren, og som er betalbar udenfor riget, kan udstedes i flere ligelydende eksemplarer (duplikater). Når en check er udstedt i flere eksemplarer, skal eksemplarerne i selve teksten indeholde nummerangivelse; i mangel heraf gælder ethvert af dem som en selvstændig check.
 
@@ -301,13 +301,13 @@ Om dublikater af checks
 
 Stk. 2. Har en endossent overdraget checkeksemplarerne til forskellige personer, svarer han såvel som de efterfølgende endossenter for ethvert eksemplar, der bærer deres navnetegning, og som ikke er tilbageleveret.
 
-Kapitel 9
-Om forandringer i checken
+### Kapitel 9
+### Om forandringer i checken
 
 § 51. Er der gjort forandringer i en checks tekst, er de, der efter forandringen har tegnet deres navn på checken, forpligtede overensstemmende med den ændrede tekst. De, der har tegnet deres navn før forandringen, er forpligtede overensstemmede med den oprindelige tekst.
 
-Kapitel 10
-Om checkens forældelse
+### Kapitel 10
+### Om checkens forældelse
 
 § 52. Checkindehaverens krav mod endossenterne, trassenten og andre checkskyldnere forældes i seks måneder at regne fra den dag, forevisningsfristen er udløbet.
 
@@ -325,8 +325,8 @@ Stk. 5. Har afbrydelsen af forældelsen fundet sted, uden at checksøgsmålet br
 
 Stk. 6. Bliver foretagelsen af handlinger til afbrydelse af forældelsen umuliggjort som følge af sådanne hindringer, som omhandles i § 48, bevares checkretten, hvis afbrydelse sker inden en måned efter hindringens ophør.
 
-Kapitel 11
-Almindelig bestemmelser
+### Kapitel 11
+### Almindelig bestemmelser
 
 § 54. Ordet »bank« betegner i denne lov såvel banker som sparekasser samt de institutter og personer, der ved kgl. anordning sidestilles med banker.
 
@@ -344,8 +344,8 @@ Stk. 5. Løbedage finder ikke anvendelse på checks.
 
 § 57. Er regresfordringen forældet, eller er den til dens bevaring forskrevne omgang forsømt, er dog checkindehaveren ikke udelukket fra som almindelig gældsfordring at indtale hos en checkskyldner, hvad denne ville blive beriget med på hans bekostning, hvis ethvert krav bortfaldt. Når ikke andet gøres antageligt, anses udstederen beriget på checkindehaverens bekostning med den sum, checken lød på.
 
-Kapitel 12
-Om forholdet til udenlandsk lov
+### Kapitel 12
+### Om forholdet til udenlandsk lov
 
 § 58. En udlændings evne til at indgå checkforpligtelse bedømmes efter loven i det land, hvor han er statsborger. Hvis denne lovgivning erklærer loven i et andet land for bestemmende, skal sidstnævnte lov komme til anvendelse.
 
@@ -378,8 +378,8 @@ Stk. 2. Hvis en checkforpligtelse er ugyldig i medfør af bestemmelsen i denne p
 
 § 65. Skal udenlandsk lovgivning i henhold til de derom givne forskrifter bringes til anvendelse under en retssag, kan domstolen, for så vidt den pågældende fremmede lov ikke måtte være retten bekendt, pålægge den vedkommende part at fremskaffe de i så henseende fornødne oplysninger.
 
-Kapitel 13
-Om protest m.v.
+### Kapitel 13
+### Om protest m.v.
 
 § 66. Om optagelse af offentlig protest og om forevisning af checks her i riget gælder følgende regler:
 
