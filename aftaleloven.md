@@ -90,10 +90,13 @@ Stk. 2. Med hensyn til tilbagekaldelsen af prokura, som er anmeldt til handelsre
 
 ### III. Om ugyldige viljeserklæringer  
 § 28. Er en viljeserklæring retsstridigt fremkaldt ved personlig vold eller ved trussel om øjeblikkelig anvendelse af sådan, er den ikke bindende for den tvungne.  
-Stk. 2. Er tvangen udøvet af tredjemand, og var den, til hvem erklæringen er afgivet, i god tro, må den tvungne, hvis han overfor ham vil påberåbe sig tvangen, give ham meddelelse derom uden ugrundet ophold, efter at tvangen er ophørt. Undlader han det, er han bundet ved erklæringen.
-§ 29. Er en viljeserklæring retsstridigt fremkaldt ved anden tvang end i § 28 omtalt, er den ikke bindende for den tvungne, hvis den, til hvem erklæringen er afgivet selv har udøvet tvangen eller har indset eller burdet indse, at erklæringen retsstridigt var fremkaldt ved tvang fra tredjemands side.
+Stk. 2. Er tvangen udøvet af tredjemand, og var den, til hvem erklæringen er afgivet, i god tro, må den tvungne, hvis han overfor ham vil påberåbe sig tvangen, give ham meddelelse derom uden ugrundet ophold, efter at tvangen er ophørt. Undlader han det, er han bundet ved erklæringen.  
+
+§ 29. Er en viljeserklæring retsstridigt fremkaldt ved anden tvang end i § 28 omtalt, er den ikke bindende for den tvungne, hvis den, til hvem erklæringen er afgivet selv har udøvet tvangen eller har indset eller burdet indse, at erklæringen retsstridigt var fremkaldt ved tvang fra tredjemands side.  
+
 § 30. En viljeserklæring er ikke bindende for afgiveren, hvis den, til hvem erklæringen er afgivet, har fremkaldt den ved svig eller har indset eller burdet indse, at den var fremkaldt ved svig fra tredjemands side.  
-Stk. 2. Har den, til hvem erklæringen er afgivet, svigagtigt givet urigtige oplysninger om omstændigheder, som kan antages at være af betydning for erklæringen, eller gjort sig skyldig i svigagtig fortielse af sådanne omstændigheder, anses erklæringen for at være fremkaldt ved den således udviste svig, medmin‐ dre det gøres antageligt, at denne ikke har indvirket på erklæringen.
+Stk. 2. Har den, til hvem erklæringen er afgivet, svigagtigt givet urigtige oplysninger om omstændigheder, som kan antages at være af betydning for erklæringen, eller gjort sig skyldig i svigagtig fortielse af sådanne omstændigheder, anses erklæringen for at være fremkaldt ved den således udviste svig, medmin‐ dre det gøres antageligt, at denne ikke har indvirket på erklæringen.  
+
 § 31. Har nogen udnyttet en andens betydelige økonomiske eller personlige vanskeligheder, manglende indsigt, letsind eller et bestående afhængighedsforhold til at opnå eller betinge en ydelse, der står i væsentligt misforhold til modydelsen, eller som der ikke skal ydes vederlag for, er den, der således er udnyttet, ikke bundet ved den af ham afgivne viljeserklæring.  
 Stk. 2. Det samme gælder, hvis tredjemand har gjort sig skyldig i et sådant forhold som omtalt i stk. 1 og den, til hvem viljeserklæringen er afgivet, indså eller burde indse dette.
 
