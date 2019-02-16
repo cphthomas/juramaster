@@ -137,66 +137,50 @@ udstederen, som udstedes ved modtagelse af betaling med henblik på at gennemfø
 7) Udbyder: En fysisk eller juridisk person, der udbyder betalingstjenester, og som er omfattet af § 3.  
 8) Udsteder: En fysisk eller juridisk person, der udsteder elektroniske penge, og som er omfattet af § 2.  
 9) Kontoførende udbyder: En udbyder, som fører en betalingskonto for en bruger.
-10) Betaler: En fysisk eller juridisk person, der er indehaver af en betalingskonto, hvorfra der kan afgives eller modtages betalingsordre, eller, hvis der ikke er nogen betalingskonto, en fysisk eller jurid‐
-isk person, der afgiver en betalingsordre.  
-11) Betalingsmodtager: En fysisk eller juridisk person, som er den tiltænkte modtager af de midler, der indgår i en betalingstransaktion.
-12) Indehaver af elektroniske penge: En fysisk eller juridisk person, der er ejer af elektroniske penge, og
-som i kraft heraf har et krav på en udsteder af elektroniske penge.
+10) Betaler: En fysisk eller juridisk person, der er indehaver af en betalingskonto, hvorfra der kan afgives eller modtages betalingsordre, eller, hvis der ikke er nogen betalingskonto, en fysisk eller juridisk person, der afgiver en betalingsordre.  
+11) Betalingsmodtager: En fysisk eller juridisk person, som er den tiltænkte modtager af de midler, der indgår i en betalingstransaktion.  
+12) Indehaver af elektroniske penge: En fysisk eller juridisk person, der er ejer af elektroniske penge, og som i kraft heraf har et krav på en udsteder af elektroniske penge.  
 13) Betalingssystem: Et system til overførsel af midler med formelle og standardiserede rutiner og fælles
-regler for behandling, clearing eller afvikling af betalingstransaktioner.
+regler for behandling, clearing eller afvikling af betalingstransaktioner.  
 14) Bruger: En fysisk eller juridisk person, som anvender en betalingstjeneste enten som betaler eller
-som betalingsmodtager eller som begge dele.
-15) Forbruger: En fysisk person, der optræder med et formål, der ligger uden for den pågældendes er‐
-hverv.
-16) Betalingskonto: En konto oprettet i en eller flere brugeres navn med henblik på at gennemføre beta‐
-lingstransaktioner.
+som betalingsmodtager eller som begge dele.  
+15) Forbruger: En fysisk person, der optræder med et formål, der ligger uden for den pågældendes erhverv.  
+16) Betalingskonto: En konto oprettet i en eller flere brugeres navn med henblik på at gennemføre betalingstransaktioner.  
 17) Midler: Sedler og mønter, indestående på en konto og elektroniske penge.
-18) Betalingsinstrument: Et personligt instrument eller et sæt af procedurer, der er aftalt mellem bruge‐
-ren og udbyderen, og som brugeren benytter til at iværksætte en betalingsordre.
-19) Mikrobetalingsinstrument: Et betalingsinstrument, der i henhold til en rammeaftale udelukkende ve‐
-drører særskilte betalingstransaktioner på en værdi, der højst modsvarer en værdi på 60 euro, eller
+18) Betalingsinstrument: Et personligt instrument eller et sæt af procedurer, der er aftalt mellem brugeren og udbyderen, og som brugeren benytter til at iværksætte en betalingsordre.  
+19) Mikrobetalingsinstrument: Et betalingsinstrument, der i henhold til en rammeaftale udelukkende vedrører særskilte betalingstransaktioner på en værdi, der højst modsvarer en værdi på 60 euro, eller
 som enten har en beløbsgrænse på en værdi modsvarende 300 euro eller ikke lagrer midler på mere
-end en værdi modsvarende 500 euro.
+end en værdi modsvarende 500 euro.  
 20) Betalingsinitieringstjeneste: En tjenesteydelse, der iværksætter en betalingsordre efter instruktion fra
 en bruger med henblik på at foretage en betalingstransaktion fra en betalingskonto, der udbydes af
-en anden udbyder end udbyderen af betalingsinitieringstjenesten.
-21) Kontooplysningstjeneste: En tjenesteydelse, der giver en bruger konsolideret information om en eller
-flere af dennes betalingskonti, der udbydes af en eller flere kontoførende udbydere.
+en anden udbyder end udbyderen af betalingsinitieringstjenesten.  
+21) Kontooplysningstjeneste: En tjenesteydelse, der giver en bruger konsolideret information om en eller flere af dennes betalingskonti, der udbydes af en eller flere kontoførende udbydere.  
 22) Pengeoverførsel: En betalingstjeneste, hvor der modtages midler fra en betaler alene med det formål
 at overføre et tilsvarende beløb til en betalingsmodtager eller en anden udbyder af betalingstjenester
-på betalingsmodtagerens vegne, uden at der oprettes en betalingskonto i betalerens eller betalings‐
-modtagerens navn.
+på betalingsmodtagerens vegne, uden at der oprettes en betalingskonto i betalerens eller betalingsmodtagerens navn.  
 
 
-23) Direkte debitering: En betalingstjeneste til debitering af en betalers betalingskonto, hvor en beta‐
-lingsmodtager på grundlag af samtykke fra betaleren til betalingsmodtageren, dennes udbyder af be‐
-talingstjenester eller betalerens udbyder af betalingstjenester iværksætter en betalingstransaktion.
+23) Direkte debitering: En betalingstjeneste til debitering af en betalers betalingskonto, hvor en betalingsmodtager på grundlag af samtykke fra betaleren til betalingsmodtageren, dennes udbyder af betalingstjenester eller betalerens udbyder af betalingstjenester iværksætter en betalingstransaktion.  
 24) Kontooverførsel: En betalingstjeneste, der krediterer en betalingsmodtagers betalingskonto med en
-eller flere betalingstransaktioner fra en betalers betalingskonto til betalingsmodtagerens betalings‐
-konto på grundlag af instruks fra betaleren selv.
-25) Indløsning af betalingstransaktioner: En udbyder af betalingstjenester, der har indgået aftale med en
-betalingsmodtager om modtagelse og bearbejdning af betalingstransaktioner med henblik på at over‐
-føre midler til betalingsmodtageren.
+eller flere betalingstransaktioner fra en betalers betalingskonto til betalingsmodtagerens betalingskonto på grundlag af instruks fra betaleren selv.
+25) Indløsning af betalingstransaktioner: En udbyder af betalingstjenester, der har indgået aftale med en betalingsmodtager om modtagelse og bearbejdning af betalingstransaktioner med henblik på at overføre midler til betalingsmodtageren.  
 26) Udstedelse af betalingsinstrumenter: En udbyder af betalingstjenester, der indgår aftale med en beta‐
-ler om at udstede et betalingsinstrument, der kan iværksætte og bearbejde betalerens betalingstrans‐
-aktioner.
+ler om at udstede et betalingsinstrument, der kan iværksætte og bearbejde betalerens betalingstransaktioner.  
 27) Arbejdsdag: En dag, hvor betalerens eller betalingsmodtagerens relevante udbyder, der er involveret
 i gennemførelsen af en betalingstransaktion, holder åbent som påkrævet for gennemførelsen af en
-betalingstransaktion.
+betalingstransaktion.  
 28) Rammeaftale: En aftale om betalingstjenester, der regulerer den fremtidige udførelse af særskilte og
 successive betalingstransaktioner, og som kan indeholde forpligtelser og betingelser for oprettelse af
-en betalingskonto.
-29) Autentifikation: En procedure, der medfører, at en udbyder af betalingstjenester kan verificere iden‐
-titeten af brugeren eller validiteten af anvendelsen af et specifikt betalingsinstrument, herunder an‐
-vendelsen af en brugers personlige sikkerhedsforanstaltninger.
+en betalingskonto.  
+29) Autentifikation: En procedure, der medfører, at en udbyder af betalingstjenester kan verificere identiteten af brugeren eller validiteten af anvendelsen af et specifikt betalingsinstrument, herunder anvendelsen af en brugers personlige sikkerhedsforanstaltninger.  
 30) Stærk kundeautentifikation: En autentifikation, som er baseret på anvendelsen af to eller flere ele‐
 menter, der er kategoriseret som viden, besiddelse og iboende egenskab, der er uafhængige, så brud
 på et element ikke svækker pålideligheden af de andre elementer, og er designet på en sådan måde,
-at fortroligheden af autentifikationsdata beskyttes.
+at fortroligheden af autentifikationsdata beskyttes.  
 31) Personlig sikkerhedsforanstaltning: Personaliserede elementer, som udbyderen stiller til rådighed for
-brugeren med henblik på at foretage autentifikation.
+brugeren med henblik på at foretage autentifikation.  
 32) Fjernbetaling: En betalingstransaktion, der er iværksat via internettet eller en anden enhed, som kan
-anvendes til fjernkommunikation.
+anvendes til fjernkommunikation.  
 33) Følsomme betalingsdata: Data, herunder personlige sikkerhedsforanstaltninger, som kan anvendes til
 at foretage misbrug.
 34) Agent: En fysisk eller juridisk person, som handler på vegne af et betalingsinstitut ved udbuddet af
