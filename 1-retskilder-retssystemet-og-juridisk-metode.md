@@ -79,7 +79,7 @@ Yderliger tests i sublime
 
 # testlink 
 
-
+[testlink](id)
 ```
 Dette er i grå blok
 ```
@@ -106,3 +106,11 @@ XHTML allows for any tag to be 'empty' and 'self-closed'. That is, <tag /> is sh
 Anker 2 <a name="anker2"></a>
 
 <a name="pookie"></a>
+
+
+Hello {#id}
+-----
+
+# Hello {#id}
+
+# Hello # {#id}
