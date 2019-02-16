@@ -13,6 +13,7 @@ Erhvervs- og finansjura
 
 ### Lovsamling
 * [Aftaleloven](aftaleloven.md)
+* [Betalingsloven](Betalingsloven.md)
 * [www.tepedu.dk](https://www.tepedu.dk)
 * [I'm an inline-style link](https://www.google.com)
 
