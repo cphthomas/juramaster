@@ -13,8 +13,8 @@ Erhvervs- og finansjura
 
 ### Lovsamling
 * [Aftaleloven](aftaleloven-2.md)
-* [Arveloven](arveloven.md)
-* [Betalingsloven](lov-om-betalinger.md)
+* [Arveloven](arvelov.md)
+* [Betalingsloven](betalingsloven.md)
 * [Checkloven](checkloven.md)
 * [Datasammenskrivning-af-kong-christian-den-femtis-danske-lov](datasammenskrivning-af-kong-christian-den-femtis-danske-lov-1-2.md)
 * [E-handelsloven](e-handelsloven.md)
