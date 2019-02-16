@@ -1,21 +1,15 @@
----
-title: Aftaleloven
----
-#Aftaleloven
 
-### [I. Om afslutning af aftaler](#afslutning)  
-### [II. Om fuldmagt](#fuldmagt)  
-### [III. Om ugyldige viljeserklæringer](#viljeserklæringer)  	
-### [IV. Særlige regler om forbrugeraftaler](#forbrugeraftaler)	  
-### [V. Almindelige bestemmelser](#bestemmelser)  	
-
-Den fulde tekst  
-
+I. Om afslutning af aftaler	
+II. Om fuldmagt	
+III. Om ugyldige viljeserklæringer	
+IV. Særlige regler om forbrugeraftaler	
+V. Almindelige bestemmelser	
+Den fulde tekst
 Bekendtgørelse af lov om aftaler og andre retshandler på formuerettens område
 
 Herved bekendtgøres lov om aftaler og andre retshandler på formuerettens område, jf. lovbekendtgørelse nr. 781 af 26. august 1996, med de ændringer, der følger af § 2 i lov nr. 1376 af 28. december 2011 og § 15 i lov nr. 1565 af 15. december 2015.
 
-### I. Om afslutning af aftaler {#afslutning}
+I. Om afslutning af aftaler
 
 § 1. Tilbud og svar på tilbud er bindende for afgiveren. Reglerne i §§ 2-9 kommer til anvendelse, for så vidt ikke andet følger af tilbudet eller svaret eller af handelsbrug eller anden sædvane.
 
@@ -45,7 +39,7 @@ Stk. 2. Dette gælder dog ikke, når afsenderen af svaret går ud fra, at det er
 
 § 9 a. §§ 1-9 finder ikke anvendelse på afslutning af aftaler om løsørekøb, der er omfattet af den internationale købelov.
 
-### II. Om fuldmagt {#fuldmagt}
+II. Om fuldmagt
 
 § 10. Den, som har givet en anden fuldmagt til at foretage en retshandel, bliver umiddelbart berettiget og forpligtet overfor tredjemand ved retshandel, som fuldmægtigen foretager i fuldmagtsgiverens navn og indenfor fuldmagtens grænser.
 
@@ -105,7 +99,7 @@ Stk. 2. Denne bestemmelse kommer ikke til anvendelse, når tredjemand vidste ell
 
 Stk. 2. Med hensyn til tilbagekaldelsen af prokura, som er anmeldt til handelsregisteret, gælder således fremdeles, hvad der er fastsat i lov nr. 23 om handelsregistre, firma og prokura af 1. marts 1889 §§ 7 og 32. Når tilbagekaldelsen er indført i handelsregisteret og lovlig kundgjort, påhviler det ikke prokuragiveren at tilbagekalde fuldmagten på anden måde.
 
-### III. Om ugyldige viljeserklæringer {#viljeserklæringer}
+III. Om ugyldige viljeserklæringer
 
 § 28. Er en viljeserklæring retsstridigt fremkaldt ved personlig vold eller ved trussel om øjeblikkelig anvendelse af sådan, er den ikke bindende for den tvungne.
 
@@ -139,7 +133,7 @@ Stk. 2. Ved afgørelsen efter stk. 1 tages hensyn til forholdene ved aftalens in
 
 § 38. (Ophævet)
 
-### IV. Særlige regler om forbrugeraftaler {#forbrugeraftaler}
+IV. Særlige regler om forbrugeraftaler
 
 § 38 a. Bestemmelserne i dette kapitel finder anvendelse på forbrugeraftaler, herunder vilkår i forbrugeraftaler.
 
@@ -157,7 +151,7 @@ Stk. 2. Ved forbrugeraftaler gælder § 36, stk. 2, med den ændring, at der ikk
 
 § 38 d. Er det i en aftale bestemt, at lovgivningen i et land uden for Det Europæiske Økonomiske Samarbejdsområde skal finde anvendelse på aftalen, gælder en sådan bestemmelse ikke i spørgsmål om regler om urimelige aftalevilkår. Dette gælder dog kun, hvis det uden bestemmelsen ville være lovgivningen herom i et land inden for Det Europæiske Økonomiske Samarbejdsområde, der gjaldt for aftalen, og hvis denne lovgivning giver forbrugeren en bedre beskyttelse mod urimelige aftalevilkår.
 
-### V. Almindelige bestemmelser {#bestemmelser}
+V. Almindelige bestemmelser
 
 § 39. Når en viljeserklærings forbindende kraft ifølge denne lov er afhængig af, at den, til hvem erklæringen er afgivet, ikke havde eller burde have kundskab om et vist forhold eller i øvrigt var i god tro, bliver hensyn at tage til, hvad han indså eller burde indse på det tidspunkt, da viljeserklæringen blev ham bekendt. Dog kan der under særlige omstændigheder også tages hensyn til den kundskab, han har fået eller burde have fået efter det nævnte tidspunkt, men forinden viljeserklæringen har virket bestemmende på hans handlemåde.
 
