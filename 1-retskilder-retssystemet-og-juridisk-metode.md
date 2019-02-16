@@ -48,7 +48,18 @@ Content for chapter one.
 
 [til anker](/1-retskilder-retssystemet-og-juridisk-metode.html#anker1)
 
+[testanker](https://ju5.tepedu.dk/1-retskilder-retssystemet-og-juridisk-metode.html#anker1)  
 
+
+[testanker]("https://ju5.tepedu.dk/1-retskilder-retssystemet-og-juridisk-metode.html#anker1")  
+
+
+There is another way to create links which does not interrupt the text flow. The URL and title are defined using a reference name and this reference name is then used in square brackets instead of the link URL:
+
+This is [an example][id] reference-style link.
+Then, anywhere in the document, you define your link label like this, on a line by itself:
+
+[id]: http://example.com/  "Optional Title Here"
 
 ## Dette afsnit handler om juridisk metode
 
