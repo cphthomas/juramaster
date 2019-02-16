@@ -16,7 +16,7 @@ title: Arveloven
 ### [10 Testamentarisk bestemmelse over friarv](#Testamentariskbestemmelseoverfriarv)
 ### [11 Oprettelse og tilbagekaldelse af testamente](#Oprettelseogtilbagekaldelseaftestamente)
 ### [12 Testamentes ugyldighed og anfægtelse](#Testamentesugyldighedoganfægtelse)
-### [13 Fælles testamente](#Testamentesugyldighedoganfægtelse)
+### [13 Fælles testamente](#Fællestestamente)
 ### [14 Ægtefælles testamentariske bestemmelse om overtagelse efter vurdering](#Ægtefællestestamentariskebestemmelseomovertagelseeftervurdering)
 ### [15 Permutation](#Permutation)  
 ### [16 Dødsgaver m.v.](#Dødsgaverm.v.)  
