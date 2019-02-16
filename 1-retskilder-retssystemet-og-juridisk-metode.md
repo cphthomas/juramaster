@@ -50,9 +50,14 @@ Content for chapter one.
 
 [testanker](https://ju5.tepedu.dk/1-retskilder-retssystemet-og-juridisk-metode.html#anker1)  
 
+[testanker](/1-retskilder-retssystemet-og-juridisk-metode.html#anker1)  
 
-[testanker]("https://ju5.tepedu.dk/1-retskilder-retssystemet-og-juridisk-metode.html#anker1")  
+[testanker](/#anker1)  
 
+[testanker](#anker1)  
+
+
+[testanker]("#anker1")  
 
 There is another way to create links which does not interrupt the text flow. The URL and title are defined using a reference name and this reference name is then used in square brackets instead of the link URL:
 
