@@ -21,6 +21,8 @@ To insert an anchor point of that name use HTML:should be the correct markdown s
 
 To insert an anchor point of that name use HTML:  
 
+[sent til id1](id1)
+[sent til id2](id2)
 
 There is another way to create links which does not interrupt the text flow. The URL and title are defined using a reference name and this reference name is then used in square brackets instead of the link URL:
 There is another way to create links which does not interrupt the text flow. The URL and title are defined using a reference name and this reference name is then used in square brackets instead of the link URL:
@@ -72,6 +74,12 @@ There is another way to create links which does not interrupt the text flow. The
 There is another way to create links which does not interrupt the text flow. The URL and title are defined using a reference name and this reference name is then used in square brackets instead of the link URL:
 There is another way to create links which does not interrupt the text flow. The URL and title are defined using a reference name and this reference name is then used in square brackets instead of the link URL:
 
+
+
+[sent til id](id)
+[sent til id2](id2)
+[sent til id1](id1)
+[sent til id2](id2)
 There is another way to create links which does not interrupt the text flow. The URL and title are defined using a reference name and this reference name is then used in square brackets instead of the link URL:
 
 ```
