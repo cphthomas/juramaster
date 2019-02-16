@@ -1,9 +1,7 @@
 ---
 title: Betalingsloven
 ---
-# Betalingsloven
-
-
+# Lov om betalinger
 
 ```
 LOV nr 652 af 08/06/2017 (Gældende) Udskriftsdato: 14. februar 2019
@@ -21,7 +19,7 @@ LOV nr 706 af 08/06/
 LBK nr 1805 af 12/12/
 LOV nr 1520 af 18/12/
 ```
-# Lov om betalinger1)
+
 
 ```
 VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
