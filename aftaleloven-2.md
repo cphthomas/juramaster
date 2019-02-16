@@ -5,9 +5,9 @@ title: Aftaleloven
 
 ### [I. Om afslutning af aftaler] (#afslutning)
 ### [II. Om fuldmagt] (#fuldmagt)
-### III. Om ugyldige viljeserklæringer  	
-### IV. Særlige regler om forbrugeraftaler	  
-### V. Almindelige bestemmelser  	
+### [III. Om ugyldige viljeserklæringer] (#viljeserklæringer)  	
+### [IV. Særlige regler om forbrugeraftaler] (#forbrugeraftaler)	  
+### [V. Almindelige bestemmelser] (#bestemmelser)  	
 
 Den fulde tekst  
 
@@ -105,7 +105,7 @@ Stk. 2. Denne bestemmelse kommer ikke til anvendelse, når tredjemand vidste ell
 
 Stk. 2. Med hensyn til tilbagekaldelsen af prokura, som er anmeldt til handelsregisteret, gælder således fremdeles, hvad der er fastsat i lov nr. 23 om handelsregistre, firma og prokura af 1. marts 1889 §§ 7 og 32. Når tilbagekaldelsen er indført i handelsregisteret og lovlig kundgjort, påhviler det ikke prokuragiveren at tilbagekalde fuldmagten på anden måde.
 
-III. Om ugyldige viljeserklæringer
+### III. Om ugyldige viljeserklæringer {#viljeserklæringer}
 
 § 28. Er en viljeserklæring retsstridigt fremkaldt ved personlig vold eller ved trussel om øjeblikkelig anvendelse af sådan, er den ikke bindende for den tvungne.
 
@@ -139,7 +139,7 @@ Stk. 2. Ved afgørelsen efter stk. 1 tages hensyn til forholdene ved aftalens in
 
 § 38. (Ophævet)
 
-IV. Særlige regler om forbrugeraftaler
+### IV. Særlige regler om forbrugeraftaler {#forbrugeraftaler}
 
 § 38 a. Bestemmelserne i dette kapitel finder anvendelse på forbrugeraftaler, herunder vilkår i forbrugeraftaler.
 
@@ -157,7 +157,7 @@ Stk. 2. Ved forbrugeraftaler gælder § 36, stk. 2, med den ændring, at der ikk
 
 § 38 d. Er det i en aftale bestemt, at lovgivningen i et land uden for Det Europæiske Økonomiske Samarbejdsområde skal finde anvendelse på aftalen, gælder en sådan bestemmelse ikke i spørgsmål om regler om urimelige aftalevilkår. Dette gælder dog kun, hvis det uden bestemmelsen ville være lovgivningen herom i et land inden for Det Europæiske Økonomiske Samarbejdsområde, der gjaldt for aftalen, og hvis denne lovgivning giver forbrugeren en bedre beskyttelse mod urimelige aftalevilkår.
 
-V. Almindelige bestemmelser
+### V. Almindelige bestemmelser {#bestemmelser}
 
 § 39. Når en viljeserklærings forbindende kraft ifølge denne lov er afhængig af, at den, til hvem erklæringen er afgivet, ikke havde eller burde have kundskab om et vist forhold eller i øvrigt var i god tro, bliver hensyn at tage til, hvad han indså eller burde indse på det tidspunkt, da viljeserklæringen blev ham bekendt. Dog kan der under særlige omstændigheder også tages hensyn til den kundskab, han har fået eller burde have fået efter det nævnte tidspunkt, men forinden viljeserklæringen har virket bestemmende på hans handlemåde.
 
