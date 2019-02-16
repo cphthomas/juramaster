@@ -1,5 +1,5 @@
 ---
-title: Aftaleloven 2
+title: Aftaleloven
 ---
 
 I. Om afslutning af aftaler	
