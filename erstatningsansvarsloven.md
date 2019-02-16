@@ -3,7 +3,6 @@ title: Erstatningsansvarsloven
 ---
 # Erstatningsansvarsloven
 
-Oversigt (indholdsfortegnelse)
 ### Kapitel 1	Erstatning og godtgørelse for personskade og tab af forsørger
 ### Kapitel 2	Erstatningsansvar for skade, der er dækket af forsikring
 ### Kapitel 3	Forskellige bestemmelser
