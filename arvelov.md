@@ -19,7 +19,7 @@ title: Arveloven
 ### [13 Fælles testamente](#Fællestestamente)
 ### [14 Ægtefælles testamentariske bestemmelse om overtagelse efter vurdering](#Ægtefællestestamentariskebestemmelseomovertagelseeftervurdering)
 ### [15 Permutation](#Permutation)  
-### [16 Dødsgaver m.v.](#Dødsgaverm.v.)  
+### [16 Dødsgaver m.v.](#Dødsgaver)  
 ### [17 Overlevelseskravet](#Overlevelseskravet)
 ### [18 Arv, som tilfalder staten](#Arv,somtilfalderstaten)
 ### [19 Reguleringsbestemmelser](#Reguleringsbestemmelser)
@@ -662,7 +662,7 @@ Stk. 3. En fælles bopæl anses ikke for ophørt ved midlertidigt ophold i anden
 __§ 89.__ Testamentariske bestemmelser efter § 87 bortfalder, hvis parterne indgår ægteskab med hinanden, eller hvis en part indgår ægteskab med en anden.
 
 
-### 14 Ægtefælles testamentariske bestemmelse om overtagelse efter vurdering {#Ægtefællestestamentariskebestemmelseom overtagelseeftervurdering}
+### 14 Ægtefælles testamentariske bestemmelse om overtagelse efter vurdering {#Ægtefællestestamentariskebestemmelseomovertagelseeftervurdering}
 
 __§ 90.__ En ægtefælle kan ved testamente råde over enkelte genstande inden for sit fuldstændige særeje.
 
@@ -688,7 +688,7 @@ Stk. 2. Ved afgørelse efter stk. 1 bør der navnlig lægges vægt på testation
 Stk. 3. Har testator indsat nogen til at påse overholdelsen af en bestemmelse som nævnt i stk. 1, kan ændring ikke ske uden dennes samtykke, medmindre særlige omstændigheder taler for det.
 
 
-### 16 Dødsgaver m.v. {#Dødsgaverm.v.}
+### 16 Dødsgaver m.v. {#Dødsgaver}
 
 __§ 93.__ Reglerne om testamente finder tilsvarende anvendelse på gaver, der
 
