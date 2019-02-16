@@ -21,7 +21,7 @@ title: Arveloven
 ### [15 Permutation](#Permutation)  
 ### [16 Dødsgaver m.v.](#Dødsgaver)  
 ### [17 Overlevelseskravet](#Overlevelseskravet)
-### [18 Arv, som tilfalder staten](#Arv,somtilfalderstaten)
+### [18 Arv, som tilfalder staten](#Arvsomtilfalderstaten)
 ### [19 Reguleringsbestemmelser](#Reguleringsbestemmelser)
 ### [20 Forholdet til fremmed lovgivning](#Forholdettilfremmedlovgivning)
 ### [21 Ikrafttræden og overgangsregler](#Ikrafttrædenogovergangsregler)
@@ -706,7 +706,7 @@ __§ 94.__ Arveret tilkommer, medmindre andet er bestemt ved testamente, den, so
 Stk. 2. Er to, som havde arveret efter hinanden, døde, uden at det vides, hvem der er død først, anses den ene ikke for at have overlevet den anden.
 
 
-### 18 Arv, som tilfalder staten {#Arv,somtilfalderstaten}
+### 18 Arv, som tilfalder staten {#Arvsomtilfalderstaten}
 
 __§ 95.__ Er der ingen arvinger efter loven eller testamente, tilfalder afdødes formue staten.
 
