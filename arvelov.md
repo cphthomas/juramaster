@@ -1,7 +1,7 @@
 ---
-title: Arvelov
+title: Arveloven
 ---
-# Arvelov
+# Arveloven
 
 1	Slægtninges arveret  
 2	Ægtefællens arveret  
