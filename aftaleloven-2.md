@@ -1,18 +1,21 @@
 ---
 title: Aftaleloven
 ---
+#Aftaleloven
 
-I. Om afslutning af aftaler	
-II. Om fuldmagt	
-III. Om ugyldige viljeserklæringer	
-IV. Særlige regler om forbrugeraftaler	
-V. Almindelige bestemmelser	
-Den fulde tekst
+### [I. Om afslutning af aftaler] (#afslutning)
+### [II. Om fuldmagt] (#fuldmagt)
+### III. Om ugyldige viljeserklæringer  	
+### IV. Særlige regler om forbrugeraftaler	  
+### V. Almindelige bestemmelser  	
+
+Den fulde tekst  
+
 Bekendtgørelse af lov om aftaler og andre retshandler på formuerettens område
 
 Herved bekendtgøres lov om aftaler og andre retshandler på formuerettens område, jf. lovbekendtgørelse nr. 781 af 26. august 1996, med de ændringer, der følger af § 2 i lov nr. 1376 af 28. december 2011 og § 15 i lov nr. 1565 af 15. december 2015.
 
-I. Om afslutning af aftaler
+### I. Om afslutning af aftaler {#afslutning}
 
 § 1. Tilbud og svar på tilbud er bindende for afgiveren. Reglerne i §§ 2-9 kommer til anvendelse, for så vidt ikke andet følger af tilbudet eller svaret eller af handelsbrug eller anden sædvane.
 
@@ -42,7 +45,7 @@ Stk. 2. Dette gælder dog ikke, når afsenderen af svaret går ud fra, at det er
 
 § 9 a. §§ 1-9 finder ikke anvendelse på afslutning af aftaler om løsørekøb, der er omfattet af den internationale købelov.
 
-II. Om fuldmagt
+### II. Om fuldmagt {#fuldmagt}
 
 § 10. Den, som har givet en anden fuldmagt til at foretage en retshandel, bliver umiddelbart berettiget og forpligtet overfor tredjemand ved retshandel, som fuldmægtigen foretager i fuldmagtsgiverens navn og indenfor fuldmagtens grænser.
 
