@@ -381,23 +381,23 @@ __§ 49.__ Ægtefællers indbyrdes arveret bortfalder ved separation og skilsmis
 Stk. 2. Dør en af parterne i et omstødeligt ægteskab, arver den anden part ikke, hvis § 27, stk. 1 eller 2, i lov om ægteskabs indgåelse og opløsning efter den pågældendes anmodning anvendes, eller hvis sag til ægteskabets omstødelse af det offentlige var anlagt eller ifølge den lov, der var gældende ved ægteskabets indgåelse, skulle have været anlagt.
 
 
-### 9 Testamentarisk bestemmelse over tvangsarv
+### 9 Testamentarisk bestemmelse over tvangsarv {#Testamentariskbestemmelseovertvangsarv}
 
-Overtagelse efter vurdering
+__Overtagelse efter vurdering__
 
-§ 50. Arveladeren kan ikke ved testamente råde over tvangsarv, medmindre dette er hjemlet ved lov.
+__§ 50.__ Arveladeren kan ikke ved testamente råde over tvangsarv, medmindre dette er hjemlet ved lov.
 
 Stk. 2. Arveladeren kan ved testamente bestemme, at en livsarving skal have sin tvangsarv udbetalt kontant. Arveladeren kan endvidere ved testamente give en livsarving ret til for sin tvangsarv at overtage bestemte aktiver eller aktiver efter eget valg til vurderingsbeløbet. Det kan ved testamentet bestemmes, at denne ret også kan gives til aktiver, der overstiger værdien af den pågældendes arvelod, mod at livsarvingen betaler det overskydende beløb kontant til boet. Ægtefællens ret efter § 11, stk. 1, og § 91, stk. 2, skal respekteres.
 
 Stk. 3. En arvelader, som efterlader sig både fælleseje og fuldstændigt særeje, kan med respekt af ægtefællens rettigheder efter § 11, stk. 1, og § 91, stk. 2, ved testamente bestemme, om en livsarvings ret til tvangsarv skal dækkes af fællesejet eller af særejet.
 
-Umyndiges arv
+__Umyndiges arv__
 
-§ 51. En arvelader kan ved testamente bestemme, hvem tvangsarv, der tilkommer en livsarving efter arveladeren, skal tilfalde, hvis livsarvingen dør før det fyldte 18. år uden at have indgået ægteskab og uden at efterlade sig børn.
+__§ 51.__ En arvelader kan ved testamente bestemme, hvem tvangsarv, der tilkommer en livsarving efter arveladeren, skal tilfalde, hvis livsarvingen dør før det fyldte 18. år uden at have indgået ægteskab og uden at efterlade sig børn.
 
 Fordeling af tvangsarv efter en tvangsarving, der er ude af stand til at handle fornuftmæssigt
 
-§ 52. Justitsministeren eller den, justitsministeren bemyndiger dertil, kan tillade, at en arvelader ved testamente bestemmer, hvordan tvangsarv efter arveladeren skal fordeles ved tvangsarvingens død, hvis
+__§ 52.__ Justitsministeren eller den, justitsministeren bemyndiger dertil, kan tillade, at en arvelader ved testamente bestemmer, hvordan tvangsarv efter arveladeren skal fordeles ved tvangsarvingens død, hvis
 
 1) tvangsarvingen ikke er i stand til fornuftmæssigt at oprette testamente, jf. § 74,
 
@@ -413,25 +413,25 @@ Stk. 2. Testamentariske bestemmelser efter stk. 1 får kun virkning, hvis beting
 
 Stk. 3. Justitsministeren kan fastsætte regler om meddelelse af tilladelse efter stk. 1.
 
-Båndlæggelse af tvangsarv
+__Båndlæggelse af tvangsarv__
 
-§ 53. Arveladeren kan ved testamente bestemme, at en livsarvings tvangsarv helt eller delvis skal båndlægges, når arveladeren finder, at dette er bedst for livsarvingen. Båndlæggelse kan dog kun ske for tiden, indtil livsarvingen fylder 25 år.
+__§ 53.__ Arveladeren kan ved testamente bestemme, at en livsarvings tvangsarv helt eller delvis skal båndlægges, når arveladeren finder, at dette er bedst for livsarvingen. Båndlæggelse kan dog kun ske for tiden, indtil livsarvingen fylder 25 år.
 
 Stk. 2. Er arven af ringe værdi, kan justitsministeren eller den, justitsministeren bemyndiger dertil, fritage for opfyldelse af arveladerens bestemmelse om båndlæggelse.
 
-§ 54. Arven skal båndlægges i en forvaltningsafdeling, der er godkendt af justitsministeren eller den, justitsministeren bemyndiger dertil.
+__§ 54.__ Arven skal båndlægges i en forvaltningsafdeling, der er godkendt af justitsministeren eller den, justitsministeren bemyndiger dertil.
 
 Stk. 2. Hvis arvingen samtykker, kan arven med tilladelse fra justitsministeren eller den, justitsministeren bemyndiger dertil, båndlægges på anden måde, navnlig i fast ejendom.
 
 Stk. 3. Justitsministeren fastsætter regler om anbringelse af myndiges båndlagte midler.
 
-§ 55. Når arven er båndlagt, kan arvingen ikke råde over arven i levende live. Arvingen kan dog hæve renter og indtægter.
+__§ 55.__ Når arven er båndlagt, kan arvingen ikke råde over arven i levende live. Arvingen kan dog hæve renter og indtægter.
 
 Stk. 2. I den båndlagte kapital kan der, så længe arvingen lever, ikke søges fyldestgørelse af arvingens kreditorer. Det samme gælder uhævede renter og indtægter indtil 6 måneder efter forfaldsdagen.
 
 Stk. 3. Skal arvingen betale erstatning eller godtgørelse i anledning af en skade, som den pågældende forsætligt eller uagtsomt har forvoldt på person eller ting, kan det ved dom bestemmes, at båndlæggelsen ikke skal hindre, at beløbet betales af de båndlagte midler.
 
-§ 56. Justitsministeren eller den, justitsministeren bemyndiger dertil, kan tillade, at båndlagt arv frigives, når
+__§ 56.__ Justitsministeren eller den, justitsministeren bemyndiger dertil, kan tillade, at båndlagt arv frigives, når
 
 1) det er en velfærdssag for arvingen,
 
@@ -439,9 +439,9 @@ Stk. 3. Skal arvingen betale erstatning eller godtgørelse i anledning af en ska
 
 3) det er åbenbart, at båndlæggelsen ikke længere tjener et rimeligt formål.
 
-§ 57. Indeholder testamentet bestemmelser om udbetaling af den båndlagte arv til et bestemt tidspunkt eller ved bestemte begivenheders indtræden, foretages udbetalingen af forvaltningsafdelingen. Afhænger det derimod af et skøn, om testamentets betingelser er opfyldt, kan udbetaling kun ske efter bestemmelse af justitsministeren eller den, justitsministeren bemyndiger dertil.
+__§ 57.__ Indeholder testamentet bestemmelser om udbetaling af den båndlagte arv til et bestemt tidspunkt eller ved bestemte begivenheders indtræden, foretages udbetalingen af forvaltningsafdelingen. Afhænger det derimod af et skøn, om testamentets betingelser er opfyldt, kan udbetaling kun ske efter bestemmelse af justitsministeren eller den, justitsministeren bemyndiger dertil.
 
-§ 58. Båndlagt arv er skilsmissesæreje. Den båndlagte arv bliver dog fuldstændigt særeje ved arvingens ægtefælles død. Arvingen og dennes ægtefælle kan ved ægtepagt bestemme, at arven skal være fuldstændigt særeje.
+__§ 58.__ Båndlagt arv er skilsmissesæreje. Den båndlagte arv bliver dog fuldstændigt særeje ved arvingens ægtefælles død. Arvingen og dennes ægtefælle kan ved ægtepagt bestemme, at arven skal være fuldstændigt særeje.
 
 Stk. 2. Stk. 1 finder tilsvarende anvendelse, når en båndlæggelse ophører som følge af, at
 
@@ -455,37 +455,35 @@ Stk. 2. Stk. 1 finder tilsvarende anvendelse, når en båndlæggelse ophører so
 
 Stk. 3. Stk. 1 og 2 kan fraviges ved testamente.
 
-Kapitel 10
 
-Testamentarisk bestemmelse over friarv
+### 10 Testamentarisk bestemmelse over friarv {#Testamentariskbestemmelseoverfriarv}
 
 Overtagelse efter vurdering
 
-§ 59. § 50, stk. 2 og 3, finder tilsvarende anvendelse ved friarv.
+__§ 59.__ § 50, stk. 2 og 3, finder tilsvarende anvendelse ved friarv.
 
-Successionsrækkefølger
+__Successionsrækkefølger__
 
-§ 60. Friarv kan ved testamente indsættes i en successionsrækkefølge, således at arven tilfalder en arving eller legatar på første plads og derefter en eller flere andre arvinger eller legatarer på anden eller senere pladser.
+__§ 60.__ Friarv kan ved testamente indsættes i en successionsrækkefølge, således at arven tilfalder en arving eller legatar på første plads og derefter en eller flere andre arvinger eller legatarer på anden eller senere pladser.
 
 Stk. 2. Ved testamente kan arv eller legat ikke tillægges flere ved testators død ufødte personer efter hinanden.
 
-Båndlæggelse af friarv
+__Båndlæggelse af friarv__
 
-§ 61. Friarv kan båndlægges ved testamente, når arveladeren finder, at dette er bedst for arvingen. § 53, stk. 2, og §§ 54-58 finder tilsvarende anvendelse. § 54, § 55, stk. 1, 2. pkt., og stk. 2, samt § 58 kan fraviges ved testamente.
+__§ 61.__ Friarv kan båndlægges ved testamente, når arveladeren finder, at dette er bedst for arvingen. § 53, stk. 2, og §§ 54-58 finder tilsvarende anvendelse. § 54, § 55, stk. 1, 2. pkt., og stk. 2, samt § 58 kan fraviges ved testamente.
 
-Kapitel 11
 
-Oprettelse og tilbagekaldelse af testamente
+__Oprettelse og tilbagekaldelse af testamente__
 
-Testationsalder
+__Testationsalder__
 
-§ 62. Den, der er fyldt 18 år eller har indgået ægteskab, kan ved testamente råde over sine ejendele, jf. dog §§ 5, 10 og 11.
+__§ 62.__ Den, der er fyldt 18 år eller har indgået ægteskab, kan ved testamente råde over sine ejendele, jf. dog §§ 5, 10 og 11.
 
 Stk. 2. Den, der er fyldt 15 år, kan, jf. dog §§ 5, 10 og 11, ved testamente råde over ejendele, som den pågældende selv kan råde over efter værgemålslovens § 42.
 
-Notartestamente
+__Notartestamente__
 
-§ 63. Testamente kan oprettes skriftligt og underskrives eller vedkendes for en notar.
+__§ 63.__ Testamente kan oprettes skriftligt og underskrives eller vedkendes for en notar.
 
 Stk. 2. Notaren skal i sin påtegning på testamentet afgive erklæring
 
@@ -499,9 +497,9 @@ Stk. 2. Notaren skal i sin påtegning på testamentet afgive erklæring
 
 Stk. 3. Justitsministeren fastsætter regler om notarens virksomhed, opbevaring af en kopi af testamentet, indberetning til Bil- og Personbogen og adgangen til at få oplysninger om oprettede testamenter.
 
-Vidnetestamente
+__Vidnetestamente__
 
-§ 64. Testamente kan oprettes skriftligt og underskrives eller vedkendes under samtidig tilstedeværelse af to vidner, der straks efter testators underskrivelse eller vedkendelse af testamentet skal skrive deres navne på testamentet. Vidnerne skal være til stede som testamentsvidner efter testators ønske, og de skal have kendskab til, at de bevidner oprettelsen af et testamente.
+__§ 64.__ Testamente kan oprettes skriftligt og underskrives eller vedkendes under samtidig tilstedeværelse af to vidner, der straks efter testators underskrivelse eller vedkendelse af testamentet skal skrive deres navne på testamentet. Vidnerne skal være til stede som testamentsvidner efter testators ønske, og de skal have kendskab til, at de bevidner oprettelsen af et testamente.
 
 Stk. 2. Vidnerne skal være fyldt 18 år og må ikke på grund af forhold som nævnt i § 74 mangle forståelse for vidnebekræftelsens betydning.
 
@@ -527,59 +525,58 @@ Stk. 5. Vidnerne bør i deres påtegning på testamentet afgive erklæring
 
 5) om andre omstændigheder, der kan være af betydning for testamentets gyldighed.
 
-Nødtestamente
+__Nødtestamente__
 
-§ 65. Den, der på grund af sygdom eller andet nødstilfælde er forhindret i at oprette testamente efter § 63 og § 64, kan på en hvilken som helst måde oprette et nødtestamente.
+__§ 65.__ Den, der på grund af sygdom eller andet nødstilfælde er forhindret i at oprette testamente efter § 63 og § 64, kan på en hvilken som helst måde oprette et nødtestamente.
 
 Stk. 2. Et nødtestamente bortfalder, når der i 3 måneder ikke har været nogen hindring for at oprette testamente efter § 63 og § 64.
 
-Fordeling af sædvanligt indbo m.v.
+__Fordeling af sædvanligt indbo m.v.__
 
-§ 66. Testamentarisk bestemmelse om, hvem der skal arve sædvanligt indbo og personlige effekter, kan oprettes skriftligt af testator ved en dateret og underskrevet erklæring.
+__§ 66.__ Testamentarisk bestemmelse om, hvem der skal arve sædvanligt indbo og personlige effekter, kan oprettes skriftligt af testator ved en dateret og underskrevet erklæring.
 
 Stk. 2. For den, der i forvejen er arving, anses en begunstigelse efter stk. 1 for en fortrinsret til inden for sin arvelod at overtage de pågældende genstande til vurderingsbeløbet, medmindre andet fremgår af den testamentariske bestemmelse.
 
-Tilbagekaldelse af testamente
+__Tilbagekaldelse af testamente__
 
-§ 67. Tilbagekaldelse eller ændring af et testamente skal ske i overensstemmelse med reglerne om oprettelse af testamente.
+__§ 67.__ Tilbagekaldelse eller ændring af et testamente skal ske i overensstemmelse med reglerne om oprettelse af testamente.
 
 Stk. 2. I de tilfælde, der er omhandlet i § 49, skal et testamente, som den ene ægtefælle har oprettet til fordel for den anden ægtefælle, anses for tilbagekaldt, medmindre særlige omstændigheder taler imod det.
 
 Stk. 3. Hvis et ægteskabslignende samliv ophører på grund af uoverensstemmelser, skal et testamente, herunder et testamente efter § 87, som en samlever har oprettet til fordel for en anden samlever, anses for tilbagekaldt, medmindre særlige omstændigheder taler imod det.
 
-Uigenkaldelighed
+__Uigenkaldelighed__
 
-§ 68. En arvelader kan forpligte sig til ikke at oprette eller tilbagekalde et testamente.
+__§ 68.__ En arvelader kan forpligte sig til ikke at oprette eller tilbagekalde et testamente.
 
 Stk. 2. Erklæringen skal afgives i overensstemmelse med reglerne om oprettelse af testamente. Er arveladeren umyndig, kræves værgens og statsforvaltningens samtykke.
 
-Kapitel 12
 
-Testamentes ugyldighed og anfægtelse
+### 12 Testamentes ugyldighed og anfægtelse {#Testamentesugyldighedoganfægtelse}
 
-§ 69. Et testamente er ugyldigt, hvis testator ikke ved oprettelsen opfyldte betingelserne i § 62, eller hvis testamentet ikke opfyldte kravene i § 63, stk. 1, § 64, stk. 1-3, eller § 66.
+__§ 69.__ Et testamente er ugyldigt, hvis testator ikke ved oprettelsen opfyldte betingelserne i § 62, eller hvis testamentet ikke opfyldte kravene i § 63, stk. 1, § 64, stk. 1-3, eller § 66.
 
-§ 70. Notarens påtegning på et testamente oprettet i medfør af § 63 skal anses som bevis for de forhold, der er omfattet af attestationen, medmindre særlige omstændigheder giver grund til at betvivle påtegningens rigtighed.
+__§ 70.__ Notarens påtegning på et testamente oprettet i medfør af § 63 skal anses som bevis for de forhold, der er omfattet af attestationen, medmindre særlige omstændigheder giver grund til at betvivle påtegningens rigtighed.
 
-§ 71. Hvis der rejses indsigelse mod testamente oprettet i medfør af § 64, skal den, der vil påberåbe sig testamentet, godtgøre, at testamentet er gyldigt oprettet.
+__§ 71.__ Hvis der rejses indsigelse mod testamente oprettet i medfør af § 64, skal den, der vil påberåbe sig testamentet, godtgøre, at testamentet er gyldigt oprettet.
 
 Stk. 2. Testamentsvidnernes påtegning på et vidnetestamente om de forhold, der er nævnt i § 64, stk. 1, skal anses som bevis herfor, medmindre særlige omstændigheder giver grund til at betvivle påtegningens rigtighed.
 
-§ 72. Et testamente oprettet i medfør af § 65 er ugyldigt, hvis
+__§ 72.__ Et testamente oprettet i medfør af § 65 er ugyldigt, hvis
 
 1) det ikke kan anses for sikkert, at testamentet er udtryk for testators beslutning og er oprettet af denne, eller
 
 2) det må antages, at testator ikke var i stand til fornuftmæssigt at oprette testamentet.
 
-§ 73. En testamentarisk disposition efter § 66 er gyldig, medmindre det må antages, at den ikke er oprettet af testator, eller at testator ikke var i stand til fornuftmæssigt at fordele de pågældende genstande.
+__§ 73.__ En testamentarisk disposition efter § 66 er gyldig, medmindre det må antages, at den ikke er oprettet af testator, eller at testator ikke var i stand til fornuftmæssigt at fordele de pågældende genstande.
 
-§ 74. En testamentarisk bestemmelse er ugyldig, hvis testator ved dens oprettelse på grund af sindssygdom, herunder svær demens, hæmmet psykisk udvikling, forbigående sindsforvirring eller en lignende tilstand manglede evnen til fornuftmæssigt at råde over sine ejendele.
+__§ 74.__ En testamentarisk bestemmelse er ugyldig, hvis testator ved dens oprettelse på grund af sindssygdom, herunder svær demens, hæmmet psykisk udvikling, forbigående sindsforvirring eller en lignende tilstand manglede evnen til fornuftmæssigt at råde over sine ejendele.
 
-§ 75. En testamentarisk bestemmelse er ugyldig, hvis den må antages at være fremkaldt ved tvang, svig eller anden utilbørlig påvirkning, herunder ved misbrug af testators manglende dømmekraft, svaghedstilstand eller afhængighed.
+__§ 75.__ En testamentarisk bestemmelse er ugyldig, hvis den må antages at være fremkaldt ved tvang, svig eller anden utilbørlig påvirkning, herunder ved misbrug af testators manglende dømmekraft, svaghedstilstand eller afhængighed.
 
-§ 76. En testamentarisk bestemmelse, der på grund af en fejlskrift eller anden fejltagelse har fået et indhold, der afviger fra det tilsigtede indhold, skal så vidt muligt gennemføres efter sin rette mening. Hvis denne ikke kan fastslås, er den testamentariske bestemmelse ugyldig.
+__§ 76.__ En testamentarisk bestemmelse, der på grund af en fejlskrift eller anden fejltagelse har fået et indhold, der afviger fra det tilsigtede indhold, skal så vidt muligt gennemføres efter sin rette mening. Hvis denne ikke kan fastslås, er den testamentariske bestemmelse ugyldig.
 
-§ 77. En testamentarisk bestemmelse er ugyldig, hvis
+__§ 77.__ En testamentarisk bestemmelse er ugyldig, hvis
 
 1) testator ved oprettelsen befandt sig i en vildfarelse om omstændigheder, som var afgørende for bestemmelsen, eller
 
@@ -587,21 +584,20 @@ Stk. 2. Testamentsvidnernes påtegning på et vidnetestamente om de forhold, der
 
 Stk. 2. Uanset stk. 1 skal bestemmelsen dog gennemføres efter sin rette mening, hvis denne kan fastslås.
 
-§ 78. En testamentarisk bestemmelse, der går ud på en anvendelse eller tilintetgørelse af ejendelene, som åbenbart savner fornuftig mening, er ugyldig.
+__§ 78.__ En testamentarisk bestemmelse, der går ud på en anvendelse eller tilintetgørelse af ejendelene, som åbenbart savner fornuftig mening, er ugyldig.
 
 § 79. Indsigelse mod et testamentes gyldighed kan rejses af enhver, som vil arve, hvis testamentet erklæres ugyldigt.
 
-Kapitel 13
 
-Fælles testamente
+### 13 Fælles testamente {#Fællestestamente}
 
-Tilbagekaldelse af en fælles testamentarisk disposition
+__Tilbagekaldelse af en fælles testamentarisk disposition__
 
-§ 80. Ensidig tilbagekaldelse af en fælles testamentarisk disposition skal for at være gyldig meddeles den anden part, medmindre dette af særlige grunde er udelukket.
+__§ 80.__ Ensidig tilbagekaldelse af en fælles testamentarisk disposition skal for at være gyldig meddeles den anden part, medmindre dette af særlige grunde er udelukket.
 
-Længstlevendes testationsret
+__Længstlevendes testationsret__
 
-§ 81. Har ægtefæller ved en fælles testamentarisk disposition truffet bestemmelse om, hvordan arven skal fordeles ved længstlevendes død, kan den længstlevende ægtefælle ved testamente råde over friarven i boet efter længstlevende, jf. dog stk. 2.
+__§ 81.__ Har ægtefæller ved en fælles testamentarisk disposition truffet bestemmelse om, hvordan arven skal fordeles ved længstlevendes død, kan den længstlevende ægtefælle ved testamente råde over friarven i boet efter længstlevende, jf. dog stk. 2.
 
 Stk. 2. Den længstlevende ægtefælle kan ikke ved testamente råde over
 
@@ -611,11 +607,11 @@ Stk. 2. Den længstlevende ægtefælle kan ikke ved testamente råde over
 
 Stk. 3. Stk. 1 og 2 finder ikke anvendelse, hvis den fælles testamentariske disposition indeholder anden bestemmelse om den længstlevende ægtefælles testationsret.
 
-§ 82. § 81 finder tilsvarende anvendelse, hvor et fælles testamente er oprettet af andre end ægtefæller.
+__§ 82.__ § 81 finder tilsvarende anvendelse, hvor et fælles testamente er oprettet af andre end ægtefæller.
 
-Længstlevendes dispositionsadgang i levende live
+__Længstlevendes dispositionsadgang i levende live__
 
-§ 83. Har ægtefæller ved fælles testamente truffet bestemmelse om arvens fordeling efter den længstlevendes død, som den længstlevende ikke kan tilbagekalde, kan den længstlevende ikke tilsidesætte denne bestemmelse ved
+__§ 83.__ Har ægtefæller ved fælles testamente truffet bestemmelse om arvens fordeling efter den længstlevendes død, som den længstlevende ikke kan tilbagekalde, kan den længstlevende ikke tilsidesætte denne bestemmelse ved
 
 1) at give gaver eller arveforskud, hvis værdi står i misforhold til formuen, eller
 
@@ -629,27 +625,27 @@ Stk. 4. Efter den længstlevende ægtefælles død finder stk. 2 og 3 ikke anven
 
 Stk. 5. Stk. 2-4 finder ikke anvendelse, hvis dette er udelukket ved testamentet.
 
-§ 84. Omstødelsessag efter § 83 anlægges ved skifteretten i den retskreds, hvor den længstlevende ægtefælle har hjemting, jf. retsplejelovens §§ 235 og 236, eller hvor dødsboet efter den længstlevende ægtefælle behandles, jf. lov om skifte af dødsboer § 2. Skifteretten afgør sagen ved dom. Retsplejelovens §§ 226 og 227 finder tilsvarende anvendelse.
+__§ 84.__ Omstødelsessag efter § 83 anlægges ved skifteretten i den retskreds, hvor den længstlevende ægtefælle har hjemting, jf. retsplejelovens §§ 235 og 236, eller hvor dødsboet efter den længstlevende ægtefælle behandles, jf. lov om skifte af dødsboer § 2. Skifteretten afgør sagen ved dom. Retsplejelovens §§ 226 og 227 finder tilsvarende anvendelse.
 
 Stk. 2. En sag efter § 83, stk. 2, skal anlægges inden 1 år efter, at arvingen har eller burde have fået kendskab til fuldbyrdelsen af gaven eller arveforskuddet.
 
 Stk. 3. En sag efter § 83, stk. 3, skal anlægges inden 1 år efter, at arvingen har eller burde have fået kendskab til udbetalingen.
 
-§ 85. Har den længstlevende ægtefælle ved dispositioner som nævnt i § 83 væsentligt formindsket sin formue ved begunstigelse af en arving, kan en anden arving, når boet skiftes, kræve vederlag af det beholdne bo.
+__§ 85.__ Har den længstlevende ægtefælle ved dispositioner som nævnt i § 83 væsentligt formindsket sin formue ved begunstigelse af en arving, kan en anden arving, når boet skiftes, kræve vederlag af det beholdne bo.
 
 Stk. 2. Stk. 1 finder ikke anvendelse, hvis dette er udelukket ved testamente.
 
-§ 86. §§ 83-85 finder tilsvarende anvendelse, hvor et fælles testamente er oprettet af andre end ægtefæller.
+__§ 86.__ §§ 83-85 finder tilsvarende anvendelse, hvor et fælles testamente er oprettet af andre end ægtefæller.
 
-Udvidet samlevertestamente
+__Udvidet samlevertestamente__
 
-§ 87. To personer kan ved testamente bestemme, at de helt eller delvis vil arve hinanden og arves, som var de ægtefæller.
+__§ 87.__ To personer kan ved testamente bestemme, at de helt eller delvis vil arve hinanden og arves, som var de ægtefæller.
 
 Stk. 2. Det kan ikke i et testamente efter stk. 1 bestemmes, at lovens regler om arv vedrørende fælleseje, herunder reglerne om uskiftet bo, skal finde anvendelse.
 
 Stk. 3. Et testamente efter stk. 1 indebærer ikke, at § 10 finder anvendelse.
 
-§ 88. Et testamente efter § 87 er kun gyldigt, hvis parterne ved oprettelsen
+__§ 88.__ Et testamente efter § 87 er kun gyldigt, hvis parterne ved oprettelsen
 
 1) opfyldte betingelserne i § 6, § 9 og § 10 i lov om ægteskab indgåelse og opløsning og
 
@@ -663,13 +659,12 @@ Stk. 2. Et testamente efter § 87 er endvidere kun gyldigt, hvis parterne på ti
 
 Stk. 3. En fælles bopæl anses ikke for ophørt ved midlertidigt ophold i anden bolig eller ved ophold i institution.
 
-§ 89. Testamentariske bestemmelser efter § 87 bortfalder, hvis parterne indgår ægteskab med hinanden, eller hvis en part indgår ægteskab med en anden.
+__§ 89.__ Testamentariske bestemmelser efter § 87 bortfalder, hvis parterne indgår ægteskab med hinanden, eller hvis en part indgår ægteskab med en anden.
 
-Kapitel 14
 
-Ægtefælles testamentariske bestemmelse om overtagelse efter vurdering
+### 14 Ægtefælles testamentariske bestemmelse om overtagelse efter vurdering {#Ægtefællestestamentariskebestemmelseom overtagelseeftervurdering}
 
-§ 90. En ægtefælle kan ved testamente råde over enkelte genstande inden for sit fuldstændige særeje.
+__§ 90.__ En ægtefælle kan ved testamente råde over enkelte genstande inden for sit fuldstændige særeje.
 
 § 91. En ægtefælle, som efterlader sig aktiver, der er fælleseje i boet, kan ved testamente råde over genstande, som tilhører den pågældende, og som ligger inden for så stor en del af fællesboet, som ved ægtefællens død falder i arv efter denne.
 
