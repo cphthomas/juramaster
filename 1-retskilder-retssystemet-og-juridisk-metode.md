@@ -84,7 +84,11 @@ Yderliger tests i sublime
 
 # testlink 
 
-[testlink](id)
+[testlink](#id)
+
+
+[testlink](#id2)
+
 ```
 Dette er i grå blok
 ```
@@ -118,4 +122,4 @@ Hello {#id}
 
 # Hello {#id}
 
-# Hello # {#id}
+# Hello # {#id2}
