@@ -473,7 +473,7 @@ __Båndlæggelse af friarv__
 __§ 61.__ Friarv kan båndlægges ved testamente, når arveladeren finder, at dette er bedst for arvingen. § 53, stk. 2, og §§ 54-58 finder tilsvarende anvendelse. § 54, § 55, stk. 1, 2. pkt., og stk. 2, samt § 58 kan fraviges ved testamente.
 
 
-__Oprettelse og tilbagekaldelse af testamente__
+### 11 Oprettelse og tilbagekaldelse af testamente {#Oprettelseogtilbagekaldelseaftestamente}
 
 __Testationsalder__
 
