@@ -252,7 +252,7 @@ Finanstilsynets mulighed for at føre tilsyn med virksomheden.
 _Stk. 4._ Finanstilsynet kan fastsætte regler for den i stk. 2 nævnte ansvarsforsikring eller tilsvarende ga‐
 ranti, herunder om beregning af minimumsbeløbet.
 
-
+```
 **§ 11.** En ansøgning om tilladelse skal indeholde de oplysninger, der er nødvendige til brug for Finanstil‐
 synets vurdering af, om kravene i § 10 er opfyldt. Ansøgningen skal som minimum indeholde:
 1) Oplysninger om virksomhedens retlige form med kopi af stiftelsesdokument og vedtægter.
@@ -300,12 +300,9 @@ rende de software- og it-systemer, der anvendes af ansøgeren eller de virksomhe
 outsourcer alle eller dele af sine aktiviteter til.
 18) Oplysninger om virksomhedens revisor.
 _Stk. 2._ Oplysningerne i stk. 1, nr. 5, 10, 11 og 12, skal endvidere indeholde en beskrivelse af de organi‐
-satoriske og revisionsmæssige foranstaltninger, som virksomheden har truffet for at beskytte brugernes
-
-
-interesser og sikre kontinuitet i forbindelse med udstedelsen af elektroniske penge eller udførelsen af be‐
-talingstjenester.
+satoriske og revisionsmæssige foranstaltninger, som virksomheden har truffet for at beskytte brugernes interesser og sikre kontinuitet i forbindelse med udstedelsen af elektroniske penge eller udførelsen af betalingstjenester.
 _Stk. 3._ Finanstilsynet kan fastsætte nærmere regler om de i stk. 1 og 2 nævnte oplysninger.
+```
 
 _Startkapital_
 **§ 12.** En virksomhed, der søger om tilladelse som e-pengeinstitut eller betalingsinstitut, skal på tids‐
