@@ -3,9 +3,9 @@ title: Arveloven
 ---
 
 
-```
-Den fulde tekst
-```
+
+### Den fulde tekst
+
 
 # Arveloven
 

@@ -2,9 +2,9 @@
 title: Betalingsloven
 ---
 
-```
-Den fulde tekst
-```
+
+### Den fulde tekst
+
 
 # Betalingsloven
 
