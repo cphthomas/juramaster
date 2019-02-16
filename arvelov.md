@@ -128,7 +128,7 @@ __§ 14.__ §§ 12 og 13 finder ikke anvendelse for aktiver, som arveladeren har
 
 ### Svogerskabsarv efter en længstlevende ægtefælle {#Svogerskabsarvefterenlængstlevendeægtefælle}
 
-§ 15. Dør den længstlevende ægtefælle efter at have arvet den førstafdøde ægtefælle i henhold til § 9, stk. 2, herunder i henhold til et testamente, deles boet med halvdelen til hver ægtefælles slægtsarvinger, medmindre den længstlevende ægtefælle
+__§ 15.__ Dør den længstlevende ægtefælle efter at have arvet den førstafdøde ægtefælle i henhold til § 9, stk. 2, herunder i henhold til et testamente, deles boet med halvdelen til hver ægtefælles slægtsarvinger, medmindre den længstlevende ægtefælle
 
 1) har indgået nyt ægteskab,
 
@@ -144,7 +144,7 @@ Stk. 3. Har en af ægtefællerne truffet bestemmelse ved testamente, deles den d
 
 Stk. 4. Stk. 1-3 er ikke til hinder for, at den længstlevende ægtefælle ved testamente kan råde over hele boet.
 
-§ 16. Dør den længstlevende ægtefælle efter at have benyttet sig af sin ret efter § 11, stk. 2, deles boet efter stk. 2-6, medmindre den længstlevende ægtefælle
+__§ 16.__ Dør den længstlevende ægtefælle efter at have benyttet sig af sin ret efter § 11, stk. 2, deles boet efter stk. 2-6, medmindre den længstlevende ægtefælle
 
 1) har indgået nyt ægteskab,
 
@@ -164,21 +164,20 @@ Stk. 6. Arv efter § 1, som en særlivsarving har modtaget ved den førstafdøde
 
 Stk. 7. Stk. 2-6 er ikke til hinder for, at den længstlevende ægtefælle ved testamente kan råde over hele boet.
 
-Kapitel 4
 
-Uskiftet bo
+### Uskiftet bo {#Uskiftetbo}
 
 Betingelser for uskiftet bo m.v.
 
-§ 17. Efter en ægtefælles død kan den længstlevende ægtefælle overtage ægtefællernes fælleseje, jf. dog § 23, stk. 2-6, til uskiftet bo med deres fælles livsarvinger.
+__§ 17.__ Efter en ægtefælles død kan den længstlevende ægtefælle overtage ægtefællernes fælleseje, jf. dog § 23, stk. 2-6, til uskiftet bo med deres fælles livsarvinger.
 
-§ 18. Efterlader den førstafdøde ægtefælle sig særlivsarvinger, kan boet kun udleveres til uskiftet bo med samtykke fra dem.
+__§ 18.__ Efterlader den førstafdøde ægtefælle sig særlivsarvinger, kan boet kun udleveres til uskiftet bo med samtykke fra dem.
 
 Stk. 2. Er en særlivsarving umyndig ifølge værgemålslovens § 1, stk. 1, eller er der beskikket skifteværge for en særlivsarving, kan skifteretten tillade boets udlevering til uskiftet bo, hvis værgen eller skifteværgen samtykker deri og udleveringen er forsvarlig under hensyn til livsarvingernes interesser og den længstlevende ægtefælles forhold. Det samme gælder, hvis en særlivsarving er under værgemål efter værgemålslovens § 5 eller under samværgemål efter værgemålslovens § 7, hvis værgemålet angår dette anliggende. Er særlivsarvingen under samværgemål, kræves tillige samtykke fra særlivsarvingen.
 
 Stk. 3. Udleveres boet til uskiftet bo med den afdødes mindreårige særlivsarvinger, overtager den længstlevende ægtefælle den afdødes forsørgelsespligt over for dem.
 
-§ 19. Et bo kan ikke udleveres til uskiftet bo, hvis den længstlevende ægtefælle ikke i sin bodel og sit fuldstændige særeje råder over tilstrækkelige midler til at dække sine forpligtelser. Ved vurderingen heraf tages hensyn til midler, som den længstlevende ægtefælle vil modtage i arv fra den førstafdøde ægtefælles fuldstændige særeje, samt erstatnings-, forsikrings- og pensionsbeløb, der tilfalder den længstlevende ægtefælle i anledning af den førstafdøde ægtefælles død.
+__§ 19.__ Et bo kan ikke udleveres til uskiftet bo, hvis den længstlevende ægtefælle ikke i sin bodel og sit fuldstændige særeje råder over tilstrækkelige midler til at dække sine forpligtelser. Ved vurderingen heraf tages hensyn til midler, som den længstlevende ægtefælle vil modtage i arv fra den førstafdøde ægtefælles fuldstændige særeje, samt erstatnings-, forsikrings- og pensionsbeløb, der tilfalder den længstlevende ægtefælle i anledning af den førstafdøde ægtefælles død.
 
 Stk. 2. Skifteretten kan tillade, at boet udleveres til uskiftet bo, hvis en insolvens efter stk. 1 efter boets forhold må anses for ubetydelig.
 
@@ -186,15 +185,15 @@ Stk. 3. Uanset stk. 1 kan boet dog udleveres til uskiftet bo, hvis den førstafd
 
 Stk. 4. Et bo kan ikke udleveres til uskiftet bo, hvis den længstlevende ægtefælle efter udleveringen ikke vil råde over tilstrækkelige midler til at dække såvel den førstafdøde ægtefælles som egne forpligtelser.
 
-§ 20. Anmodning om et bos udlevering til uskiftet bo fremsættes af ægtefællen eller af dennes værge eller skifteværge.
+__§ 20.__ Anmodning om et bos udlevering til uskiftet bo fremsættes af ægtefællen eller af dennes værge eller skifteværge.
 
 Stk. 2. Er ægtefællen umyndig, under værgemål efter værgemålslovens § 5, under samværgemål efter værgemålslovens § 7, eller er der beskikket skifteværge for ægtefællen, kan boet kun udleveres til uskiftet bo, hvis skifteretten finder dette bedst for ægtefællen.
 
-§ 21. Skifteretten skal underrette den førstafdøde ægtefælles livsarvinger om udleveringen til uskiftet bo.
+__§ 21.__ Skifteretten skal underrette den førstafdøde ægtefælles livsarvinger om udleveringen til uskiftet bo.
 
 Det uskiftede bos midler m.v.
 
-§ 22. Inden 6 måneder efter dødsfaldet skal den længstlevende ægtefælle til skifteretten indlevere en formueoversigt, som omfatter
+__§ 22.__ Inden 6 måneder efter dødsfaldet skal den længstlevende ægtefælle til skifteretten indlevere en formueoversigt, som omfatter
 
 1) den førstafdøde ægtefælles fællesejemidler,
 
@@ -216,7 +215,7 @@ Stk. 5. Skifteretten skal efter anmodning udlevere et eksemplar af formueoversig
 
 Stk. 6. Justitsministeren fastsætter nærmere regler om formueoversigten og om de blanketter, der kan anvendes.
 
-§ 23. I det uskiftede bo indgår alt, hvad den længstlevende ægtefælle erhverver, for så vidt det ikke er gjort til fuldstændigt særeje.
+__§ 23.__ I det uskiftede bo indgår alt, hvad den længstlevende ægtefælle erhverver, for så vidt det ikke er gjort til fuldstændigt særeje.
 
 Stk. 2. Livsforsikringer samt pensionsydelser og lignende ydelser, der tilfalder den længstlevende ægtefælle i anledning af den førstafdøde ægtefælles død, og som må antages ikke at være forbrugt, indgår ikke i det uskiftede bo ved skifte af boet i den længstlevende ægtefælles levende live.
 
@@ -230,27 +229,27 @@ Stk. 6. På øvrige rettigheder, som er uoverdragelige eller i øvrigt af person
 
 Stk. 7. Arv, gave og livsforsikringer samt pensionsydelser og lignende ydelser, som tilfalder den længstlevende ægtefælle fra tredjemand, indgår ikke i det uskiftede bo, hvis ægtefællen anmoder om skifte inden 3 måneder efter formuegodets modtagelse.
 
-§ 24. Den længstlevende ægtefælle udøver i levende live en ejers rådighed over det uskiftede bo.
+__§ 24.__ Den længstlevende ægtefælle udøver i levende live en ejers rådighed over det uskiftede bo.
 
 Stk. 2. Ved testamente kan ægtefællen kun råde over så stor en del af det uskiftede bo, som ved ægtefællens død falder i arv efter denne. Inden for denne grænse kan ægtefællen også råde over boets enkelte genstande, for så vidt det ikke strider mod den førstafdøde ægtefælles testamentariske bestemmelse i medfør af § 91.
 
-§ 25. Den længstlevende ægtefælle bliver personligt ansvarlig for den førstafdøde ægtefælles forpligtelser.
+__§ 25.__ Den længstlevende ægtefælle bliver personligt ansvarlig for den førstafdøde ægtefælles forpligtelser.
 
 Stk. 2. Må det antages, at den førstafdøde ægtefælles bo var insolvent, kan den længstlevende ægtefælle eller en kreditor anmode skifteretten om, at boet tages under behandling ved bobestyrer. Imødekommes anmodningen, og opfylder ægtefællen sine forpligtelser efter lov om skifte af dødsboer § 104, hæfter den længstlevende ægtefælle uanset stk. 1 ikke for den afdøde ægtefælles forpligtelser.
 
-Skifte
+__Skifte__
 
-§ 26. Den længstlevende ægtefælle kan når som helst skifte med en eller flere af livsarvingerne.
+__§ 26.__ Den længstlevende ægtefælle kan når som helst skifte med en eller flere af livsarvingerne.
 
 Stk. 2. Ved indgåelse af nyt ægteskab skal den længstlevende ægtefælle skifte. Livsarvingerne kan ikke give afkald på skifte af det uskiftede bo og samtidig bevare deres arveret.
 
-§ 27. En længstlevende ægtefælle, der i henhold til § 18, stk. 2, har fået boet udleveret til uskiftet bo med umyndige særlivsarvinger, skal efter anmodning skifte med særlivsarvingerne, efterhånden som de bliver myndige. Det samme gælder, hvis en livsarvings skifteværge på egen hånd har givet samtykke til uskiftet bo og livsarvingen selv senere anmoder om skifte.
+__§ 27.__ En længstlevende ægtefælle, der i henhold til § 18, stk. 2, har fået boet udleveret til uskiftet bo med umyndige særlivsarvinger, skal efter anmodning skifte med særlivsarvingerne, efterhånden som de bliver myndige. Det samme gælder, hvis en livsarvings skifteværge på egen hånd har givet samtykke til uskiftet bo og livsarvingen selv senere anmoder om skifte.
 
 Stk. 2. Dør en særlivsarving, der er umyndig, eller for hvem en værge eller skifteværge efter § 18, stk. 2, har meddelt samtykke til uskiftet bo, skal den længstlevende ægtefælle skifte med den pågældendes livsarvinger, medmindre disse samtykker i, at skifte undlades.
 
 Stk. 3. For mindreårige særlivsarvinger og særlivsarvinger, for hvem der er beskikket værge, meddeles samtykke til undladelse af skifte af værgen med skifterettens godkendelse. § 18, stk. 2, finder tilsvarende anvendelse.
 
-§ 28. Når en længstlevende ægtefælle har fået et bo udleveret til uskiftet bo, arver livsarvingerne efter den førstafdøde ægtefælle kun denne, hvis
+__§ 28.__ Når en længstlevende ægtefælle har fået et bo udleveret til uskiftet bo, arver livsarvingerne efter den førstafdøde ægtefælle kun denne, hvis
 
 1) de overlever den længstlevende ægtefælle eller
 
@@ -260,7 +259,7 @@ Stk. 2. Ved skifte efter den længstlevende ægtefælles død beregnes der ikke 
 
 Stk. 3. Mellem den førstafdøde ægtefælles livsarvinger deles arven efter arveforholdene ved den længstlevende ægtefælles død eller på det tidspunkt, hvor anmodning om skifte fremsættes. Er der ved den længstlevende ægtefælles død ingen arvinger efter denne, tilfalder hele boet den førstafdøde ægtefælles livsarvinger.
 
-§ 29. Hvis en livsarving efter den førstafdøde ægtefælle godtgør, at den længstlevende ægtefælle ved misbrug af sin rådighed over det uskiftede bo væsentligt har formindsket dette eller har fremkaldt nærliggende fare for en sådan formindskelse, skal den længstlevende ægtefælle skifte med den eller de livsarvinger, som forlanger dette.
+__§ 29.__ Hvis en livsarving efter den førstafdøde ægtefælle godtgør, at den længstlevende ægtefælle ved misbrug af sin rådighed over det uskiftede bo væsentligt har formindsket dette eller har fremkaldt nærliggende fare for en sådan formindskelse, skal den længstlevende ægtefælle skifte med den eller de livsarvinger, som forlanger dette.
 
 Stk. 2. Som misbrug af rådighed over boet betragtes navnlig uforsvarlige spekulationsforretninger, urimeligt forbrug, tegning af en uforholdsmæssig stor pensions- eller forsikringsordning og ydelse af gaver eller andre begunstigelser, der står i misforhold til det uskiftede bos formue.
 
@@ -268,33 +267,32 @@ Stk. 3. Gør en arving gældende, at der foreligger misbrug, skal den længstlev
 
 Stk. 4. Har den længstlevende ægtefælle forsømt sin forsørgelsespligt over for en særlivsarving, skal den længstlevende efter anmodning skifte med denne.
 
-§ 30. Har den længstlevende ægtefælle ved misbrug af sin rådighed over det uskiftede bo væsentligt formindsket dette, kan enhver livsarving, når boet skiftes, kræve vederlag derfor af det beholdne bo. Om fornødent kan livsarvingen endvidere kræve vederlag for halvdelen af det manglende beløb af ægtefællens fuldstændige særeje.
+__§ 30.__ Har den længstlevende ægtefælle ved misbrug af sin rådighed over det uskiftede bo væsentligt formindsket dette, kan enhver livsarving, når boet skiftes, kræve vederlag derfor af det beholdne bo. Om fornødent kan livsarvingen endvidere kræve vederlag for halvdelen af det manglende beløb af ægtefællens fuldstændige særeje.
 
 Stk. 2. En livsarving kan kræve vederlag efter stk. 1, hvis den længstlevende ægtefælle har anvendt midler af det uskiftede bo til erhvervelse eller forbedring af sit fuldstændige særeje eller sine rettigheder omfattet af § 15, stk. 2, i lov om ægteskabets retsvirkninger, der ikke indgår i delingen ved skifte af det uskiftede bo. Det gælder dog ikke midler anvendt til erhvervelse eller forbedring af rettigheder omfattet af § 16 a i lov om ægteskabets retsvirkninger.
 
 Stk. 3. Den længstlevende ægtefælle eller en livsarving kan ved skifte af det uskiftede bo kræve vederlag af det beholdne bo, hvis ægtefællen har anvendt midler af sit fuldstændige særeje til forbedring af det uskiftede bo.
 
-§ 31. Har den længstlevende ægtefælle af boet givet gaver eller arveforskud, hvis værdi stod i misforhold til boets formue, kan en livsarving kræve dispositionen omstødt, hvis modtageren eller den begunstigede vidste eller burde vide, at ægtefællen var i uskiftet bo, og at dispositionen stod i misforhold til boets formue.
+__§ 31.__ Har den længstlevende ægtefælle af boet givet gaver eller arveforskud, hvis værdi stod i misforhold til boets formue, kan en livsarving kræve dispositionen omstødt, hvis modtageren eller den begunstigede vidste eller burde vide, at ægtefællen var i uskiftet bo, og at dispositionen stod i misforhold til boets formue.
 
 Stk. 2. Stk. 1 finder tilsvarende anvendelse ved udbetaling til en begunstiget af en livsforsikring eller en lignende ordning, der er oprettet for boets midler for et beløb, der stod i misforhold til boets formue.
 
 Stk. 3. Efter den længstlevende ægtefælles død finder stk. 1 og 2 ikke anvendelse, hvis den pågældende livsarving kan opnå dækning for sin arveret, ved at der ydes livsarvingen vederlag af det beholdne bo, jf. § 30, stk. 1 og 2.
 
-§ 32. Omstødelsessag efter § 31 kan kun anlægges, hvis boet skiftes eller den livsarving, der vil anlægge sagen, har anmodet om skifte. Sagen anlægges ved skifteretten, der træffer afgørelse ved dom. Retsplejelovens §§ 226 og 227 finder tilsvarende anvendelse.
+__§ 32.__ Omstødelsessag efter § 31 kan kun anlægges, hvis boet skiftes eller den livsarving, der vil anlægge sagen, har anmodet om skifte. Sagen anlægges ved skifteretten, der træffer afgørelse ved dom. Retsplejelovens §§ 226 og 227 finder tilsvarende anvendelse.
 
 Stk. 2. En sag efter § 31, stk. 1, skal anlægges inden 1 år efter, at livsarvingen har eller burde have fået kendskab til fuldbyrdelsen af gaven eller arveforskuddet, og senest 5 år efter gavens fuldbyrdelse.
 
 Stk. 3. En sag efter § 31, stk. 2, skal anlægges inden 1 år efter, at livsarvingen har eller burde have fået kendskab til udbetalingen og senest 5 år efter udbetalingen.
 
-§ 33. Ved skifte formodes alt, hvad den længstlevende ægtefælle ejer, at høre til det uskiftede bo.
+__§ 33.__ Ved skifte formodes alt, hvad den længstlevende ægtefælle ejer, at høre til det uskiftede bo.
 
-§ 34. Dør alle livsarvingerne efter den førstafdøde ægtefælle, overtager den længstlevende ægtefælle uden skifte det uskiftede bo til fri rådighed. § 16 finder tilsvarende anvendelse.
+__§ 34.__ Dør alle livsarvingerne efter den førstafdøde ægtefælle, overtager den længstlevende ægtefælle uden skifte det uskiftede bo til fri rådighed. § 16 finder tilsvarende anvendelse.
 
-Kapitel 5
 
-Arvehenstand for længstlevende ægtefælle
+### Arvehenstand for længstlevende ægtefælle {#Arvehenstandforlængstlevendeægtefælle}
 
-§ 35. Skifteretten kan give en ægtefælle henstand med udbetaling af arven eller en del heraf til en livsarving efter den førstafdøde ægtefælle, hvis arven ikke kan udbetales uden afhændelse af fast ejendom, løsøre eller andre aktiver, som er nødvendige for, at ægtefællen kan opretholde hjemmet eller sit erhverv.
+__§ 35.__ Skifteretten kan give en ægtefælle henstand med udbetaling af arven eller en del heraf til en livsarving efter den førstafdøde ægtefælle, hvis arven ikke kan udbetales uden afhændelse af fast ejendom, løsøre eller andre aktiver, som er nødvendige for, at ægtefællen kan opretholde hjemmet eller sit erhverv.
 
 Stk. 2. Ved afgørelsen af, om henstand skal gives helt eller delvis, kan skifteretten tage hensyn til, om en særlivsarving efter den førstafdøde ægtefælle i medfør af §§ 6 og 7 ønsker at overtage aktiver, som har en særlig erindringsværdi for den pågældende.
 
