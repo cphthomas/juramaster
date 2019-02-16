@@ -61,7 +61,7 @@ __§ 5.__ En fjerdedel af en livsarvings arvelod er tvangsarv.
 
 Stk. 2. Arveladeren kan ved testamente begrænse arvelodden til hvert af sine børn til en værdi af 1.000.000 kr. Er et barn død, begrænses dette barns livsarvingers arvelod til den andel, som udgør livsarvingens andel af beløbet, jf. § 1, stk. 2, medmindre andet fremgår af testamentet. Tilsvarende gælder for fjernere livsarvinger. Beløbsgrænsen reguleres efter § 97.
 
-Overtagelse efter vurdering
+__Overtagelse efter vurdering__
 
 __§ 6.__ Arvingerne kan for deres arvelod overtage boets aktiver til vurderingsbeløbet.
 
@@ -75,7 +75,7 @@ Stk. 2. Ejer en arving en andel af et aktiv i sameje med både boet og ægtefæl
 
 Stk. 3. Gør flere arvinger retten efter stk. 1 gældende, afgøres det ved lodtrækning, hvem der skal have ret til at overtage boets andel af aktivet.
 
-Fravigelse ved testamente m.v.
+__Fravigelse ved testamente m.v.__
 
 __§ 8.__ §§ 6 og 7 finder ikke anvendelse på aktiver, som arveladeren har rådet over ved testamente. § 7 finder ikke anvendelse, i det omfang andet er fastsat i en samejeoverenskomst m.v.
 
@@ -88,7 +88,7 @@ __§ 9.__ Arveladerens ægtefælle arver halvdelen af arveladerens ejendele, nå
 
 Stk. 2. Efterlader arveladeren sig ikke livsarvinger, arver ægtefællen alene.
 
-Ægtefællens tvangsarv
+__Ægtefællens tvangsarv__
 
 __§ 10.__ En fjerdedel af ægtefællens arvelod er tvangsarv.
 
@@ -122,11 +122,11 @@ Stk. 2. Ønsker ægtefællen og en arving at overtage det samme aktiv, har ægte
 
 Stk. 3. Overstiger værdien af et aktiv, som ægtefællen ejer i sameje med boet, arvelodden, kan ægtefællen overtage aktivet mod at betale det overskydende beløb kontant til boet.
 
-Fravigelse ved testamente m.v.
+__Fravigelse ved testamente m.v.__
 
 __§ 14.__ §§ 12 og 13 finder ikke anvendelse for aktiver, som arveladeren har rådet over ved testamente, jf. §§ 90 og 91, eller hvis andet er fastsat i en samejeoverenskomst m.v. om et aktiv, som ægtefællen ejer i sameje med boet.
 
-### Svogerskabsarv efter en længstlevende ægtefælle {#Svogerskabsarvefterenlængstlevendeægtefælle}
+### 3 Svogerskabsarv efter en længstlevende ægtefælle {#Svogerskabsarvefterenlængstlevendeægtefælle}
 
 __§ 15.__ Dør den længstlevende ægtefælle efter at have arvet den førstafdøde ægtefælle i henhold til § 9, stk. 2, herunder i henhold til et testamente, deles boet med halvdelen til hver ægtefælles slægtsarvinger, medmindre den længstlevende ægtefælle
 
@@ -165,7 +165,7 @@ Stk. 6. Arv efter § 1, som en særlivsarving har modtaget ved den førstafdøde
 Stk. 7. Stk. 2-6 er ikke til hinder for, at den længstlevende ægtefælle ved testamente kan råde over hele boet.
 
 
-### Uskiftet bo {#Uskiftetbo}
+### 4 Uskiftet bo {#Uskiftetbo}
 
 Betingelser for uskiftet bo m.v.
 
@@ -290,7 +290,7 @@ __§ 33.__ Ved skifte formodes alt, hvad den længstlevende ægtefælle ejer, at
 __§ 34.__ Dør alle livsarvingerne efter den førstafdøde ægtefælle, overtager den længstlevende ægtefælle uden skifte det uskiftede bo til fri rådighed. § 16 finder tilsvarende anvendelse.
 
 
-### Arvehenstand for længstlevende ægtefælle {#Arvehenstandforlængstlevendeægtefælle}
+### 5 Arvehenstand for længstlevende ægtefælle {#Arvehenstandforlængstlevendeægtefælle}
 
 __§ 35.__ Skifteretten kan give en ægtefælle henstand med udbetaling af arven eller en del heraf til en livsarving efter den førstafdøde ægtefælle, hvis arven ikke kan udbetales uden afhændelse af fast ejendom, løsøre eller andre aktiver, som er nødvendige for, at ægtefællen kan opretholde hjemmet eller sit erhverv.
 
@@ -298,7 +298,7 @@ Stk. 2. Ved afgørelsen af, om henstand skal gives helt eller delvis, kan skifte
 
 Stk. 3. Hvis der gives henstand efter stk. 1, kan skifteretten bestemme, at en særlivsarving efter den førstafdøde ægtefælle af sin arvelod skal have udbetalt et efter boets forhold passende beløb til forsørgelse i henstandsperioden, dog kun indtil særlivsarvingen fylder 24 år.
 
-§ 36. Arvehenstand efter § 35, stk. 1, gives for 5 år fra den førstafdøde ægtefælles dødsdag.
+__§ 36.__ Arvehenstand efter § 35, stk. 1, gives for 5 år fra den førstafdøde ægtefælles dødsdag.
 
 Stk. 2. Er betingelserne i § 35, stk. 1, opfyldt, kan skifteretten forlænge henstandsperioden med yderligere 5 år, hvis ægtefællen anmoder om det. En anmodning om forlængelse skal fremsættes tidligst 6 måneder før og senest ved udløbet af henstandsperioden i stk. 1. Anmodning om forlængelse har opsættende virkning.
 
@@ -306,45 +306,41 @@ Stk. 3. Udbetaling af arven skal dog tidligst ske, når en fælles livsarving fy
 
 Stk. 4. Arven udbetales kontant ved henstandsperiodens ophør.
 
-§ 37. Der skal stilles fuld sikkerhed for henstandsarv efter § 35, stk. 1. Skifteretten fastsætter sikkerheden.
+__§ 37.__ Der skal stilles fuld sikkerhed for henstandsarv efter § 35, stk. 1. Skifteretten fastsætter sikkerheden.
 
 Stk. 2. Skifteretten træffer afgørelse i tvister om sikkerheden. Skifteretten kan efter anmodning fra en livsarving eller statsforvaltningen, hvis arvingen er umyndig, bestemme, at den længstlevende ægtefælle skal udbetale arven, hvis der er sket en væsentlig forringelse af sikkerheden.
 
 Stk. 3. Skifteretten kan efter anmodning fra statsforvaltningen bestemme, at den længstlevende ægtefælle skal udbetale arven, hvis denne har forsømt sin forsørgelsespligt over for en særlivsarving efter den førstafdøde ægtefælle, jf. § 36, stk. 3, 2. pkt.
 
-§ 38. Skifterettens afgørelser efter §§ 35-37 træffes ved kendelse. Afgørelsen kan indbringes for højere ret ved kære efter reglerne i retsplejelovens kapitel 37.
+__§ 38.__ Skifterettens afgørelser efter §§ 35-37 træffes ved kendelse. Afgørelsen kan indbringes for højere ret ved kære efter reglerne i retsplejelovens kapitel 37.
 
-§ 39. Justitsministeren fastsætter regler om forrentningen af henstandsarv omfattet af § 35, stk. 1, administrationen af beløb omfattet af § 35, stk. 3, og sikkerhedsstillelse efter § 37, stk. 1.
+__§ 39.__ Justitsministeren fastsætter regler om forrentningen af henstandsarv omfattet af § 35, stk. 1, administrationen af beløb omfattet af § 35, stk. 3, og sikkerhedsstillelse efter § 37, stk. 1.
 
-Kapitel 6
+### 6 Testamentsarvingers adgang til overtagelse efter vurdering {#Testamentsarvingersadgangtilovertagelseeftervurdering}
 
-Testamentsarvingers adgang til overtagelse efter vurdering
+__§ 40.__ §§ 6-8 finder tilsvarende anvendelse, hvis en arving ved testamente er indsat til at arve en andel af boet, eller hvis en arving er gjort til legatar ved testamente eller efter skifterettens bestemmelse.
 
-§ 40. §§ 6-8 finder tilsvarende anvendelse, hvis en arving ved testamente er indsat til at arve en andel af boet, eller hvis en arving er gjort til legatar ved testamente eller efter skifterettens bestemmelse.
+### 7 Aftale om arv samt arveforskud {#Aftaleomarvsamtarveforskud}
 
-Kapitel 7
+__Forbud mod overdragelse og kreditorforfølgning af forventet arv__
 
-Aftale om arv samt arveforskud
-
-Forbud mod overdragelse og kreditorforfølgning af forventet arv
-
-§ 41. En arving kan ikke sælge, pantsætte eller på anden måde overdrage forventet arv. Mens arveladeren er i live, kan en arving heller ikke uden arveladers samtykke indgå aftale med medarvinger om overtagelse af aktiver i boet.
+__§ 41.__ En arving kan ikke sælge, pantsætte eller på anden måde overdrage forventet arv. Mens arveladeren er i live, kan en arving heller ikke uden arveladers samtykke indgå aftale med medarvinger om overtagelse af aktiver i boet.
 
 Stk. 2. En arvings kreditorer kan ikke søge fyldestgørelse i forventet arv.
 
 Afkald på forventet og falden arv
 
-§ 42. En arving kan mod eller uden vederlag give afkald på såvel forventet som falden arv.
+__§ 42.__ En arving kan mod eller uden vederlag give afkald på såvel forventet som falden arv.
 
 Stk. 2. Afkald på forventet arv skal gives over for arveladeren. Hvis arveladerens ægtefælle er i uskiftet bo, kan afkald dog gives over for denne.
 
 Stk. 3. Et afkald på arv har også virkning for arvingens livsarvinger, medmindre disses arveret er forbeholdt.
 
-Arveforskud
+__Arveforskud__
 
-§ 43. Arveforskud foreligger, hvis en arving fra arveladeren har modtaget en ydelse af økonomisk værdi og det må anses for aftalt, at værdien af ydelsen senere skal fradrages i arvingens arv.
+__§ 43.__ Arveforskud foreligger, hvis en arving fra arveladeren har modtaget en ydelse af økonomisk værdi og det må anses for aftalt, at værdien af ydelsen senere skal fradrages i arvingens arv.
 
-§ 44. Arveforskud, som en fælles livsarving har modtaget, skal, medmindre andet er aftalt, så vidt muligt fradrages i arven efter den førstafdøde ægtefælle, når
+__§ 44.__ Arveforskud, som en fælles livsarving har modtaget, skal, medmindre andet er aftalt, så vidt muligt fradrages i arven efter den førstafdøde ægtefælle, når
 
 1) arveforskuddet er ydet af fælleseje, skilsmissesæreje eller andet særeje, der bliver fælleseje ved ægtefællens død, og
 
@@ -358,23 +354,21 @@ Stk. 4. Ved skifte af et uskiftet bo efter den længstlevende ægtefælles død,
 
 Stk. 5. Stk. 1-4 gælder også for forskud, som ydes af en ægtefælle i uskiftet bo.
 
-§ 45. Arveforskud, som en ægtefælle af fælleseje, skilsmissesæreje eller andet særeje, der bliver fælleseje ved ægtefællens død, har givet et stedbarn eller dets livsarvinger, fradrages i arven efter den anden ægtefælle, hvis det er aftalt, at ydelsen skal være forskud på arven efter denne.
+__§ 45.__ Arveforskud, som en ægtefælle af fælleseje, skilsmissesæreje eller andet særeje, der bliver fælleseje ved ægtefællens død, har givet et stedbarn eller dets livsarvinger, fradrages i arven efter den anden ægtefælle, hvis det er aftalt, at ydelsen skal være forskud på arven efter denne.
 
-§ 46. Ved fradrag lægges arveforskuddets værdi ved modtagelsen til grund. Under særlige omstændigheder kan der dog afviges herfra.
+__§ 46.__ Ved fradrag lægges arveforskuddets værdi ved modtagelsen til grund. Under særlige omstændigheder kan der dog afviges herfra.
 
 Stk. 2. Hvis et modtaget forskud overstiger arvelodden, skal arvingen ikke betale det overskydende til boet, medmindre arvingen særligt har forpligtet sig dertil.
 
 Stk. 3. Hvis modtageren af et arveforskud dør før arveladeren, fradrages forskuddet i den arv, som tilkommer arvingens livsarvinger.
 
-§ 47. Arveforskud lægges til boet ved beregningen af arvelodder og tvangsarv. Kan forskuddet ikke fuldt ud fradrages i modtagerens arv, tillægges der kun et beløb svarende til modtagerens arvelod.
+__§ 47.__ Arveforskud lægges til boet ved beregningen af arvelodder og tvangsarv. Kan forskuddet ikke fuldt ud fradrages i modtagerens arv, tillægges der kun et beløb svarende til modtagerens arvelod.
 
 Stk. 2. Når et fællesbo skiftes i den længstlevende ægtefælles levende live, lægges forskuddet også til boet ved beregningen af boslodderne. Overstiger forskuddet modtagerens arv efter den førstafdøde ægtefælle samt et beløb, der svarer til den pågældendes arv efter den længstlevende ægtefælle, tillægges kun værdien af disse arvelodder.
 
-Kapitel 8
+### 8 Udelukkelse og bortfald af arveret {#Udelukkelseogbortfaldafarveret}
 
-Udelukkelse og bortfald af arveret
-
-§ 48. Når en person har begået en forsætlig overtrædelse af straffeloven, som har medført en andens død, kan det ved dom bestemmes, at den pågældende fortaber retten til at få arv, forsikringssummer, pensioner eller andre ydelser, der var afhængige af den dræbtes død. Tilsvarende kan det bestemmes, at den pågældendes arv eller andel i forsikringssummer, pension eller andre ydelser ikke må forøges som følge af lovovertrædelsen.
+__§ 48.__ Når en person har begået en forsætlig overtrædelse af straffeloven, som har medført en andens død, kan det ved dom bestemmes, at den pågældende fortaber retten til at få arv, forsikringssummer, pensioner eller andre ydelser, der var afhængige af den dræbtes død. Tilsvarende kan det bestemmes, at den pågældendes arv eller andel i forsikringssummer, pension eller andre ydelser ikke må forøges som følge af lovovertrædelsen.
 
 Stk. 2. Den, der har forsøgt at dræbe en slægtsarving, øvet vold mod eller groft krænket den pågældende eller truet vedkommende på strafbar måde, kan efter den forurettedes anmodning fradømmes retten til arv, forsikringssummer, pensioner eller andre ydelser, der er afhængige af den pågældendes død.
 
@@ -382,13 +376,12 @@ Stk. 3. Afgørelse i henhold til stk. 1 og 2 kan træffes ved straffedommen elle
 
 Stk. 4. Den fradømte arveret kan helt eller delvis tilbagegives den dømte ved testamente. En fradømt ret til at få forsikringssummer, pensioner og andre ydelser m.v. kan helt eller delvis tilbagegives ved at indsætte den dømte som begunstiget i ordningen m.v.
 
-§ 49. Ægtefællers indbyrdes arveret bortfalder ved separation og skilsmisse.
+__§ 49.__ Ægtefællers indbyrdes arveret bortfalder ved separation og skilsmisse.
 
 Stk. 2. Dør en af parterne i et omstødeligt ægteskab, arver den anden part ikke, hvis § 27, stk. 1 eller 2, i lov om ægteskabs indgåelse og opløsning efter den pågældendes anmodning anvendes, eller hvis sag til ægteskabets omstødelse af det offentlige var anlagt eller ifølge den lov, der var gældende ved ægteskabets indgåelse, skulle have været anlagt.
 
-Kapitel 9
 
-Testamentarisk bestemmelse over tvangsarv
+### 9 Testamentarisk bestemmelse over tvangsarv
 
 Overtagelse efter vurdering
 
