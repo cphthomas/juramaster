@@ -25,10 +25,10 @@ LOV nr 1520 af 18/12/
 VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:  
 Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
 ```
-```
-Kapitel 1
-Anvendelsesområde og definitioner
-```
+
+## Kapitel 1
+_Anvendelsesområde og definitioner_
+
 _Anvendelsesområde_  
 **§ 1.** Loven finder anvendelse på udstedere af elektroniske penge, udbydere af betalingstjenester og betalingsmodtagere, jf. dog stk. 2-7 og § 5.  
 _Stk. 2._ For filialer her i landet af udenlandske virksomheder, der er meddelt tilladelse til at udstede eletroniske penge eller udbyde betalingstjenester, jf. bilag 1, nr. 1-8, i et andet EU- eller EØS-land, finder alene kapitel 4-11 anvendelse.  
@@ -64,10 +64,8 @@ EØS-land, når betalingstransaktionen ikke ydes i euro eller anden EU- eller E�
 _Stk. 3._ Kapitel 5-8 med undtagelse af § 67, stk. 1, nr. 2, § 72, stk. 1, nr. 2, litra e, § 72, stk. 1, nr. 5, litra
 f, §§ 76, 101, 102, 104 og 106, § 113, stk. 1, § 120 og § 121, stk. 1 og 3, finder anvendelse på de dele af
 betalingstransaktioner, der gennemføres i lande inden for Den Europæiske Union eller i et land, som Uni‐
-onen har indgået aftale med på det finansielle område, hvor enten kun betaleren eller betalingsmodtage‐
-rens udbyder af betalingstjenester er etableret i et land inden for Den Europæiske Union eller i et land,
-som Unionen har indgået aftale med på det finansielle område, uanset hvilken valuta betalingstransaktio‐
-nen ydes i.
+onen har indgået aftale med på det finansielle område, hvor enten kun betaleren eller betalingsmodtagerens udbyder af betalingstjenester er etableret i et land inden for Den Europæiske Union eller i et land,
+som Unionen har indgået aftale med på det finansielle område, uanset hvilken valuta betalingstransaktionen ydes i.  
 
 **§ 5.** Loven finder ikke anvendelse på følgende aktiviteter m.v.:
 1) Betalingstransaktioner, der udelukkende består i betaling med kontanter direkte fra en betaler til en
@@ -111,8 +109,7 @@ eller hos et begrænset netværk af udbydere under en forretningsaftale direkte 
 talingsinstrumentet, jf. dog § 61 og kapitel 5-7.
 15) Betalingsinstrumenter, der kun kan anvendes til at erhverve et meget begrænset antal varer og tjene‐
 steydelser, jf. dog § 61 og kapitel 5-7.
-16) Betalingsinstrumenter med specifikke sociale eller skattemæssige formål, der er reguleret af en of‐
-fentlig myndighed og alene kan anvendes her i landet til at erhverve bestemte varer eller tjeneste‐
+16) Betalingsinstrumenter med specifikke sociale eller skattemæssige formål, der er reguleret af en offentlig myndighed og alene kan anvendes her i landet til at erhverve bestemte varer eller tjeneste‐
 ydelser fra leverandører, der har en forretningsaftale med udstederen, jf. dog § 61 og kapitel 5-7.
 17) Betalingstransaktioner, der gennemføres af en udbyder af elektroniske kommunikationsnet eller
 kommunikationstjenester på vegne af en abonnent i tillæg til kommunikationstjenesten, jf. dog § 62,
@@ -120,14 +117,13 @@ såfremt transaktionen
 a) opkræves over den til abonnementet tilknyttede regning,
 b) anvendes til donation til almennyttig virksomhed, køb af billetter eller køb af digitalt indhold og
 stemmebaserede tjenester og
-c) ikke overstiger en værdi svarende til 50 euro eller den samlede værdi af transaktioner for en en‐
-kelt abonnent ikke overstiger en værdi svarende til 300 euro pr. måned.
+c) ikke overstiger en værdi svarende til 50 euro eller den samlede værdi af transaktioner for en enkelt abonnent ikke overstiger en værdi svarende til 300 euro pr. måned.
 18) Elektroniske penge på op til 3.000 kr. lagret på et instrument med begrænset anvendelse, hvor der
 ikke kan ske genopfyldning, og hvor udstederens samlede forpligtelser hidrørende fra udestående
 elektroniske penge på intet tidspunkt overstiger et beløb, der modsvarer værdien af 5 mio. euro, jf.
-dog § 96.
-**§ 6.** Loven kan ikke fraviges til skade for indehavere af elektroniske penge eller brugere af betalingstje‐
-nester, jf. dog stk. 2 og 3 og §§ 79 og 116.
+dog § 96.  
+
+**§ 6.** Loven kan ikke fraviges til skade for indehavere af elektroniske penge eller brugere af betalingstjenester, jf. dog stk. 2 og 3 og §§ 79 og 116.
 _Stk. 2._ En udsteder af elektroniske penge kan aftale med en indehaver, der ikke er en forbruger, at § 96
 ikke skal finde anvendelse.
 _Stk. 3._ En udbyder af betalingstjenester kan aftale med en bruger, der ikke er en forbruger, at kapitel 5
@@ -142,7 +138,7 @@ _Stk. 5._ For betalingstransaktioner, der gennemføres i lande inden for Den Eur
 land, som Unionen har indgået aftale med på det finansielle område, må den frist, der er fastsat i § 113,
 stk. 1, uanset stk. 4 ikke overstige 4 arbejdsdage efter modtagelsestidspunktet, jf. § 109.
 
-_Definitioner_
+_Definitioner_  
 **§ 7.** I denne lov forstås ved:
 1) Betalingstjeneste: En tjenesteydelse omfattet af bilag 1.
 
