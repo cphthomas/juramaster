@@ -14,7 +14,7 @@ title: Arveloven
 ### [8 Udelukkelse og bortfald af arveret](#Udelukkelseogbortfaldafarveret)
 ### [9 Testamentarisk bestemmelse over tvangsarv](#Testamentariskbestemmelseovertvangsarv)
 ### [10 Testamentarisk bestemmelse over friarv](#Testamentariskbestemmelseoverfriarv)
-### [11 Oprettelse og tilbagekaldelse af testamente](#Testamentariskbestemmelseoverfriarv)
+### [11 Oprettelse og tilbagekaldelse af testamente](#Oprettelseogtilbagekaldelseaftestamente)
 ### [12 Testamentes ugyldighed og anfægtelse](#Testamentesugyldighedoganfægtelse)
 ### [13 Fælles testamente](#Testamentesugyldighedoganfægtelse)
 ### [14 Ægtefælles testamentariske bestemmelse om overtagelse efter vurdering](#Ægtefællestestamentariskebestemmelseomovertagelseeftervurdering)
@@ -666,7 +666,7 @@ __§ 89.__ Testamentariske bestemmelser efter § 87 bortfalder, hvis parterne in
 
 __§ 90.__ En ægtefælle kan ved testamente råde over enkelte genstande inden for sit fuldstændige særeje.
 
-§ 91. En ægtefælle, som efterlader sig aktiver, der er fælleseje i boet, kan ved testamente råde over genstande, som tilhører den pågældende, og som ligger inden for så stor en del af fællesboet, som ved ægtefællens død falder i arv efter denne.
+__§ 91.__ En ægtefælle, som efterlader sig aktiver, der er fælleseje i boet, kan ved testamente råde over genstande, som tilhører den pågældende, og som ligger inden for så stor en del af fællesboet, som ved ægtefællens død falder i arv efter denne.
 
 Stk. 2. Ægtefællen kan dog kun med den anden ægtefælles samtykke testere over
 
@@ -678,21 +678,19 @@ Stk. 2. Ægtefællen kan dog kun med den anden ægtefælles samtykke testere ove
 
 4) et motorkøretøj, der har været anvendt af den anden ægtefælle.
 
-Kapitel 15
 
-Permutation
+### 15 Permutation {#Permutation}
 
-§ 92. Har testator pålagt en arving en bestemt anvendelse af arven eller indskrænkninger i rådigheden over arven, kan justitsministeren eller den, justitsministeren bemyndiger dertil, tillade ændring af den testamentariske bestemmelse herom, når særlige grunde taler for det.
+__§ 92.__ Har testator pålagt en arving en bestemt anvendelse af arven eller indskrænkninger i rådigheden over arven, kan justitsministeren eller den, justitsministeren bemyndiger dertil, tillade ændring af den testamentariske bestemmelse herom, når særlige grunde taler for det.
 
 Stk. 2. Ved afgørelse efter stk. 1 bør der navnlig lægges vægt på testationens formål og karakter, ændrede forhold siden testamentets oprettelse, bestemmelsens gennemførlighed og hensigtsmæssighed samt hensynet til arvingen.
 
 Stk. 3. Har testator indsat nogen til at påse overholdelsen af en bestemmelse som nævnt i stk. 1, kan ændring ikke ske uden dennes samtykke, medmindre særlige omstændigheder taler for det.
 
-Kapitel 16
 
-Dødsgaver m.v.
+### 16 Dødsgaver m.v. {#Dødsgaverm.v.}
 
-§ 93. Reglerne om testamente finder tilsvarende anvendelse på gaver, der
+__§ 93.__ Reglerne om testamente finder tilsvarende anvendelse på gaver, der
 
 1) gives i giverens levende live, men som er bestemt til at opfyldes efter giverens død, og
 
@@ -700,9 +698,8 @@ Dødsgaver m.v.
 
 Stk. 2. Stk. 1, nr. 2, gælder ikke for sædvanlige gaver.
 
-Kapitel 17
 
-Overlevelseskravet
+### 17 Overlevelseskravet {#Overlevelseskravet}
 
 § 94. Arveret tilkommer, medmindre andet er bestemt ved testamente, den, som lever ved arveladerens død, eller som er undfanget forinden og senere bliver levende født.
 
