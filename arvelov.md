@@ -701,15 +701,14 @@ Stk. 2. Stk. 1, nr. 2, gælder ikke for sædvanlige gaver.
 
 ### 17 Overlevelseskravet {#Overlevelseskravet}
 
-§ 94. Arveret tilkommer, medmindre andet er bestemt ved testamente, den, som lever ved arveladerens død, eller som er undfanget forinden og senere bliver levende født.
+__§ 94.__ Arveret tilkommer, medmindre andet er bestemt ved testamente, den, som lever ved arveladerens død, eller som er undfanget forinden og senere bliver levende født.
 
 Stk. 2. Er to, som havde arveret efter hinanden, døde, uden at det vides, hvem der er død først, anses den ene ikke for at have overlevet den anden.
 
-Kapitel 18
 
-Arv, som tilfalder staten
+### 18 Arv, som tilfalder staten {#Arv,somtilfalderstaten}
 
-§ 95. Er der ingen arvinger efter loven eller testamente, tilfalder afdødes formue staten.
+__§ 95.__ Er der ingen arvinger efter loven eller testamente, tilfalder afdødes formue staten.
 
 Stk. 2. Hvis arven tilfalder staten, kan justitsministeren eller den, justitsministeren bemyndiger dertil, efter anmodning bestemme, at arven skal fordeles i overensstemmelse med bestemmelserne i et anfægteligt testamente, hvis testamentet må antages at være udtryk for afdødes sidste vilje.
 
@@ -727,47 +726,44 @@ Stk. 3. Hvis arven tilfalder staten og forholdene særligt taler for det, kan ju
 
 Stk. 4. Justitsministeren fastsætter regler om forvaltningen af boer, hvor staten er arving.
 
-§ 96. Afgørelser efter § 95, stk. 2 og 3, kan inden 3 måneder fra afgørelsen indbringes for den skifteret, hvor dødsboet behandles, jf. lov om skifte af dødsboer § 2.
+__§ 96.__ Afgørelser efter § 95, stk. 2 og 3, kan inden 3 måneder fra afgørelsen indbringes for den skifteret, hvor dødsboet behandles, jf. lov om skifte af dødsboer § 2.
 
 Stk. 2. Skifteretten træffer afgørelse ved dom.
 
 Stk. 3. Retsplejelovens §§ 226 og 227 finder tilsvarende anvendelse.
 
-Kapitel 19
 
-Reguleringsbestemmelser
+### 19 Reguleringsbestemmelser {#Reguleringsbestemmelser}
 
-§ 97. Beløbsgrænserne i § 5, stk. 2, og § 11, stk. 2, reguleres årligt pr. 1. januar med 2,0 pct. tillagt eller fratrukket tilpasningskvotienten for det pågældende finansår, jf. lov om en satsreguleringsprocent. Reguleringen sker på grundlag af den på reguleringstidspunktet gældende beløbsgrænse før afrunding. Det regulerede beløb afrundes opad til det nærmeste hele kronebeløb, der kan deles med 10.000.
+__§ 97.__ Beløbsgrænserne i § 5, stk. 2, og § 11, stk. 2, reguleres årligt pr. 1. januar med 2,0 pct. tillagt eller fratrukket tilpasningskvotienten for det pågældende finansår, jf. lov om en satsreguleringsprocent. Reguleringen sker på grundlag af den på reguleringstidspunktet gældende beløbsgrænse før afrunding. Det regulerede beløb afrundes opad til det nærmeste hele kronebeløb, der kan deles med 10.000.
 
 Stk. 2. Justitsministeren bekendtgør årligt reguleringerne.
 
-Kapitel 20
 
-Forholdet til fremmed lovgivning
+### 20 Forholdet til fremmed lovgivning {#Forholdettilfremmedlovgivning}
 
-§ 98. Regeringen kan indgå overenskomst med andre stater om forholdet mellem dansk og fremmed rets regler om arv. Disse overenskomster finder anvendelse her i riget efter bekendtgørelse i overensstemmelse med de gældende regler.
+__§ 98.__ Regeringen kan indgå overenskomst med andre stater om forholdet mellem dansk og fremmed rets regler om arv. Disse overenskomster finder anvendelse her i riget efter bekendtgørelse i overensstemmelse med de gældende regler.
 
 Stk. 2. Justitsministeren kan endvidere fastsætte regler om forholdet mellem danske og andre nordiske landes regler om arv.
 
-Kapitel 21
 
-Ikrafttræden og overgangsregler
+### 21 Ikrafttræden og overgangsregler {#Ikrafttrædenogovergangsregler}
 
-§ 99. Loven træder i kraft den 1. januar 2008.
+__§ 99.__ Loven træder i kraft den 1. januar 2008.
 
 Stk. 2. Loven finder anvendelse, når arveladeren er død efter lovens ikrafttræden, medmindre andet følger af §§ 100-102. Er arveladeren død før lovens ikrafttræden, finder de hidtil gældende regler fortsat anvendelse, medmindre andet følger af § 103.
 
-§ 100. Hvis et barn uden for ægteskab er født før den 1. januar 1938, bestemmes dets ret til arv efter faderen og hans slægt og disses ret til arv efter barnet efter den før den 1. januar 1938 gældende ret.
+__§ 100.__ Hvis et barn uden for ægteskab er født før den 1. januar 1938, bestemmes dets ret til arv efter faderen og hans slægt og disses ret til arv efter barnet efter den før den 1. januar 1938 gældende ret.
 
-§ 101. Har en længstlevende ægtefælle udtaget boet efter sin ægtefælle efter den hidtil gældende arvelovs § 7 b, stk. 2, finder reglerne i den nævnte lovs § 7 b, stk. 2, 2. pkt., jf. § 7, stk. 2 og 3, anvendelse ved den længstlevende ægtefælles død, selv om denne dør efter lovens ikrafttræden.
+__§ 101.__ Har en længstlevende ægtefælle udtaget boet efter sin ægtefælle efter den hidtil gældende arvelovs § 7 b, stk. 2, finder reglerne i den nævnte lovs § 7 b, stk. 2, 2. pkt., jf. § 7, stk. 2 og 3, anvendelse ved den længstlevende ægtefælles død, selv om denne dør efter lovens ikrafttræden.
 
-§ 102. Testamenter og andre arveretlige retshandler samt tilbagekaldelser heraf, som ikke opfylder lovens krav med hensyn til habilitet og form, er gyldige, hvis de er oprettet før lovens ikrafttræden og er i overensstemmelse med de regler, der var gældende ved oprettelsen eller tilbagekaldelsen.
+__§ 102.__ Testamenter og andre arveretlige retshandler samt tilbagekaldelser heraf, som ikke opfylder lovens krav med hensyn til habilitet og form, er gyldige, hvis de er oprettet før lovens ikrafttræden og er i overensstemmelse med de regler, der var gældende ved oprettelsen eller tilbagekaldelsen.
 
 Stk. 2. Bestemmelser om arveafkortning, truffet i overensstemmelse med §§ 10-13 i arveforordning af 21. maj 1845 bevarer deres retsvirkning, selv om arveladeren er død efter lovens ikrafttræden.
 
 Stk. 3. Testamenter, som før den 1. april 1964 er konfirmeret efter arveforordning af 21. maj 1845, § 27, 1. pkt., bevarer retsvirkning i henhold til denne bestemmelse, selv om arveladeren er død efter lovens ikrafttræden.
 
-§ 103. § 15 finder tillige anvendelse i tilfælde, hvor den længstlevende ægtefælle har arvet den førstafdøde efter den hidtil gældende arvelovs § 7, stk. 1.
+__§ 103.__ § 15 finder tillige anvendelse i tilfælde, hvor den længstlevende ægtefælle har arvet den førstafdøde efter den hidtil gældende arvelovs § 7, stk. 1.
 
 Stk. 2. §§ 24-34 anvendes også på uskiftede boer, hvor arveladeren er død før lovens ikrafttræden, men ikke før den 1. april 1964. § 31, stk. 2, finder dog kun anvendelse, hvis den disposition, der kan medføre omstødelse, er foretaget efter lovens ikrafttræden.
 
@@ -777,7 +773,7 @@ Stk. 4. § 83 finder anvendelse på dispositioner, der foretages efter lovens ik
 
 Stk. 5. § 92 finder også anvendelse, hvor arveladeren er død før lovens ikrafttræden.
 
-§ 104. V ed lovens ikrafttræden ophæves:
+__§ 104.__ V ed lovens ikrafttræden ophæves:
 
 1) Den hidtil gældende arvelov, jf. lovbekendtgørelse nr. 727 af 14. august 2001.
 
@@ -789,7 +785,7 @@ Stk. 5. § 92 finder også anvendelse, hvor arveladeren er død før lovens ikra
 
 5) § 26 og § 27, 2. pkt., i Forordning af 21. maj 1845 indeholdende nogle Forandringer i Lovgivningen om Arv.
 
-§ 105. Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
+__§ 105.__ Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
 
 Givet på Christiansborg Slot, den 6. juni 2007
 
