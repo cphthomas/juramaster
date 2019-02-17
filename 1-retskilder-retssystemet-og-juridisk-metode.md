@@ -75,7 +75,7 @@ Asterisks
 Text prior to footnote reference.[^2]
 
 
-
+Text prior to footnote reference.[^note23]
 
 ### I. Om afslutning af aftaler {#afslutning}
 
@@ -96,3 +96,5 @@ A blockquote is started using the > marker followed by an optional space; all fo
 are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 
 [^2]: Comment to include in footnote.
+
+[^note23]: note23 note
