@@ -57,6 +57,16 @@ A blockquote is started using the > marker followed by an optional space; all fo
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote: the present is our past.  
 
+Three or more...
+
+---
+
+Hyphens
+
+***
+
+Asterisks
+
 Text prior to footnote reference.[^2]
 
 [^2]: Comment to include in footnote.
@@ -68,5 +78,5 @@ Text prior to footnote reference.[^2]
 the present is our past.  
 are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
->A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote: the present is our past. the present is our past.  
->are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
+A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote: the present is our past. the present is our past.  
+are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
