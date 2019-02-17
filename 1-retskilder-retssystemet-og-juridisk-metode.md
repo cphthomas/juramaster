@@ -37,10 +37,6 @@ As Kanye West said:
 
 
 
-
-
-
-
 An image media/wine.png: ![wine2](media/wine.png)
 
 
