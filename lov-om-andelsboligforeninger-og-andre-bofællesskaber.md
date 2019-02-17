@@ -44,7 +44,7 @@ I lov om byfornyelse og boligforbedring, jf. lovbekendtgørelse nr. 820 af 15. s
 
 **14.** _§ 60, stk. 9,_ affattes således:
 
-_»Stk. 9._ Stk. 8 finder ikke anvendelse på lejemål i ejendomme, som ved lejemålets indgåelse ejes eller blev ejet af en almen boligorganisation, jf. § 1 i lov om almene boliger m.v., et almennyttigt boligselskab, jf. § 2 i den tidligere lov om boligbyggeri, eller af institutioner som nævnt i kapitel 11 og 12 i den tidligere lov om boligbyggeri.«
+_Stk. 9._ Stk. 8 finder ikke anvendelse på lejemål i ejendomme, som ved lejemålets indgåelse ejes eller blev ejet af en almen boligorganisation, jf. § 1 i lov om almene boliger m.v., et almennyttigt boligselskab, jf. § 2 i den tidligere lov om boligbyggeri, eller af institutioner som nævnt i kapitel 11 og 12 i den tidligere lov om boligbyggeri.«
 
 **15.** I _§ 62, stk. 1, 2. pkt.,_ ændres »almennyttigt« til: »alment« og »lov om boligbyggeri« til: »lov om almene boliger m.v.«
 
@@ -52,7 +52,7 @@ _»Stk. 9._ Stk. 8 finder ikke anvendelse på lejemål i ejendomme, som ved leje
 
 **17.** _§ 71, stk. 5,_ affattes således:
 
-_»Stk. 5._ Ved behandlingen af sager om ejendomme, der tilhører almene boligorganisationer, jf. lov om almene boliger m.v., erstattes det efter indstilling af grundejerforeninger valgte medlem af boligkommissionen dog af et medlem, der vælges efter indstilling af de pågældende boligorganisationer i kommunen, og det efter indstilling af lejerforeninger valgte medlem af et medlem, der vælges efter indstilling fra afdelingsbestyrelserne i de almene boligorganisationer i kommunen.«
+_Stk. 5._ Ved behandlingen af sager om ejendomme, der tilhører almene boligorganisationer, jf. lov om almene boliger m.v., erstattes det efter indstilling af grundejerforeninger valgte medlem af boligkommissionen dog af et medlem, der vælges efter indstilling af de pågældende boligorganisationer i kommunen, og det efter indstilling af lejerforeninger valgte medlem af et medlem, der vælges efter indstilling fra afdelingsbestyrelserne i de almene boligorganisationer i kommunen.«
 
 **18.** I _§ 90, stk. 7,_ ændres »almennyttig andelsboligforening efter reglerne i lov om boligbyggeri« til: »almen andelsboligorganisation efter reglerne i lov om almene boliger m.v.«
 
@@ -66,7 +66,7 @@ I lov om privat byfornyelse, jf. lovbekendtgørelse nr. 49 af 1. februar 1996, f
 
 **3.** Overskriften til _kapitel 2 A_ affattes således:
 
-_»Almene boligorganisationer«._
+_Almene boligorganisationer«._
 
 **4.** I _§ 12 a, stk. 1,_ ændres »almennyttige boligselskaber« til: »almene boligorganisationer«.
 
@@ -94,7 +94,7 @@ I lov om leje, jf. lovbekendtgørelse nr. 837 af 20. september 1996, foretages f
 
 **6.** _§ 100, stk. 4,_ affattes således:
 
-_»Stk. 4._ Reglerne om tilbudspligt finder ikke anvendelse ved overdragelse af almene boligorganisationers ejendomme, hvis ejendommene fortsat ejes af en almen boligorganisation, eller ved overdragelse af ejendomme i forbindelse med, at selvejende ældreboliger, selvejende lette kollektivboliger eller selvejende ungdomsboliginstitutioner sammenlægges eller omdannes til en afdeling af en almen boligorganisation.«
+_Stk. 4._ Reglerne om tilbudspligt finder ikke anvendelse ved overdragelse af almene boligorganisationers ejendomme, hvis ejendommene fortsat ejes af en almen boligorganisation, eller ved overdragelse af ejendomme i forbindelse med, at selvejende ældreboliger, selvejende lette kollektivboliger eller selvejende ungdomsboliginstitutioner sammenlægges eller omdannes til en afdeling af en almen boligorganisation.«
 
 **§ 4**
 
@@ -102,7 +102,7 @@ I lov om midlertidig regulering af boligforholdene, jf. lovbekendtgørelse nr. 9
 
 **1.** _§ 4, stk. 2,_ affattes således:
 
-_»Stk. 2._ Reglerne i kapitel II-VI, VIII og VIII A gælder ikke for lejeforhold i ejendomme, som ved lejemålets indgåelse ejes af
+_Stk. 2._ Reglerne i kapitel II-VI, VIII og VIII A gælder ikke for lejeforhold i ejendomme, som ved lejemålets indgåelse ejes af
 
 -   1) en almen boligorganisation, jf. § 1 i lov om almene boliger m.v.,
 -   2) en selvejende institution, hvor boligerne er opført efter den tidligere lov om boliger for ældre og personer med handicap, jf. lovbekendtgørelse nr. 316 af 24. april 1996, den tidligere lov om boligbyggeri, jf. lovbekendtgørelse nr. 722 af 1. august 1996, eller lov om almene boliger m.v., eller
@@ -134,7 +134,7 @@ I lov om individuel boligstøtte, jf. lovbekendtgørelse nr. 96 af 22. februar 1
 
 **3.** I _§ 9_ indsættes efter stk. 1 som nye stykker:
 
-_»Stk. 2._ Boligstøtte kan ydes til boliger uden selvstændigt køkken etableret i medfør af § 4 i den tidligere lov om boliger for ældre og personer med handicap, jf. lovbekendtgørelse nr. 316 af 24. april 1996, eller § 110, stk. 2, i lov om almene boliger m.v. samt til deltagere i kollektive bofællesskaber, jf. kapitel 4 a.
+_Stk. 2._ Boligstøtte kan ydes til boliger uden selvstændigt køkken etableret i medfør af § 4 i den tidligere lov om boliger for ældre og personer med handicap, jf. lovbekendtgørelse nr. 316 af 24. april 1996, eller § 110, stk. 2, i lov om almene boliger m.v. samt til deltagere i kollektive bofællesskaber, jf. kapitel 4 a.
 
 _Stk. 3._ Støtte til betaling af beboerindskud m.v. kan ydes til boliger uden selvstændigt køkken i de i kapitel 10 og 11 nævnte tilfælde.«
 
@@ -152,11 +152,11 @@ _Stk. 2_ bliver herefter stk. 4.
 
 **7.** _§ 14, stk. 3,_ affattes således:
 
-_»Stk. 3._ Den i stk. 1 nævnte grænse finder ikke anvendelse, hvor kommunalbestyrelsen anviser en ældrebolig, jf. den tidligere lov om boliger for ældre og personer med handicap, jf. lovbekendtgørelse nr. 316 af 24. april 1996, eller en almen bolig, jf. lov om almene boliger m.v., til en person, der er berettiget til boligydelse.«
+_Stk. 3._ Den i stk. 1 nævnte grænse finder ikke anvendelse, hvor kommunalbestyrelsen anviser en ældrebolig, jf. den tidligere lov om boliger for ældre og personer med handicap, jf. lovbekendtgørelse nr. 316 af 24. april 1996, eller en almen bolig, jf. lov om almene boliger m.v., til en person, der er berettiget til boligydelse.«
 
 **8.** _§ 23, stk. 2,_ affattes således:
 
-_»Stk. 2._ Den i stk. 1 nævnte grænse finder ikke anvendelse, hvor kommunalbestyrelsen anviser en ældrebolig, jf. den tidligere lov om boliger for ældre og personer med handicap, jf. lovbekendtgørelse nr. 316 af 24. april 1996, eller en almen bolig, jf. lov om almene boliger m.v., til en person, der er berettiget til boligydelse.«
+_Stk. 2._ Den i stk. 1 nævnte grænse finder ikke anvendelse, hvor kommunalbestyrelsen anviser en ældrebolig, jf. den tidligere lov om boliger for ældre og personer med handicap, jf. lovbekendtgørelse nr. 316 af 24. april 1996, eller en almen bolig, jf. lov om almene boliger m.v., til en person, der er berettiget til boligydelse.«
 
 **9.** I _§ 24 a, stk. 1, nr. 1,_ ændres »et almennyttigt boligselskab, jf. § 2 i lov om boligbyggeri« til: »en almen boligorganisation, jf. § 1 i lov om almene boliger m.v.«
 
@@ -192,7 +192,7 @@ _»Stk. 2._ Den i stk. 1 nævnte grænse finder ikke anvendelse, hvor kommunalbe
 
 **24.** _§ 75 a_ affattes således:
 
-**» § 75 a.** Amtskommunen refunderer kommunens nettoudgifter til boligstøtte til beboere i ældreboliger og almene ældreboliger opført i medfør af § 5 a i den tidligere lov om boliger for ældre og personer med handicap, jf. lovbekendtgørelse nr. 316 af 24. april 1996, henholdsvis § 115, stk. 4, i lov om almene boliger m.v.
+** § 75 a.** Amtskommunen refunderer kommunens nettoudgifter til boligstøtte til beboere i ældreboliger og almene ældreboliger opført i medfør af § 5 a i den tidligere lov om boliger for ældre og personer med handicap, jf. lovbekendtgørelse nr. 316 af 24. april 1996, henholdsvis § 115, stk. 4, i lov om almene boliger m.v.
 
 _Stk. 2._ Tilsvarende refunderes beliggenhedskommunens nettoudgifter til boligstøtte til beboere i ældreboliger og almene ældreboliger af den kommune, der har givet tilsagn om ombygning af et plejehjem til de pågældende boliger efter § 5 b i den tidligere lov om boliger for ældre og personer med handicap eller § 115, stk. 3, i lov om almene boliger m.v.«
 
@@ -260,7 +260,7 @@ I lov om kommunal udligning og generelle tilskud til kommuner og amtskommuner, j
 
 **1.** _§ 20, stk. 2,_ affattes således:
 
-_»Stk. 2._ Til kommunerne i hovedstadsområdet ydes et udligningstilskud svarende til kommunernes nettoudgifter til individuel boligstøtte m.v. i henhold til lov om individuel boligstøtte og en nærmere andel af visse kommunale nettoudgifter i henhold til den tidligere lov om boligbyggeri, jf. lovbekendtgørelse nr. 722 af 1. august 1996, lov om almene boliger m.v., lov om byfornyelse og boligforbedring og den tidligere lov om boliger for ældre og personer med handicap, jf. lovbekendtgørelse nr. 316 af 24. april 1996. Samtlige kommuner i hovedstadsområdet bidrager til det årlige tilskud i forhold til den enkelte kommunes andel af det samlede kommunale beskatningsgrundlag i hovedstadsområdet.«
+_Stk. 2._ Til kommunerne i hovedstadsområdet ydes et udligningstilskud svarende til kommunernes nettoudgifter til individuel boligstøtte m.v. i henhold til lov om individuel boligstøtte og en nærmere andel af visse kommunale nettoudgifter i henhold til den tidligere lov om boligbyggeri, jf. lovbekendtgørelse nr. 722 af 1. august 1996, lov om almene boliger m.v., lov om byfornyelse og boligforbedring og den tidligere lov om boliger for ældre og personer med handicap, jf. lovbekendtgørelse nr. 316 af 24. april 1996. Samtlige kommuner i hovedstadsområdet bidrager til det årlige tilskud i forhold til den enkelte kommunes andel af det samlede kommunale beskatningsgrundlag i hovedstadsområdet.«
 
 **2.** I _§ 25, stk. 3,_ ændres »lov om boliger for ældre og personer med handicap« til: »lov om almene boliger m.v.«
 
@@ -298,7 +298,7 @@ I realkreditloven, jf. lovbekendtgørelse nr. 924 af 23. oktober 1996, foretages
 
 **1.** Overskriften til _§ 30_ affattes således:
 
-_»Alment boligbyggeri«._
+_Alment boligbyggeri«._
 
 **2.** I _§ 30, stk. 1_ , ændres »stk. 2-6« til: »stk. 2-7«.
 
@@ -308,7 +308,7 @@ _»Alment boligbyggeri«._
 
 **5.** I _§ 30_ indsættes efter stk. 4 som nyt stykke:
 
-_»Stk. 5._ Til nedsættelse af beboerindskud i tidligere lette kollektivboliger, jf. § 73, stk. 2, i lov om almene boliger m.v., kan ydes indekslån, type IS, mod garanti fra kommunalbestyrelsen for hele lånet. Den maksimale løbetid er 50 år.«
+_Stk. 5._ Til nedsættelse af beboerindskud i tidligere lette kollektivboliger, jf. § 73, stk. 2, i lov om almene boliger m.v., kan ydes indekslån, type IS, mod garanti fra kommunalbestyrelsen for hele lånet. Den maksimale løbetid er 50 år.«
 
 _Stk. 5_ og 6 bliver herefter stk. 6 og 7.
 

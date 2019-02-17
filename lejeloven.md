@@ -6,111 +6,60 @@ title: Lejeloven
 
 
 
-### ### Kapitel I
+### Kapitel I Lovens anvendelsesområde
 
-Lovens anvendelsesområde
+### Kapitel II Lejeaftalen
 
-### ### Kapitel II
+### Kapitel III Mangler ved det lejede
 
-Lejeaftalen
+### Kapitel IV Vedligeholdelse
 
-### ### Kapitel III
+### Kapitel V Lejerens brug af det lejede
 
-Mangler ved det lejede
-
-### ### Kapitel IV
-
-Vedligeholdelse
-
-### ### Kapitel V
-
-Lejerens brug af det lejede
-
-### ### Kapitel VI
+### Kapitel VI
 
 Betaling af leje
 
-### ### Kapitel VII
+### Kapitel VII Betaling for temperaturregulering, vand og el
 
-Betaling for temperaturregulering, vand og el
+### Kapitel VII A Lejerens betaling til fællesantenne og adgang til elektroniske kommunikationstjenester m.v.
 
-### ### Kapitel VII A
+### Kapitel VII B (Ophævet)
 
-Lejerens betaling til fællesantenne og adgang til elektroniske kommunikationstjenester m.v.
+### Kapitel VII C (Ophævet)
 
-### ### Kapitel VII B
+### Kapitel VIII Ændring af lejevilkår
 
-(Ophævet)
+### Kapitel VIII A Lejefastsættelse for indeksfinansieret boligbyggeri
 
-### ### Kapitel VII C
+### Kapitel IX Udlejerens adgang til det lejede
 
-(Ophævet)
+### Kapitel X Forbedringer m.v.
 
-### ### Kapitel VIII
+### Kapitel X A Konto for forbedringer i Grundejernes Investeringsfond
 
-Ændring af lejevilkår
+### Kapitel XI Beboerrepræsentation
 
-### ### Kapitel VIII A
+### Kapitel XII Brugsrettens overgang til andre (Fremleje, bytte m.v.)
 
-Lejefastsættelse for indeksfinansieret boligbyggeri
+### Kapitel XII A Behandling af sager ved huslejenævnene om lejerens tilsidesættelse af god skik og orden
 
-### ### Kapitel IX
+### Kapitel XIII Opsigelse
 
-Udlejerens adgang til det lejede
+### Kapitel XIV Udlejerens ret til at hæve lejeaftalen
 
-### ### Kapitel X
+### Kapitel XV Lejeres fraflytning
 
-Forbedringer m.v.
+### Kapitel XVI Tilbudspligt
 
-### ### Kapitel X A
+### Kapitel XVII (Ophævet)
 
-Konto for forbedringer i Grundejernes Investeringsfond
+### Kapitel XVIII Huslejenævn og boligret
 
-### ### Kapitel XI
+### Kapitel XVIII A Frakendelse af retten til at administrere udlejningsejendomme
 
-Beboerrepræsentation
+### Kapitel XIX Lovens ikrafttræden m.v.
 
-### ### Kapitel XII
-
-Brugsrettens overgang til andre (Fremleje, bytte m.v.)
-
-### ### Kapitel XII A
-
-Behandling af sager ved huslejenævnene om lejerens tilsidesættelse af god skik og orden
-
-### Kapitel XIII
-
-Opsigelse
-
-### Kapitel XIV
-
-Udlejerens ret til at hæve lejeaftalen
-
-### Kapitel XV
-
-Lejeres fraflytning
-
-### Kapitel XVI
-
-Tilbudspligt
-
-### Kapitel XVII
-
-(Ophævet)
-
-### Kapitel XVIII
-
-Huslejenævn og boligret
-
-### Kapitel XVIII A
-
-Frakendelse af retten til at administrere udlejningsejendomme
-
-### Kapitel XIX
-
-Lovens ikrafttræden m.v.
-
-**Den fulde tekst**
 
 Bekendtgørelse af lov om leje
 
