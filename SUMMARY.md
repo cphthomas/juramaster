@@ -30,8 +30,8 @@ Erhvervs- og finansjura
 * [23 De finansielle tvistløsningsorganer](23-de-finansielle-tvistløsningsorganer.md)
 
 
-### Lovsamling
-* [Aftaleloven](aftaleloven-2.md)
+### [Lovsamlinger](lovsamlinger.md) 
+<!-- * [Aftaleloven](aftaleloven-2.md)
 * [Arveloven](arvelov.md)
 * [Betalingsloven](betalingsloven.md)
 * [Checkloven](checkloven.md)
@@ -53,7 +53,7 @@ Erhvervs- og finansjura
 * [Markedsføringsloven](markedsføringsloven.md)
 * [Selskabsloven](selskabsloven.md)
 * [Tinglysningsloven](tinglysningsloven.md)
-* [Værgemålsloven](værgemålsloven.md)
+* [Værgemålsloven](værgemålsloven.md) -->
 * [www.tepedu.dk](https://www.tepedu.dk)
 
 
