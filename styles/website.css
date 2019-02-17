@@ -246,6 +246,27 @@ details[open] summary {
 summary{outline:none;} 
 
 
+
+turquoise = hsl(171, 100%, 41%)
+blue = hsl(217, 71%, 53%)
+green = hsl(141, 71%, 48%)
+yellow = hsl(48, 100%, 67%)
+red = hsl(348, 100%, 61%)
+
+colors = {
+  'is-primary': turquoise,
+  'is-info': blue,
+  'is-success': green,
+  'is-warning': yellow,
+  'is-danger': red
+}
+
+.content blockquote
+  for key, value in colors
+    &.{key}
+      background-color: lighten(value, 85%)
+      border-color: lighten(value, 20%)
+      
 /*
 
 summary::-webkit-details-marker {
