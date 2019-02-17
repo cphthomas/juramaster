@@ -232,7 +232,7 @@ Stk. 2. Det samme gælder om de meddelelser fra sælgeren, som omhandles i §§ 
 
 ### Om betydningen af visse salgsklausuler
 
-§ 62. Er en vare solgt »frit ombord« (fob) på et angivet sted, har køberen at befragte skib eller betinge skibsrum til varens befordring fra dette sted.
+§ 62. Er en vare solgt frit ombord (fob) på et angivet sted, har køberen at befragte skib eller betinge skibsrum til varens befordring fra dette sted.
 
 Stk. 2. Sælgeren har at besørge og bekoste varens forsendelse til afskibningsstedet og at træffe de foranstaltninger med hensyn til dens indladning, som ifølge der gældende lov eller sædvane påhviler en aflader.
 
@@ -244,7 +244,7 @@ Stk. 5. Den omstændighed, at køberen har befragtet skib eller betinget skibsru
 
 Stk. 6. Køberen er, selv om der ikke er truffet særlig aftale derom, pligtig at betale mod konnossement overensstemmende med, hvad der er bestemt i § 71.
 
-§ 63. Er en vare solgt »fragtfrit« (cost and freight, c & f, c f), har sælgeren at besørge og bekoste dens forsendelse til bestemmelsesstedet.
+§ 63. Er en vare solgt fragtfrit (cost and freight, c & f, c f), har sælgeren at besørge og bekoste dens forsendelse til bestemmelsesstedet.
 
 Stk. 2. Faren går over på køberen, såsnart varen overensstemmende med de i § 10 givne regler er overgivet til en fragtføring eller bragt inden for skibssiden.
 
@@ -254,33 +254,33 @@ Stk. 4. Køberen er, selv om der ikke er truffet særlig aftale derom, pligtig a
 
 Stk. 5. Køberen har, selv om købesummen ikke er forfaldet til betaling ved varens fremkomst, at betale den fragt, som ikke er erlagt af sælgeren, mod fradrag i købesummen, men uden godtgørelse for rente.
 
-§ 64. Er en vare solgt »cif« (cost, insurance freight) eller »caf« (coût, assurance, fret), gælder, hvad der i foregående paragraf er bestemt.
+§ 64. Er en vare solgt cif (cost, insurance freight) eller caf (coût, assurance, fret), gælder, hvad der i foregående paragraf er bestemt.
 
 Stk. 2. Sælgeren har derhos for den del af forsendelsen, under hvilken han ikke bærer faren, for køberen at tegne sædvanemæssig forsikring. Undlader sælgeren at tegne sådan forsikring, uden at købet af den grund hæves, kan køberen kræve erstatning for skade, som måtte følge af undladelsen, eller selv tegne forsikring og afdrage omkostningerne i købesummen.
 
-§ 65. Er en vare solgt »leveret« eller »frit« (franco) på et angivet sted, anses levering ikke for sket, førend varen er kommet frem til dette sted. Sælgeren har således at besørge og bekoste dens forsendelse dertil og bærer under forsendelsen faren.
+§ 65. Er en vare solgt leveret eller frit (franco) på et angivet sted, anses levering ikke for sket, førend varen er kommet frem til dette sted. Sælgeren har således at besørge og bekoste dens forsendelse dertil og bærer under forsendelsen faren.
 
 Stk. 2. Om varen lider af mangler, bedømmes efter dens tilstand ved fremkomsten, ligesom også dens mængde på dette tidspunkt bliver at lægge til grund, såfremt købesummen skal beregnes efter mål, vægt eller tal.
 
-Stk. 3. I sammensætning med »fragtfrit«, »c & f«, »c f«, »cif« eller »caf« har benyttelsen af ordet »leveret« ingen betydning for forståelsen af de nævnte klausuler.
+Stk. 3. I sammensætning med fragtfrit, c & f, c f, cif eller caf har benyttelsen af ordet leveret ingen betydning for forståelsen af de nævnte klausuler.
 
-§ 66. Er en vare købt med sådan angivelse af dens mængde, at der for samme er åbnet et vist spillerum, såsom »cirka«, »fra-til« eller lignende, tilkommer det sælgeren at træffe valget, medmindre det fremgår af omstændighederne, at spillerummet er indrømmet i køberens interesse.
+§ 66. Er en vare købt med sådan angivelse af dens mængde, at der for samme er åbnet et vist spillerum, såsom cirka, fra-til eller lignende, tilkommer det sælgeren at træffe valget, medmindre det fremgår af omstændighederne, at spillerummet er indrømmet i køberens interesse.
 
-Stk. 2. Er betegnelsen »cirka« benyttet, er spillerummet 10 pct. op eller ned for ladning og ellers 5 pct.
+Stk. 2. Er betegnelsen cirka benyttet, er spillerummet 10 pct. op eller ned for ladning og ellers 5 pct.
 
-§ 67. Er der solgt »en ladning«, må sælgeren ikke sende andre varer med samme skib. Sker det, og kan det for køberen medføre ulempe, kan denne hæve købet; enten købet hæves eller ikke, har han ret til skadeserstatning.
+§ 67. Er der solgt en ladning, må sælgeren ikke sende andre varer med samme skib. Sker det, og kan det for køberen medføre ulempe, kan denne hæve købet; enten købet hæves eller ikke, har han ret til skadeserstatning.
 
-§ 68. Er det aftalt, at varen skal leveres eller aftages »i begyndelsen« (»primo«), »i midten« (»medio«) eller »i slutningen« (»ultimo«) af en måned, forstås herved henholdsvis den første til tiende, den ellevte til tyvende og den enogtyvende til sidste dag i måneden.
+§ 68. Er det aftalt, at varen skal leveres eller aftages i begyndelsen (primo), i midten (medio) eller i slutningen (ultimo) af en måned, forstås herved henholdsvis den første til tiende, den ellevte til tyvende og den enogtyvende til sidste dag i måneden.
 
-Stk. 2. Ved køb af værdipapirer betyder »primo« den første søgnedag i måneden, der ikke er en lørdag, »medio« den femtende dag i måneden eller, hvis denne dag falder på en helligdag eller en lørdag, den følgende søgnedag og »ultimo« den sidste søgnedag i måneden, der ikke er en lørdag.
+Stk. 2. Ved køb af værdipapirer betyder primo den første søgnedag i måneden, der ikke er en lørdag, medio den femtende dag i måneden eller, hvis denne dag falder på en helligdag eller en lørdag, den følgende søgnedag og ultimo den sidste søgnedag i måneden, der ikke er en lørdag.
 
-§ 69. Har sælgeren af en vare forpligtet sig til at foretage »afskibning« eller »afladning« inden en vis frist, skal afskibningen eller afladningen anses for at være tilendebragt i rette tid, når varen er indladet inden fristens udløb.
+§ 69. Har sælgeren af en vare forpligtet sig til at foretage afskibning eller afladning inden en vis frist, skal afskibningen eller afladningen anses for at være tilendebragt i rette tid, når varen er indladet inden fristens udløb.
 
 Stk. 2. Er konnossement udfærdiget, og fremgår det ikke af dettes udvisende, at indladningen er sket i rette tid, kan køberen afvise varen.
 
-§ 70. Når »kontant betaling« er aftalt, er køberen pligtig at betale samtidig med, at salgsgenstanden stilles til hans rådighed (jf. §§ 14 og 15).
+§ 70. Når kontant betaling er aftalt, er køberen pligtig at betale samtidig med, at salgsgenstanden stilles til hans rådighed (jf. §§ 14 og 15).
 
-§ 71. Har køberen forpligtet sig til at betale mod konnossement (»kontant mod konnossement« eller lignende) eller til at acceptere veksel mod konnossement, kan han ikke nægte betaling eller accept, fordi den solgte vare ikke endnu er kommet frem, eller han ikke har haft adgang til at undersøge den.
+§ 71. Har køberen forpligtet sig til at betale mod konnossement ( kontant mod konnossement eller lignende) eller til at acceptere veksel mod konnossement, kan han ikke nægte betaling eller accept, fordi den solgte vare ikke endnu er kommet frem, eller han ikke har haft adgang til at undersøge den.
 
 Stk. 2. Når betaling eller accept kræves mod konnossement, må regning på varen være kommet køberen i hænde, hvorhos konnossementet, såfremt sælgeren har påtaget sig varens forsikring, må være ledsaget af forsikringspolice.
 

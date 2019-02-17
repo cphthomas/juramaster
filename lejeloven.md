@@ -16,9 +16,7 @@ title: Lejeloven
 
 ### Kapitel V Lejerens brug af det lejede
 
-### Kapitel VI
-
-Betaling af leje
+### Kapitel VI Betaling af leje
 
 ### Kapitel VII Betaling for temperaturregulering, vand og el
 
@@ -1669,11 +1667,11 @@ Inger Støjberg
 
 **Officielle noter**
 
-1) Ved lov nr. 230 af 2. april 1997 (§ 1, nr. 5) er der fejlagtigt anført »beløbet efter 1. pkt.« i stedet for »beløbet efter 2. pkt.«.
+1) Ved lov nr. 230 af 2. april 1997 (§ 1, nr. 5) er der fejlagtigt anført beløbet efter 1. pkt. i stedet for beløbet efter 2. pkt..
 
 2) Ved § 1, nr. 26, i lov nr. 406 af 31. maj 2000 er det fejlagtigt anført, at stk. 3 bliver stk. 5 i stedet for, at stk. 3 og 4 bliver stk. 5 og 6.
 
-3) Ved lov nr. 310 af 30. marts 2015 (§ 1, nr. 73) er »nr. 3-5« fejlagtigt ændret til »nr. 3-6« i § 113 a, stk. 4, 8. pkt., istedet for i § 113 a, stk. 4, 9. pkt.
+3) Ved lov nr. 310 af 30. marts 2015 (§ 1, nr. 73) er nr. 3-5 fejlagtigt ændret til nr. 3-6 i § 113 a, stk. 4, 8. pkt., istedet for i § 113 a, stk. 4, 9. pkt.
 
 4) Lovændringen vedrører §§ 2, 5, 7, 22, 45, 46, 47, 49, 51, 58, 63 a-h, 76, 77 a, 83, 102, 103 og 115 a.
 
