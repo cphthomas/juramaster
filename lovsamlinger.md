@@ -1,11 +1,11 @@
 ---
 title: Lovsamlinger
 ---
-# Lovsamlinger
+# Lovsamling
 
 * [Aftaleloven](https://www.retsinformation.dk/Forms/R0710.aspx?id=177079)
 * [Arveloven](https://www.retsinformation.dk/Forms/R0710.aspx?id=2664)
-* [Betalingsloven](betalingsloven.md)
+* [Betalingsloven](https://www.retsinformation.dk/Forms/R0710.aspx?id=131457)
 * [Checkloven](checkloven.md)
 * [Datasammenskrivning-af-kong-christian-den-femtis-danske-lov](datasammenskrivning-af-kong-christian-den-femtis-danske-lov-1-2.md)
 * [E-handelsloven](e-handelsloven.md)
