@@ -39,9 +39,9 @@ As Kanye West said:
 <img src="media/wine.png" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-An image: ![wine1](images/wine.png)
+An image images/wine.png: ![wine1](images/wine.png)
 
-An image: ![wine2](media/wine.png)
+An image media/wine.png: ![wine2](media/wine.png)
 
 
 
