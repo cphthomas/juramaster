@@ -88,10 +88,10 @@ A blockquote is started using the > marker followed by an optional space; all fo
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote: the present is our past. the present is our past.  
 
 
-### [II. Om fuldmagt]  {#fuldmagt}
-### [III. Om ugyldige viljeserklæringer] {#viljeserklæringer}
-### [IV. Særlige regler om forbrugeraftaler] {#forbrugeraftaler}
-### [V. Almindelige bestemmelser] {#bestemmelser}
+### II. Om fuldmagt  {#fuldmagt}
+### III. Om ugyldige viljeserklæringer {#viljeserklæringer}
+### IV. Særlige regler om forbrugeraftaler {#forbrugeraftaler}
+### V. Almindelige bestemmelser {#bestemmelser}
 
 are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 
