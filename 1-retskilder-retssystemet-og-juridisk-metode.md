@@ -85,21 +85,6 @@ A blockquote is started using the > marker followed by an optional space; all fo
 ### V. Almindelige bestemmelser {#bestemmelser}
 
 
-- lorem = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fringilla vel lacus vel blandit. Sed sollicitudin tempus libero, a faucibus ligula pretium quis. Sed porttitor rutrum enim, et condimentum metus finibus vel.'
-
-.section: .container.content    
-  blockquote
-    = lorem
-  blockquote.is-primary
-    = lorem
-  blockquote.is-info
-    = lorem
-  blockquote.is-success
-    = lorem
-  blockquote.is-warning
-    = lorem
-  blockquote.is-danger
-    = lorem
 
 
 
