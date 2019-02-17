@@ -35,6 +35,16 @@ As Kanye West said:
 > We're living the future so  A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:A blockquote is started using the > marker followed by an optional space; all following lines that 
 > 
 
+
+<img src="media/wine.png" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+An image: ![wine1](images/wine.png)
+
+An image: ![wine2](media/wine.png)
+
+
+
 are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
