@@ -123,7 +123,32 @@ the present is our past.
 are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote: the present is our past. the present is our past.  
+<details> 
+  <summary>Spørgsmål deskriptiv statistik</summary>
+  **1.** Hvad bliver medianen for datasættet {2,5,2,5,3,4}?  
+**2.** Hvad bliver 25% fraktilen for datasættet {2,5,2,5,3,4}?  
+**3.** Hvad bliver 1. kvartil for datasættet {2,5,2,5,3,4}?  
+**4.** Hvad bliver 2. kvartil for datasættet {2,5,2,5,3,4}?  
+**5.** Hvad bliver 0.75 fraktilen for datasættet {2,5,2,5,3,4}?  
+**6.** Du er nystartet porteføljeforvalter i private banking afdelingen i en større bank, du forestår forvaltningen af 10 kunders formuer. I antal tusinde kroner udgør porteføljerne: {344,421,293,459,228,391,375,377,318,428}. Du er fredag aften på Victor i dit Tiger suit. Under cocktails i baren falder du i snak med en ældre svensk mand, Ingvar Kamprad. Han er meget imponeret over dine prognoser og investeringsforslag. Mandag morgen kontakter en af hans medarbejdere dig, Ingvar Kamprad ønsker du skal forvalte en formue på 2 mia. kr. altså 2.000.000 tusinde kr. for ham. 
+Hvorledes vil du bedst beskrive din typiske klient ved medianen eller middelværdien?  
 
+
+</details>  
+<br>
+<details> 
+  <summary> Svar deskriptiv statistik </summary>
+  **1.** Det ordnede datasæt bliver: {2,2,3,4,5,5}. Der er 2 midterste observationer 3 og 4, {2,2,**3**,**4**,5,5}, gennemsnittet af disse er 3.5
+Medianen bliver altså 3.5  
+**2.** Det ordnede datasæt bliver: {2,2,3,4,5,5}. 25% fraktilen bliver {2,**2**,3,4,5,5}  
+**3.** Det ordnede datasæt bliver: {2,2,3,4,5,5}. 1. kvartil bliver {2,**2**,3,4,5,5}  
+**4.** Det ordnede datasæt bliver: {2,2,3,4,5,5}. 2. kvartil bliver {2,2,**3**,**4**,5,5} $\frac{3+4}{2}=3.5$  
+**5.** Det ordnede datasæt bliver: {2,2,3,4,5,5}. 0.75 fraktilen bliver {2,2,3,4,**5**,5}  
+**6.** Middelværdi og median for den gamle portefølje er henholdsvis `r prettyNum(mean(oldport),big.mark=" ",scientific=FALSE)` og `r prettyNum(median(oldport),big.mark=" ",scientific=FALSE)`.
+Middelværdi og median for den ny portefølje er henholdsvis `r prettyNum(round(mean(newport),3),big.mark = " ")` og `r prettyNum(median(newport),big.mark = " ")`.  
+Den gennemsnitlige porteføljeværdi, er steget voldsomt efter den nye superklient, men den typiske klient beskrives her bedst ved medianen. Dette skyldes medianen ikke påvirkes væsentligt af denne nye store kunde, vi kan kalde denne observation for en outlier. Medianen er altså mere stabil overfor outliers i forhold til middelværdien.
+
+</details>
 are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 
 [^2]: Comment to include in footnote.
