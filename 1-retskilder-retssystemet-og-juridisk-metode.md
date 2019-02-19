@@ -35,6 +35,10 @@ Then, anywhere in the document, you define your link label like this, on a line 
 
 https://www.tryinteract.com/share/quiz/5c6b329e1db3ce0014ab1190
 
+
+https://www.opinionstage.com/template/how-well-do-you-know-the-gold-standard
+
+
 Bekendtgørelse af lov om aftaler og andre retshandler på formuerettens område
 
 <script type="text/javascript">
@@ -55,6 +59,11 @@ Herved bekendtgøres lov om aftaler og andre retshandler på formuerettens områ
 Orley Ashenfelter en Princeton økonom udviklede i 1980'erne en statistik model til forudsigelse af vinpriser baseret på nedbør, solskinstimer og andre klimadata. Hele den etablerede vinverden var i oprør, ved en præsentation i Christie's vinafdeling, blev han buhet ud. Robert Parker den verdenskendte vinkender udtalte "Det svarer til en filmanmelder der ikke ser filmen, men udelukkende baserer sin anmeldelse på instruktøren og skuespilleren". Orley udtalte, lang tid før det var muligt for vinseksperterne, at 1989 Bordeux ville blive århundredets vin, uanset den kun havde ligget 3 måneder på fade. Flere analyser har siden vist Orleys model er langt mere præcis eksperterne. Meget få vinkendere har anerkendt kvaliteten af Orleys model, men deres forecasts ligger nu langt tættere på modellens forudsigelser.
 
 </div>
+
+
+
+<iframe width="660" height="515" src="https://derbyware.com/embed/test.xhtml?id=539" frameborder="0"></iframe>
+
 
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 
