@@ -12,6 +12,21 @@ Then, anywhere in the document, you define your link label like this, on a line 
 
 [id]: http://example.com/  "Optional Title Here"
 
+
+<script type="text/javascript">
+  (function(i,n,t,e,r,a,c){i['InteractPromotionObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=n.createElement(t),
+  c=n.getElementsByTagName(t)[0];a.async=1;a.src=e;c.parentNode.insertBefore(a,c)
+  })(window,document,'script','https://i.tryinteract.com/promotions/init.js','i_promo');
+  i_promo('init', 'fvc4m8c3J');
+</script>
+
+<div id="interact-5c6b329e1db3ce0014ab1190"></div><script type="text/javascript">var app_5c6b329e1db3ce0014ab1190;(function(d, t){var s=d.createElement(t),options={"appId":"5c6b329e1db3ce0014ab1190","aspect_ratio":"100%","async":true,"host":"quiz.tryinteract.com","footer":"show"};s.src='https://i.tryinteract.com/embed/app.js';s.onload=s.onreadystatechange=function(){var rs=this.readyState;if(rs)if(rs!='complete')if(rs!='loaded')return;try{app_5c6b329e1db3ce0014ab1190=new InteractApp();app_5c6b329e1db3ce0014ab1190.initialize(options);app_5c6b329e1db3ce0014ab1190.display();}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr);})(document,'script');</script>
+
+
+
+<div class="interact_responsive_padding" style="padding:100% 0 0 0;position:relative;margin-bottom:5px;"><div class="interact_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe id="interactApp5c6b329e1db3ce0014ab1190" width="100%" height="100%" style="border:none;max-width:100%;margin:0;" allowTransparency="true" frameborder="0" src="https://quiz.tryinteract.com/#/5c6b329e1db3ce0014ab1190?method=iframe"></iframe></div></div>
+
 ### [I. Om afslutning af aftaler](#afslutning)  
 ### [II. Om fuldmagt](#fuldmagt)  
 ### [III. Om ugyldige viljeserklæringer](#viljeserklæringer)  	
