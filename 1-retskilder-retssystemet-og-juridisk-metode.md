@@ -33,6 +33,8 @@ Bekendtgørelse af lov om aftaler og andre retshandler på formuerettens område
 Herved bekendtgøres lov om aftaler og andre retshandler på formuerettens område, jf. lovbekendtgørelse nr. 781 af 26. august 1996, med de ændringer, der følger af § 2 i lov nr. 1376 af 28. december 2011 og § 15 i lov nr. 1565 af 15. december 2015.
 
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScXyOl8sLMrssoTW74etKXlmZLdtxpk43JGtu_IiTtRsktAkQ/viewform?embedded=true" width="640" height="567" frameborder="0" marginheight="0" marginwidth="0">Indlæser...</iframe>
+
 <div class="Keats">
 <img src="media/gavel.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Orley Ashenfelter en Princeton økonom udviklede i 1980'erne en statistik model til forudsigelse af vinpriser baseret på nedbør, solskinstimer og andre klimadata. Hele den etablerede vinverden var i oprør, ved en præsentation i Christie's vinafdeling, blev han buhet ud. Robert Parker den verdenskendte vinkender udtalte "Det svarer til en filmanmelder der ikke ser filmen, men udelukkende baserer sin anmeldelse på instruktøren og skuespilleren". Orley udtalte, lang tid før det var muligt for vinseksperterne, at 1989 Bordeux ville blive århundredets vin, uanset den kun havde ligget 3 måneder på fade. Flere analyser har siden vist Orleys model er langt mere præcis eksperterne. Meget få vinkendere har anerkendt kvaliteten af Orleys model, men deres forecasts ligger nu langt tættere på modellens forudsigelser.
