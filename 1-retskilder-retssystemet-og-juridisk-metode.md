@@ -2,6 +2,8 @@
 title: '1 Retskilder, retssystemet og juridisk metode'
 ---
 
+<div class="typeform-widget" data-url="https://thomas659.typeform.com/to/En73DW" data-transparency="61" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=En73DW&utm_source=typeform.com-10963331-Basic&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
+
 
 
 # 1 Retskilder, retssystemet og juridisk metode
@@ -82,6 +84,8 @@ are also started with the blockquote marker belong to the blockquote. You can us
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 
+<a class="typeform-share button" href="https://thomas659.typeform.com/to/En73DW" data-mode="popup" style="display:inline-block;text-decoration:none;background-color:#0B7DFF;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:20px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:12px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" target="_blank">Start quiz </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+
 the present is our past.  
 are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
@@ -136,7 +140,7 @@ A blockquote is started using the > marker followed by an optional space; all fo
 ### V. Almindelige bestemmelser {#bestemmelser}
 
 
-
+<html> <head> <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"> <title>Personality Quiz (copy)</title> <style type="text/css"> html{ margin: 0; height: 100%; overflow: hidden; } iframe{ position: absolute; left:0; right:0; bottom:0; top:0; border:0; } </style> </head> <body> <iframe id="typeform-full" width="100%" height="100%" frameborder="0" src="https://thomas659.typeform.com/to/En73DW"></iframe> <script type="text/javascript" src="https://embed.typeform.com/embed.js"></script> </body> </html>
 
 the present is our past.  
 are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
