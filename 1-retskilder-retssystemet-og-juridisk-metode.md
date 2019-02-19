@@ -2,102 +2,7 @@
 title: '1 Retskilder, retssystemet og juridisk metode'
 ---
 
-<script type="text/javascript">
-	
-	var Quiz = function(){
-  var self = this;
-  this.init = function(){
-    self._bindEvents();
-  }
-  
-  this.correctAnswers = [
-    { question: 1, answer: 'a' },
-    { question: 2, answer: 'b' },
-    { question: 3, answer: 'd' },
-    { question: 4, answer: 'c' },
-    { question: 5, answer: 'd' },
-    { question: 6, answer: 'b' },
-  ]
-  
-  this._pickAnswer = function($answer, $answers){
-    $answers.find('.quiz-answer').removeClass('active');
-    $answer.addClass('active');
-  }
-  this._calcResult = function(){
-    var numberOfCorrectAnswers = 0;
-    $('ul[data-quiz-question]').each(function(i){
-      var $this = $(this),
-          chosenAnswer = $this.find('.quiz-answer.active').data('quiz-answer'),
-          correctAnswer;
-      
-      for ( var j = 0; j < self.correctAnswers.length; j++ ) {
-        var a = self.correctAnswers[j];
-        if ( a.question == $this.data('quiz-question') ) {
-          correctAnswer = a.answer;
-        }
-      }
-      
-      if ( chosenAnswer == correctAnswer ) {
-        numberOfCorrectAnswers++;
-        
-        // highlight this as correct answer
-        $this.find('.quiz-answer.active').addClass('correct');
-      }
-      else {
-        $this.find('.quiz-answer[data-quiz-answer="'+correctAnswer+'"]').addClass('correct');
-        $this.find('.quiz-answer.active').addClass('incorrect');
-      }
-    });
-    if ( numberOfCorrectAnswers < 3 ) {
-      return {code: 'bad', text: 'Poor spelling skills'};
-    }
-    else if ( numberOfCorrectAnswers == 3 || numberOfCorrectAnswers == 4 ) {
-      return {code: 'mid', text: 'Moderate spelling skills'};
-    }
-    else if ( numberOfCorrectAnswers > 4 ) {
-      return {code: 'good', text: 'Good spelling skills'};
-    }
-  }
-  this._isComplete = function(){
-    var answersComplete = 0;
-    $('ul[data-quiz-question]').each(function(){
-      if ( $(this).find('.quiz-answer.active').length ) {
-        answersComplete++;
-      }
-    });
-    if ( answersComplete >= 6 ) {
-      return true;
-    }
-    else {
-      return false;
-    }
-  }
-  this._showResult = function(result){
-    $('.quiz-result').addClass(result.code).html(result.text);
-  }
-  this._bindEvents = function(){
-    $('.quiz-answer').on('click', function(){
-      var $this = $(this),
-          $answers = $this.closest('ul[data-quiz-question]');
-      self._pickAnswer($this, $answers);
-      if ( self._isComplete() ) {
-        
-        // scroll to answer section
-        $('html, body').animate({
-          scrollTop: $('.quiz-result').offset().top
-        });
-        
-        self._showResult( self._calcResult() );
-        $('.quiz-answer').off('click');
-        
-      }
-    });
-  }
-}
-var quiz = new Quiz();
-quiz.init();
 
-</script>
 
 # 1 Retskilder, retssystemet og juridisk metode
 
@@ -117,58 +22,13 @@ Then, anywhere in the document, you define your link label like this, on a line 
 
 Bekendtgørelse af lov om aftaler og andre retshandler på formuerettens område
 
-<div class="quiz">
-  
-  <h2 class="quiz-question">Q1: How do you spell "Red"?</h2>
-  <ul data-quiz-question="1">
-    <li class="quiz-answer" data-quiz-answer="a">a. Red</li>
-    <li class="quiz-answer" data-quiz-answer="b">b. Reed</li>
-    <li class="quiz-answer" data-quiz-answer="c">c. Req</li>
-    <li class="quiz-answer" data-quiz-answer="d">d. Sed</li>
-  </ul>
-  
-  <h2 class="quiz-question">Q2: How do you spell "Green"?</h2>
-  <ul data-quiz-question="2">
-    <li class="quiz-answer" data-quiz-answer="a">a. Greeen</li>
-    <li class="quiz-answer" data-quiz-answer="b">b. Green</li>
-    <li class="quiz-answer" data-quiz-answer="c">c. Gren</li>
-    <li class="quiz-answer" data-quiz-answer="d">d. Grenn</li>
-  </ul>
-  
-  <h2 class="quiz-question">Q3: How do you spell "Blue"?</h2>
-  <ul data-quiz-question="3">
-    <li class="quiz-answer" data-quiz-answer="a">a. Bluue</li>
-    <li class="quiz-answer" data-quiz-answer="b">b. Bluee</li>
-    <li class="quiz-answer" data-quiz-answer="c">c. Btue</li>
-    <li class="quiz-answer" data-quiz-answer="d">d. Blue</li>
-  </ul>
-  
-  <h2 class="quiz-question">Q4: How do you spell "HTML"?</h2>
-  <ul data-quiz-question="4">
-    <li class="quiz-answer" data-quiz-answer="a">a. MLTH</li>
-    <li class="quiz-answer" data-quiz-answer="b">b. LMTH</li>
-    <li class="quiz-answer" data-quiz-answer="c">c. HTML</li>
-    <li class="quiz-answer" data-quiz-answer="d">d. HMTL</li>
-  </ul>
-  
-  <h2 class="quiz-question">Q5: How do you spell "CSS"?</h2>
-  <ul data-quiz-question="5">
-    <li class="quiz-answer" data-quiz-answer="a">a. ASS</li>
-    <li class="quiz-answer" data-quiz-answer="b">b. CAA</li>
-    <li class="quiz-answer" data-quiz-answer="c">c. ASA</li>
-    <li class="quiz-answer" data-quiz-answer="d">d. CSS</li>
-  </ul>
-  
-  <h2 class="quiz-question">Q6: How do you spell "JavaScript"?</h2>
-  <ul data-quiz-question="6">
-    <li class="quiz-answer" data-quiz-answer="a">a. ScriptJava</li>
-    <li class="quiz-answer" data-quiz-answer="b">b. JavaScript</li>
-    <li class="quiz-answer" data-quiz-answer="c">c. JabaHutt</li>
-    <li class="quiz-answer" data-quiz-answer="d">d. jQuery</li>
-  </ul>
-</div>
-
-<div class="quiz-result"></div>
+<script type="text/javascript">
+  (function(i,n,t,e,r,a,c){i['InteractPromotionObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=n.createElement(t),
+  c=n.getElementsByTagName(t)[0];a.async=1;a.src=e;c.parentNode.insertBefore(a,c)
+  })(window,document,'script','https://i.tryinteract.com/promotions/init.js','i_promo');
+  i_promo('init', 'fvc4m8c3J');
+</script>
 
 Herved bekendtgøres lov om aftaler og andre retshandler på formuerettens område, jf. lovbekendtgørelse nr. 781 af 26. august 1996, med de ændringer, der følger af § 2 i lov nr. 1376 af 28. december 2011 og § 15 i lov nr. 1565 af 15. december 2015.
 
