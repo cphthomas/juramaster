@@ -90,6 +90,20 @@ A blockquote is started using the > marker followed by an optional space; all fo
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote: the present is our past.  
 
+
+<script type="text/javascript">
+(function(d, s, id){
+  var js,
+      fjs = d.getElementsByTagName(s)[0],
+      r = Math.floor(new Date().getTime() / 1000000);
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id; js.async=1;
+  js.src = "https://www.opinionstage.com/assets/loader.js?" + r;
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'os-widget-jssdk'));
+</script><div class="os_widget" data-of="thomas44" data-path="/thomas44/how-knowledgeable-are-you-in-social-media-p%C3%A5" id="os-widget-506556"></div>
+
+
 Three or more...
 
 ---
