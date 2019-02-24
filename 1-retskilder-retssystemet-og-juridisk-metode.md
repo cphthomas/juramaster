@@ -2,32 +2,15 @@
 title: '1 Retskilder, retssystemet og juridisk metode'
 ---
 
-<div class="typeform-widget" data-url="https://thomas659.typeform.com/to/En73DW" data-transparency="61" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=En73DW&utm_source=typeform.com-10963331-Basic&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
+
+
+
 
 
 
 # 1 Retskilder, retssystemet og juridisk metode
 
 
-This is [an example][id] reference-style link.
-Then, anywhere in the document, you define your link label like this, on a line by itself:
-
-[id]: http://example.com/  "Optional Title Here"
-
-
-<script type="text/javascript">
-  (function(i,n,t,e,r,a,c){i['InteractPromotionObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=n.createElement(t),
-  c=n.getElementsByTagName(t)[0];a.async=1;a.src=e;c.parentNode.insertBefore(a,c)
-  })(window,document,'script','https://i.tryinteract.com/promotions/init.js','i_promo');
-  i_promo('init', 'fvc4m8c3J');
-</script>
-
-<div id="interact-5c6b329e1db3ce0014ab1190"></div><script type="text/javascript">var app_5c6b329e1db3ce0014ab1190;(function(d, t){var s=d.createElement(t),options={"appId":"5c6b329e1db3ce0014ab1190","aspect_ratio":"100%","async":true,"host":"quiz.tryinteract.com","footer":"show"};s.src='https://i.tryinteract.com/embed/app.js';s.onload=s.onreadystatechange=function(){var rs=this.readyState;if(rs)if(rs!='complete')if(rs!='loaded')return;try{app_5c6b329e1db3ce0014ab1190=new InteractApp();app_5c6b329e1db3ce0014ab1190.initialize(options);app_5c6b329e1db3ce0014ab1190.display();}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr);})(document,'script');</script>
-
-
-
-<div class="interact_responsive_padding" style="padding:100% 0 0 0;position:relative;margin-bottom:5px;"><div class="interact_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe id="interactApp5c6b329e1db3ce0014ab1190" width="100%" height="100%" style="border:none;max-width:100%;margin:0;" allowTransparency="true" frameborder="0" src="https://quiz.tryinteract.com/#/5c6b329e1db3ce0014ab1190?method=iframe"></iframe></div></div>
 
 ### [I. Om afslutning af aftaler](#afslutning)  
 ### [II. Om fuldmagt](#fuldmagt)  
@@ -35,26 +18,23 @@ Then, anywhere in the document, you define your link label like this, on a line 
 ### [IV. Særlige regler om forbrugeraftaler](#forbrugeraftaler)	  
 ### [V. Almindelige bestemmelser](#bestemmelser)  	
 
-https://www.tryinteract.com/share/quiz/5c6b329e1db3ce0014ab1190
 
 
-https://www.opinionstage.com/template/how-well-do-you-know-the-gold-standard
+
+
 
 
 Bekendtgørelse af lov om aftaler og andre retshandler på formuerettens område
 
-<script type="text/javascript">
-  (function(i,n,t,e,r,a,c){i['InteractPromotionObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=n.createElement(t),
-  c=n.getElementsByTagName(t)[0];a.async=1;a.src=e;c.parentNode.insertBefore(a,c)
-  })(window,document,'script','https://i.tryinteract.com/promotions/init.js','i_promo');
-  i_promo('init', 'fvc4m8c3J');
-</script>
+
+
+
+
 
 Herved bekendtgøres lov om aftaler og andre retshandler på formuerettens område, jf. lovbekendtgørelse nr. 781 af 26. august 1996, med de ændringer, der følger af § 2 i lov nr. 1376 af 28. december 2011 og § 15 i lov nr. 1565 af 15. december 2015.
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScXyOl8sLMrssoTW74etKXlmZLdtxpk43JGtu_IiTtRsktAkQ/viewform?embedded=true" width="640" height="567" frameborder="0" marginheight="0" marginwidth="0">Indlæser...</iframe>
+
 
 <div class="Keats">
 <img src="media/gavel.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -64,7 +44,7 @@ Orley Ashenfelter en Princeton økonom udviklede i 1980'erne en statistik model 
 
 
 
-<iframe width="660" height="515" src="https://derbyware.com/embed/test.xhtml?id=539" frameborder="0"></iframe>
+
 
 
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
@@ -76,7 +56,7 @@ As Kanye West said:
 
 
 
-An image media/wine.png: ![wine2](media/wine.png)
+
 
 
 
@@ -84,28 +64,24 @@ are also started with the blockquote marker belong to the blockquote. You can us
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 
-<a class="typeform-share button" href="https://thomas659.typeform.com/to/En73DW" data-mode="popup" style="display:inline-block;text-decoration:none;background-color:#0B7DFF;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:20px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:12px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" target="_blank">Start quiz </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+
+<iframe name="Framename" src="https://sad-hodgkin-b08e12.netlify.com/" width="100%" height="600" frameborder="0" scrolling="auto" class="frame-area">
+</iframe> 
+
+<iframe name="Framename" src="https://sad-hodgkin-b08e12.netlify.com/quiz2" width="100%" height="700" frameborder="0" scrolling="auto" class="frame-area">
+</iframe> 
+
+
+<iframe name="Framename" src="https://sad-hodgkin-b08e12.netlify.com/quiz3" width="100%" height="800" frameborder="0" scrolling="auto" class="frame-area">
+</iframe> 
 
 the present is our past.  
 are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
->A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote: the present is our past. the present is our past.  
+>A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote: the present is our past. the present is our past. 
 >are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 A blockquote is started using the > marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote: the present is our past.  
-
-
-<script type="text/javascript">
-(function(d, s, id){
-  var js,
-      fjs = d.getElementsByTagName(s)[0],
-      r = Math.floor(new Date().getTime() / 1000000);
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id; js.async=1;
-  js.src = "https://www.opinionstage.com/assets/loader.js?" + r;
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'os-widget-jssdk'));
-</script><div class="os_widget" data-of="thomas44" data-path="/thomas44/how-knowledgeable-are-you-in-social-media-p%C3%A5" id="os-widget-506556"></div>
 
 
 Three or more...
@@ -118,17 +94,6 @@ Hyphens
 
 Asterisks
 
-<script type="text/javascript">
-(function(d, s, id){
-  var js,
-      fjs = d.getElementsByTagName(s)[0],
-      r = Math.floor(new Date().getTime() / 1000000);
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id; js.async=1;
-  js.src = "https://www.opinionstage.com/assets/loader.js?" + r;
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'os-widget-jssdk'));
-</script><div class="os_widget" data-of="thomas44" data-path="/thomas44/how-well-do-you-know-facebook-advertising-p%C3%A5" id="os-widget-506568"></div>
 
 
 Text prior to footnote reference.[^2]
@@ -138,8 +103,6 @@ Text prior to footnote reference.[^note23]
 
 ### I. Om afslutning af aftaler {#afslutning}
 
-
-<img src="media/wine.png" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 
 the present is our past.  
 are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
@@ -153,17 +116,6 @@ A blockquote is started using the > marker followed by an optional space; all fo
 ### V. Almindelige bestemmelser {#bestemmelser}
 
 
-<script type="text/javascript">
-(function(d, s, id){
-  var js,
-      fjs = d.getElementsByTagName(s)[0],
-      r = Math.floor(new Date().getTime() / 1000000);
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id; js.async=1;
-  js.src = "https://www.opinionstage.com/assets/loader.js?" + r;
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'os-widget-jssdk'));
-</script><div class="os_widget" data-of="thomas44" data-path="/thomas44/how-well-do-you-know-facebook-advertising-p%C3%A5" id="os-widget-506568"></div>
 
 
 the present is our past.  
